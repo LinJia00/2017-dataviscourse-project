@@ -1,83 +1,50 @@
 # Project: StartupsVIS
 
-#
-
-1. 1
-# Basic Info
-
+## Basic Info
 
 Title:   StartupsVIS
 
 Groups Members (sort in alphabetical order):
+- Joris Gahéry
+- Lin Jia
+- Yaodong Zhao
 
-                 Joris Gahéry
-
-                 Lin Jia
-
-                 Yaodong Zhao
-
-Project Repo:
-
-1. 2
-# Background and Motivation
+Project Repo: https://github.com/yaodong/2017-dataviscourse-project
 
 
-#
+## Background and Motivation
 
-The idea behind our project is visualizing the startups&#39; features such as location, focused market, employee numbers, stage and total raised money. And though this visualization we intend to present a comparison of the startups which selected based on the features of users interested.  We believe that our project not only can extract fascinating insights and exciting visual effects but also it will be very useful for job finding and recruiting.
-
-1. 3
-# Project Objectives
+Aangelist has [a database of 342 thousands](https://angel.co/companies) startups located in the United States. However, it doesn't provides us any visualization of it. So, our idea is visualizing these startups' features such as location, focused market, employee numbers, stage and total raised money. We believe that our project can not only extract fascinating insights and exciting visual effects but also it will be very useful for market analysis, job finding and recruiting.
 
 
-The aim of this visualization is to provide a user interface to explore the information related to startups.
+## Project Objectives
+
+By this project, we hope to represent users information hidden in the abstract data with appropriate visualization. And, with editable parameters such as filters, we provide user a basic tool to explore the data.
+
+
+## Data
+
+We will obtain our data from [Angelist's Database](https://angel.co/companies) and there is an API for this purpose.
+
+## Data Processing
+
+The data from Angelist is clean. However, we may need to filter out the companies lack the key attributes such as location, the number of employees and market.
+
+## Visualization Design
 
 - It can show a map located these companies which mean it is easy to make the area selection when the users want to find a job.
 - It has several popular markets can be selected, such as education, mobile, healthcare, enterprise software, games, etc. So that gives users a specific career direction.
 - It can search job by role, such as hardware engineer, developer, customer service, human resources, etc.
 - It also can show the scale of a company. This project will contain the features of employee number and the total raised money. It will give users an overall view of the company they are interested in.
 
-1. 4
-# Data
 
 
-We will collect the data from [https://angel.co/?ref=nav](https://angel.co/?ref=nav).
+## Must-Have Features
 
-TODO: how to collect the data?
-
-#
-
-1. 5
-# Data Processing
-
-# TODO
-
-
-1. 6
-# Visualization Design
-
-# TODO
-
-
-#
-
-1. 7
-# Must-Have Features
-
-
-#
-
-1. 8
 # Optional Features
 
 
-#
-
-1. 9
 # Project Schedule
-
-
-#
 
 Week 1(October 27):  Discuss and design the visualization, project proposal due.
 
@@ -90,5 +57,3 @@ Week 4(November 17):
 Week 5(November 24):
 
 Week 6(December 1): Final Project due.
-
-#
