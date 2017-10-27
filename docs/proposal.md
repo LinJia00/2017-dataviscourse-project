@@ -9,7 +9,7 @@ Groups Members (sort in alphabetical order):
 - Lin Jia
 - Yaodong Zhao
 
-Project Repo: https://github.com/yaodong/2017-dataviscourse-project
+Project Repo: https://github.com/LinJia00/2017-dataviscourse-project
 
 
 ## Background and Motivation
@@ -32,28 +32,29 @@ The data from Angelist is clean. However, we may need to filter out the companie
 
 ## Visualization Design
 
-- It can show a map located these companies which mean it is easy to make the area selection when the users want to find a job.
-- It has several popular markets can be selected, such as education, mobile, healthcare, enterprise software, games, etc. So that gives users a specific career direction.
-- It can search job by role, such as hardware engineer, developer, customer service, human resources, etc.
-- It also can show the scale of a company. This project will contain the features of employee number and the total raised money. It will give users an overall view of the company they are interested in.
-
-
 
 ## Must-Have Features
+- Top Market: It has several popular markets can be selected, such as education, mobile, healthcare, enterprise software, games, etc. So that gives users a specific career direction.
+- Location: It can show a map located these companies which mean it is easy to make the area selection when the users want to find a job.
+- Salary: The important factor when people want to find a job.
+- Role: It can search job by role, such as hardware engineer, developer, customer service, human resources, etc.
+- Time transition: It will gives us a overall view of these companies.
 
-# Optional Features
+## Optional Features
+- Total raised money: Some time it doesn't matter for people who want finding a job.
+- Stage(seed, seriesA, seriesB, seriesC): People may not concern about it.
+- Employee Number: The company scale can not represent its good or not.
 
-
-# Project Schedule
+## Project Schedule
 
 Week 1(October 27):  Discuss and design the visualization, project proposal due.
 
-Week 2(November 3): Clean up and sort the dataset, set the skeletal class structure for the interface.
+Week 2(November 3): Peer feedback. Clean up and sort the dataset, set the skeleton of class structure for the interface.
 
-Week 3(November 10): Project milestone due.
+Week 3(November 10): Setup the website. Project milestone due.
 
-Week 4(November 17):
+Week 4(November 17): Finish every single chart.
 
-Week 5(November 24):
+Week 5(November 24): Link well for the every chart connection and transition.
 
 Week 6(December 1): Final Project due.
