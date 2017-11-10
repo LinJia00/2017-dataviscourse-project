@@ -1,5 +1,3 @@
-
-
 let svg = d3.select("svg");
 let width = parseInt(svg.attr("width"));
 let height = parseInt(svg.attr("height"));
