@@ -1,4 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
 
+body {
+    background: #FBF3E7;
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    margin: 10px auto;
+    max-width: 1020px;
+    padding: 0 10px;
+    background: #fff;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+h1.site-title {
+    padding: 10px 0;
+    display: block;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+}
+
+.project-members {
+    text-align: right;
+}
+
+h2.section-title {
+    font-family: 'Monoton', cursive;
+}
 
 /**
 For map path
