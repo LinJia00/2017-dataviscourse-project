@@ -49,19 +49,18 @@ label {
 
 </style>
 <label></label>
-<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="//d3js.org/d3.v4.min.js"></script>
 <script>
 
 var diameter = 750, //max size of the bubbles
-    color    = d3.scale.category20b(); //color category
+    color    = d3.scaleOrdinal(d3.schemeCategory20); //color category
 
 // Define the div for the tooltip
 var div = d3.select("body").append("div")	
     .attr("class", "tooltip")				
     .style("opacity", 0);
 
-var bubble = d3.layout.pack()
-    .sort(null)
+var bubble = d3.pack()
     .size([diameter, diameter])
     .padding(1.5);
 
@@ -75,9 +74,13 @@ d3.csv("data.csv", function(error, data){
 
     //convert numerical values from strings to numbers
     data = data.map(function(d){ d.value = +d["employee"]; return d; });
+    
+	var root = d3.hierarchy({children: data})
+		.sum(function(d) {return d.employee;})
+      	.sort(null);
 
     //bubbles needs very specific format, convert data to this.
-    var nodes = bubble.nodes({children:data}).filter(function(d) { return !d.children; });
+    var nodes = bubble(root).children;
 
     //setup the chart
     var bubbles = svg.append("g")
@@ -96,7 +99,7 @@ d3.csv("data.csv", function(error, data){
             div.transition()		
                 .duration(200)		
                 .style("opacity", .9);		
-            div	.html(d.market)	
+            div	.html(d.data.market)	
                 .style("left", (d3.event.pageX) + "px")		
                 .style("top", (d3.event.pageY - 28) + "px");	
             })					
@@ -111,7 +114,7 @@ d3.csv("data.csv", function(error, data){
         .attr("x", function(d){ return d.x; })
         .attr("y", function(d){ return d.y + 5; })
         .attr("text-anchor", "middle")
-        .text(function(d){if(d.r>32){return d["market"];} })
+        .text(function(d){if(d.r>40){return d.data["market"];} })
         .style({
             "fill":"white", 
             "font-family":"Helvetica Neue, Helvetica, Arial, san-serif",
