@@ -31,19 +31,19 @@ d3.json("us-states.json", function (json) {
 });
 
 
-d3.csv("us-cities.csv", function (data) {
+d3.csv("data/count-by-city.csv", function (data) {
     d3.select("#cityLayer").selectAll("circle")
         .data(data)
         .enter()
         .append("circle")
         .attr("cx", function (d) {
-            return projection([d.lon, d.lat])[0];
+            return projection([parseFloat(d['Lng']), parseFloat(d['Lat'])])[0];
         })
         .attr("cy", function (d) {
-            return projection([d.lon, d.lat])[1];
+            return projection([parseFloat(d['Lng']), parseFloat(d['Lat'])])[1];
         })
         .attr("r", function (d) {
-            return Math.sqrt(parseInt(d.population) * 0.00004);
+            return Math.sqrt(parseInt(d['Count']) * 0.4);
         })
         .style("fill", "steelblue")
         .style("opacity", 0.8);
