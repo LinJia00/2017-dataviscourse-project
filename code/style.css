@@ -4,20 +4,21 @@ html, body {
 }
 
 body {
-    background: #FBF3E7;
+    background: #E9B78B;
     font-family: 'Lato', sans-serif;
 }
 
 .container {
     margin: 10px auto;
     max-width: 1020px;
-    padding: 0 10px;
+    padding: 0;
     background: #fff;
     box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.25);
     border-radius: 4px;
 }
 
 h1.site-title {
+    color: #c44d34;
     padding: 10px 0;
     display: block;
     text-align: center;
@@ -25,7 +26,25 @@ h1.site-title {
 }
 
 .project-members {
-    text-align: right;
+    text-align: center;
+    font-size: 0.8em;
+    background: #FBF3E8;
+    line-height: 2.5em;
+}
+
+.project-members span {
+    margin: 0 5px;
+    color: #555;
+    font-weight: bold;
+}
+
+.project-members span i {
+    color: #777;
+    font-weight: normal;
+}
+
+.section {
+    padding: 10px;
 }
 
 h2.section-title {
