@@ -4,12 +4,16 @@ html, body {
 }
 
 body {
-    background: #E9B78B;
+    background: #29202A;
     font-family: 'Lato', sans-serif;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .container {
-    margin: 10px auto;
+    margin: 50px auto;
     max-width: 1020px;
     padding: 0;
     background: #fff;
@@ -26,6 +30,7 @@ h1.site-title {
 }
 
 .project-members {
+    color: #632F2F;
     text-align: center;
     font-size: 0.8em;
     background: #FBF3E8;
@@ -49,6 +54,10 @@ h1.site-title {
 
 h2.section-title {
     font-family: 'Monoton', cursive;
+}
+
+.footer {
+    text-align: center;
 }
 
 /**
