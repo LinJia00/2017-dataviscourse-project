@@ -1,50 +1,89 @@
-function drawYearMarket(data, markets) {
-    let svg = d3.select('#yearChart svg');
-    let svgDim = {'w': svg.attr('width'), 'h': svg.attr('height')};
+let startYear = 2000;
+let endYear = 2016;
 
-    let startYear = 2000;
-    let endYear = 2016;
+d3.csv('data/count-by-market.csv', (marketCounts) => {
+    marketCounts = marketCounts.sort((x, y) => d3.descending(parseInt(x['Count']), parseInt(y['Count'])));
+    let marketNames = marketCounts.slice(0, 100).map((d) => d['Market Name']);
 
-    data = data.filter((d) => {
-        return markets.indexOf(d['Market Name']) >= 0 && parseInt(d['Year']) >= startYear && parseInt(d['Year']) <= endYear;
+    d3.csv('data/count-by-year-market.csv', (data) => {
+        data = data.map((d) => {
+            return {
+                marketName: d['Market Name'],
+                year: parseInt(d['Year']),
+                count: parseInt(d['Count'])
+            }
+        }).filter((d) => {
+            return marketNames.indexOf(d.marketName) >= 0 && d.year >= startYear && d.year <= endYear;
+        });
+        drawYearMarket(data, marketNames);
     });
+});
+
+function drawYearMarket(data, marketNames) {
+    let svg = d3.select('#yearChart svg');
+
+    let svgDim = {'w': svg.attr('width'), 'h': svg.attr('height')};
+    let lineChartDim = {'w': svgDim['w'] - 300, 'h': svgDim['h'] - 210};
 
     let xAxisScale = d3.scaleLinear()
         .domain([startYear, endYear])
-        .range([30, svgDim['w'] - 30]);
-    let xAxis = d3.axisBottom(xAxisScale);
-    svg.append('g').attr('transform', 'translate(0, ' + svgDim['h'] + ')')
-        .call(xAxis);
+        .range([0, lineChartDim['w']]);
+    let yAxisScale = d3.scaleLinear()
+        .domain([d3.max(data, (d) => d.count), 0])
+        .range([0, lineChartDim['h']]);
 
-    // lines ----------------------------------------------------------------------
-    let maxCount = d3.max(data, (d) => parseInt(d['Count']));
-    let lineXScale = d3.scaleLinear().domain([startYear, endYear]).range([30, svgDim['w'] - 30]);
-    let lineYScale = d3.scaleLinear().domain([maxCount * 1.2, 0]).range([0, svgDim['h']]);
-    let line = d3.line()
-        .x((d) => lineXScale(parseInt(d['Year'])))
-        .y((d) => lineYScale(parseInt(d['Count'])));
+    /**
+     * Lines
+     */
+    let lineColorScale = d3.scaleQuantile()
+        .domain(yAxisScale.domain())
+        .range([
+            '#fef0d9',
+            '#fdd49e',
+            '#fdbb84',
+            '#fc8d59',
+            '#ef6548',
+            '#d7301f',
+            '#990000',
+        ]);
+    let lineGroup = svg.append('g').attr('transform', 'translate(50, 0)');
+    let line = d3.line().x((d) => xAxisScale(d.year)).y((d) => yAxisScale(d.count));
 
+    marketNames.map((market) => {
+        let lineData = data.filter((d) => d.marketName === market)
+            .sort((a, b) => d3.ascending(a.year, b.year));
 
-    markets.map((market) => {
-
-        let dataClean = data.filter((d) => d['Market Name'] === market)
-            .sort((x, y) => d3.ascending(x['Year'], y['Year']));
-
-        svg.append("path")
-            .data([dataClean])
+        lineGroup.append('path').datum(lineData)
             .attr("class", "line")
             .attr('fill', 'none')
-            .attr('stroke', 'steelblue')
-            .attr('stroke-width', 1)
-            .attr("d", line);
-    })
+            .attr('stroke', (d) => {
+                return lineColorScale(d3.max(d, (r) => r.count))
+            })
+            .attr("d", line)
+            .on('mouseover', () => {
+                svg.classed('state-hover-line', true);
+                d3.select(d3.event.target).classed('hover', true);
+            })
+            .on('mouseout', () => {
+                svg.classed('state-hover-line', false);
+                d3.select(d3.event.target).classed('hover', false);
+            });
+    });
 
+    /**
+     * Axis
+     */
+    let xAxis = d3.axisBottom(xAxisScale);
+    svg.append('g').attr('transform', 'translate(50, ' + lineChartDim['h'] + ')')
+        .call(xAxis);
+
+    let yAxis = d3.axisLeft(yAxisScale);
+    svg.append('g').attr('transform', 'translate(50, 0)')
+        .call(yAxis);
+
+    /**
+     * Year counter
+     */
+    
 }
 
-d3.csv('data/count-by-market.csv', (markets) => {
-    markets = markets.sort((x, y) => d3.descending(parseInt(x['Count']), parseInt(y['Count'])));
-    markets = markets.slice(0, 50).map((d) => d['Market Name']);
-    d3.csv('data/count-by-year-market.csv', (data) => {
-        drawYearMarket(data, markets);
-    });
-});

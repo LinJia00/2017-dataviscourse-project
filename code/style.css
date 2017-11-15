@@ -60,36 +60,50 @@ h2.section-title {
     text-align: center;
 }
 
+#yearChart .line {
+    opacity: 0.5;
+    stroke-width: 1;
+}
+
+#yearChart .state-hover-line .line {
+    opacity: 0.1;
+}
+
+#yearChart .line.hover {
+    stroke: #000;
+    opacity: 1;
+}
+
 /**
 For map path
  */
-path {
+#Map path {
     fill: none;
     stroke-width: 1px;
     stroke: #222;
 }
 
-.axis text {
+#Map .axis text {
     font: 10px sans-serif;
 }
 
-.axis path,
-.axis line {
+#Map .axis path,
+#Map .axis line {
     fill: none;
     stroke: #000;
     shape-rendering: crispEdges;
 }
 
-.bar {
+#Map .bar {
     fill: steelblue;
     fill-opacity: .9;
 }
 
-.x.axis path {
+#Map .x.axis path {
     display: none;
 }
 
-div.tooltip {
+#Map div.tooltip {
     position: absolute;
     text-align: center;
     width: 60px;
@@ -102,7 +116,7 @@ div.tooltip {
     pointer-events: none;
 }
 
-label {
+#Map label {
     position: absolute;
     top: 10px;
     right: 10px;
