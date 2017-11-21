@@ -74,6 +74,22 @@ h2.section-title {
     opacity: 1;
 }
 
+#yearChart g.filter-bars text {
+    font-size: 0.7em;
+}
+
+#yearChart g.filter-bars {
+    cursor: pointer;
+}
+
+#yearChart g.filter-bars .hover {
+    color: red;
+}
+
+#yearChart g.filter-bars .hover text {
+    font-weight: bold;
+}
+
 /**
 For map path
  */
