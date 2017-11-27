@@ -27,6 +27,20 @@ function drawLocationChart() {
     });
 
 
+    let radialGradient = d3.select("#cityLayer").append("defs")
+        .append("radialGradient")
+        .attr("id", "radial-gradient");
+
+    radialGradient.append("stop")
+        .attr("offset","0%")
+        .attr("stop-color","steelblue")
+        //.style("opacity", 0.8)
+
+    radialGradient.append("stop")
+        .attr("offset","100%")
+        .attr("stop-color", "#fff")
+        //.style("opacity", 0.1)
+
     d3.csv("data/count-by-city.csv", function (data) {
         d3.select("#cityLayer").selectAll("circle")
             .data(data)
@@ -41,8 +55,8 @@ function drawLocationChart() {
             .attr("r", function (d) {
                 return Math.sqrt(parseInt(d['Count']) * 0.4);
             })
-            .style("fill", "steelblue")
-            .style("opacity", 0.8);
+            .style("fill", "url(#radial-gradient)")
+            .style("opacity", 0.4);
     });
 }
 
