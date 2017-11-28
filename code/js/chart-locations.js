@@ -33,15 +33,19 @@ function drawLocationChart() {
 
     radialGradient.append("stop")
         .attr("offset","0%")
-        .attr("stop-color","steelblue")
+        .attr("stop-color","steelblue");
         //.style("opacity", 0.8)
 
     radialGradient.append("stop")
         .attr("offset","100%")
-        .attr("stop-color", "#fff")
+        .attr("stop-color", "#fff");
         //.style("opacity", 0.1)
 
-    d3.csv("data/count-by-city.csv", function (data) {
+
+    // let div = d3.select("#cityLayer").append("div")
+    //     .attr("class", "tooltip")
+
+    let gradientBubble = d3.csv("data/count-by-city.csv", function (data) {
         d3.select("#cityLayer").selectAll("circle")
             .data(data)
             .enter()
@@ -56,8 +60,31 @@ function drawLocationChart() {
                 return Math.sqrt(parseInt(d['Count']) * 0.4);
             })
             .style("fill", "url(#radial-gradient)")
-            .style("opacity", 0.4);
+            .style("opacity", 0.4)
+
+
     });
+    gradientBubble
+        .on("mouseover", function(d){
+            d3.select("#tooltip")
+                .html(function() {
+                    return "Location: " + "</br>" + " Startups Number: " + d.Count;
+                })
+                .transition()
+                .duration(100)
+                .style("display", "block")
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY - 30) + "px");
+        })
+        .on("mouseout", function(d) {
+            d3.select("#tooltip")
+                .style("display", "none");
+        });
+
+
+
 }
+
+
 
 drawLocationChart();
