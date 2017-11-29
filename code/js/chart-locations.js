@@ -45,7 +45,8 @@ function drawLocationChart() {
     // let div = d3.select("#cityLayer").append("div")
     //     .attr("class", "tooltip")
 
-    let gradientBubble = d3.csv("data/count-by-city.csv", function (data) {
+    //let gradientBubble =
+    d3.csv("data/count-by-city.csv", function (data) {
         d3.select("#cityLayer").selectAll("circle")
             .data(data)
             .enter()
@@ -64,8 +65,13 @@ function drawLocationChart() {
 
 
     });
-    gradientBubble
+    //tooltip and info panel still have problems to show
+    d3.select("#cityLayer").selectAll("circle")
         .on("mouseover", function(d){
+            //d3.select("#location").text(d);\
+            console.log("a");
+            console.log(d);
+            d3.select("#count").text(d.Count);
             d3.select("#tooltip")
                 .html(function() {
                     return "Location: " + "</br>" + " Startups Number: " + d.Count;
