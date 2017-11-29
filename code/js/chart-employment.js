@@ -39,6 +39,10 @@ function drawEmployee() {
             .selectAll(".bubble")
             .data(nodes)
             .enter();
+            
+        color = d3.scaleLinear().domain([1,6])
+      		.interpolate(d3.interpolateHcl)
+      		.range([d3.rgb("#0000FF"), d3.rgb('#FF0000')]);
 
         //create the bubbles
         bubbles.append("circle")
@@ -51,22 +55,19 @@ function drawEmployee() {
             .attr("cy", function (d) {
                 return d.y;
             })
+            .attr("text", function(d) {
+            	return d.data["Market Name"];
+            })
             .style("fill", function (d) {
                 return color(d.value);
             })
-            .on("mouseover", function (d) {
-                div.transition()
-                    .duration(200)
-                    .style("opacity", .9);
-                div.html(d.data.market)
-                    .style("left", (d3.event.pageX) + "px")
-                    .style("top", (d3.event.pageY - 28) + "px");
-            })
-            .on("mouseout", function (d) {
-                div.transition()
-                    .duration(500)
-                    .style("opacity", 0);
-            });
+            .on("click", function (event) {
+			  console.log(event.data["Market Name"]);
+			})
+			.on("mouseover", function() {
+				d3.select(this).append("title")
+						.text(this.getAttribute("text"));
+			});
 
         //format the text for each bubble
         bubbles.append("text")
@@ -88,6 +89,7 @@ function drawEmployee() {
                 "font-size": "9px"
             });
     });
+    
 }
 
 drawEmployee();
