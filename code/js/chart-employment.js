@@ -72,7 +72,7 @@ function drawEmployee() {
         bubbles.append("text")
 	      .text(function(d) { if(d.r > 40) {return d.data["Market Name"]; }})
       	  .style("font-size", function(d) {
-      	  		return 3*d.r / (d.data["Market Name"].length) + "px";
+      	  		return 3.4*d.r / (d.data["Market Name"].length) + "px";
       	  })
       	  .attr("dy", ".35em")
           .attr("x", function (d) {
