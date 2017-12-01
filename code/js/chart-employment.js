@@ -40,9 +40,8 @@ function drawEmployee() {
             .data(nodes)
             .enter();
             
-        color = d3.scaleLinear().domain([1,6])
-      		.interpolate(d3.interpolateHcl)
-      		.range([d3.rgb("#0000FF"), d3.rgb('#FF0000')]);
+        color = d3.scaleLinear().domain([0,1,2,3])
+      		.range(['red','green','blue','yellow']);
 
         //create the bubbles
         bubbles.append("circle")
@@ -59,7 +58,7 @@ function drawEmployee() {
             	return d.data["Market Name"];
             })
             .style("fill", function (d) {
-                return color(d.value);
+                return color((Math.random()*3));
             })
             .on("click", function (event) {
 			  console.log(event.data["Market Name"]);
@@ -71,22 +70,27 @@ function drawEmployee() {
 
         //format the text for each bubble
         bubbles.append("text")
-            .attr("x", function (d) {
+	      .text(function(d) { if(d.r > 40) {return d.data["Market Name"]; }})
+      	  .style("font-size", function(d) {
+      	  		return 3*d.r / (d.data["Market Name"].length) + "px";
+      	  })
+      	  .attr("dy", ".35em")
+          .attr("x", function (d) {
                 return d.x;
             })
             .attr("y", function (d) {
-                return d.y + 5;
+                return d.y;// + 5;
             })
             .attr("text-anchor", "middle")
-            .text(function (d) {
-                if (d.r > 40) {
-                    return d.data["Market Name"];
-                }
-            })
+            //.text(function (d) {
+            //    if (d.r > 40) {
+            //        return d.data["Market Name"];
+            //    }
+            //})
             .style({
                 "fill": "white",
                 "font-family": "Helvetica Neue, Helvetica, Arial, san-serif",
-                "font-size": "9px"
+            //    "font-size": "9px"
             });
     });
     
