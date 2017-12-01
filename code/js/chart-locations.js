@@ -16,14 +16,15 @@ function drawLocationChart() {
             .data(json.features)
             .enter()
             .append("path")
-            .attr("d", path);
+            .attr("d", path)
 
-        d3.select("#mapLayer").selectAll("path")
-            .data(json.features)
-            .enter()
-            .append("path")
-            // here we use the familiar d attribute again to define the path
-            .attr("d", path);
+        // d3.select("#mapLayer").selectAll("path")
+        //     .data(json.features)
+        //     .enter()
+        //     .append("path")
+        //     // here we use the familiar d attribute again to define the path
+        //     .attr("d", path)
+        //     .style("fill", "lightgrey");
     });
 
 
@@ -66,15 +67,17 @@ function drawLocationChart() {
 
     });
     //tooltip and info panel still have problems to show
-    d3.select("#cityLayer").selectAll("circle")
-        .on("mouseover", function(d){
-            //d3.select("#location").text(d);\
+    let circles = d3.select("#cityLayer").selectAll("circle");
+    console.log(circles);
+
+
+    circles.on("mouseover", function(d){
             console.log("a");
             console.log(d);
-            d3.select("#count").text(d.Count);
+
             d3.select("#tooltip")
                 .html(function() {
-                    return "Location: " + "</br>" + " Startups Number: " + d.Count;
+                    return "Location: " + d["City Name"] + "</br>" + " Startups Number: " + d.Count;
                 })
                 .transition()
                 .duration(100)
@@ -86,6 +89,13 @@ function drawLocationChart() {
             d3.select("#tooltip")
                 .style("display", "none");
         });
+
+    circles.on("click", function (d) {
+        console.log(d);
+        d3.select("#location").text(d["City Name"]);
+        d3.select("#count").text(d.Count);
+
+    })
 
 
 
