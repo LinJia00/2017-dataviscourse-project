@@ -1,78 +1,76 @@
-let startYear = 2000;
-let endYear = 2016;
-
 class YearChart {
 
-    constructor(page) {
-        this.page = page;
-
-        let clientRect = page.node().getBoundingClientRect();
-        this.width = clientRect.width;
-        this.height = clientRect.height;
-
-        this.svg = page.append('svg')
-            .classed('year-chart', true)
-            .attr('height', this.height)
-            .attr('width', this.width);
+    constructor(dispatch) {
+        this.dispatch = dispatch;
+        this.group = dispatch.svg.append('g');
+        this.dataSets = dispatch.dataSets;
+        this.startYear = 2000;
+        this.endYear = 2016;
+        this.height = dispatch.height;
+        this.width = dispatch.width;
     }
 
-    draw() {
-        d3.csv('data/count-by-market.csv', (marketCounts) => {
-            marketCounts = marketCounts.sort((x, y) => d3.descending(parseInt(x['Count']), parseInt(y['Count'])));
-            let marketNames = marketCounts.slice(0, 100).map((d) => d['Market Name']);
+    update() {
 
-            d3.csv('data/count-by-year-market.csv', (data) => {
-                data = data.map((d) => {
-                    return {
-                        marketName: d['Market Name'],
-                        year: parseInt(d['Year']),
-                        count: parseInt(d['Count'])
-                    }
-                }).filter((d) => {
-                    return marketNames.indexOf(d.marketName) >= 0 && d.year >= startYear && d.year <= endYear;
-                });
-                // let chart = new YearMarketChart(data, marketNames);
-                // chart.update();
-            });
+        let data = null;
+        if (this.dispatch.focused) {
+            data = this.dataSets['countByStateYearMarketCSV'].filter((d) => d['State'] === this.dispatch.focused);
+        } else {
+            data = this.dataSets['countByYearMarketCSV'];
+        }
+
+        data = data.filter((d) => {
+            return parseInt(d['Year']) >= this.startYear && parseInt(d['Year']) <= this.endYear;
         });
 
-        // this.data = data;
-        //
-        // this.svgDim = {'w': this.svg.attr('width'), 'h': this.svg.attr('height')};
-        // this.lineChartDim = {'w': this.svgDim['w'] - 100, 'h': this.svgDim['h'] - 210};
-        //
-        // this.xAxisScale = d3.scaleLinear()
-        //     .domain([startYear, endYear])
-        //     .range([0, this.lineChartDim['w']]);
-        //
-        // this.yAxisScale = d3.scaleLinear()
-        //     .domain([d3.max(data, (d) => d.count), 0])
-        //     .range([0, this.lineChartDim['h']]);
-        //
-        // this.lineColorScale = d3.scaleQuantile()
-        //     .domain(this.yAxisScale.domain())
-        //     .range([
-        //         '#fef0d9',
-        //         '#fdd49e',
-        //         '#fdbb84',
-        //         '#fc8d59',
-        //         '#ef6548',
-        //         '#d7301f',
-        //         '#990000',
-        //     ]);
-        //
-        // this.marketNames = marketNames;
-        //
-        // this.linesTranslate = 'translate(50, 0)';
-        //
-        // this.drawLineChart();
-        // this.drawMarketFilter();
+        data = data
+            .map((d) => {
+                return {
+                    marketName: d['Market Name'],
+                    year: +d['Year'],
+                    count: +d['Count'],
+                }
+            })
+            .sort((x, y) => d3.descending(x.count, y.count));
+
+        this.marketNames = data.slice(0, 100).map((d) => d.marketName);
+
+        this.data = data;
+
+        this.svgDim = {'w': this.width, 'h': this.height};
+        this.lineChartDim = {'w': this.svgDim['w'] - 100, 'h': this.svgDim['h'] - 210};
+
+        this.xAxisScale = d3.scaleLinear()
+            .domain([this.startYear, this.endYear])
+            .range([0, this.lineChartDim['w']]);
+
+        this.yAxisScale = d3.scaleLinear()
+            .domain([d3.max(this.data, (d) => d.count), 0])
+            .range([0, this.lineChartDim['h']]);
+
+        this.lineColorScale = d3.scaleQuantile()
+            .domain(this.yAxisScale.domain())
+            .range([
+                '#fef0d9',
+                '#fdd49e',
+                '#fdbb84',
+                '#fc8d59',
+                '#ef6548',
+                '#d7301f',
+                '#990000',
+            ]);
+
+        this.linesTranslate = 'translate(50, 0)';
+
+        this.drawLineChart();
+        this.drawMarketFilter();
     }
 
     drawLineChart() {
-        let lineGroup = this.svg.append('g');
+        let lineGroup = this.group.append('g');
         lineGroup.attr('transform', this.linesTranslate)
             .classed('lines-group', true);
+
         let line = d3.line().x((d) => this.xAxisScale(d.year)).y((d) => this.yAxisScale(d.count));
 
         this.marketNames.map((market) => {
@@ -87,12 +85,12 @@ class YearChart {
                 })
                 .attr("d", line)
                 .on('mouseover', () => {
-                    this.svg.classed('state-hover-line', true);
+                    this.group.classed('state-hover-line', true);
                     d3.select(d3.event.target).classed('hover', true);
                     this.displayYearCounter(d3.event.target.__data__);
                 })
                 .on('mouseout', () => {
-                    this.svg.classed('state-hover-line', false);
+                    this.group.classed('state-hover-line', false);
                     d3.select(d3.event.target).classed('hover', false);
                     d3.select('.year-market-count').remove();
                 });
@@ -104,18 +102,18 @@ class YearChart {
          * Axis
          */
         let xAxis = d3.axisBottom(this.xAxisScale);
-        this.svg.append('g').attr('transform', 'translate(50, ' + this.lineChartDim['h'] + ')')
+        this.group.append('g').attr('transform', 'translate(50, ' + this.lineChartDim['h'] + ')')
             .call(xAxis);
 
         let yAxis = d3.axisLeft(this.yAxisScale);
-        this.svg.append('g').attr('transform', 'translate(50, 0)')
+        this.group.append('g').attr('transform', 'translate(50, 0)')
             .call(yAxis);
     }
 
     drawMarketFilter() {
         let markets = this.marketNames.slice(0, 30);
 
-        let barsGroup = this.svg.append('g');
+        let barsGroup = this.group.append('g');
         barsGroup.classed('filter-bars', true);
         barsGroup.attr('transform', 'translate(56, 450)');
 
@@ -149,7 +147,7 @@ class YearChart {
 
     displayYearCounter(market) {
         let data = this.data.filter((d) => d.marketName === market);
-        let group = this.svg.append('g');
+        let group = this.group.append('g');
         group.attr('class', 'year-market-count').attr('transform', this.linesTranslate);
 
         let circles = group.selectAll('circle').data(data);
@@ -169,11 +167,11 @@ class YearChart {
     }
 
     removeYearCounter() {
-        this.svg.selectAll('g.year-market-count').remove();
+        this.group.selectAll('g.year-market-count').remove();
     }
 
     highlightLine(market) {
-        console.log(this.svg.select('g.lines-group').selectAll('path'));
+        console.log(this.group.select('g.lines-group').selectAll('path'));
     }
 }
 

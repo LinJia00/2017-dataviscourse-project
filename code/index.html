@@ -14,28 +14,25 @@
 <body>
 
 <div class="container">
-    <div class="page" id="page1">
-        <h1 class="site-title">Visualization of United States Startups</h1>
-        <div class="project-members">
-            <span>Joris Gahery [u1178638] <i>u1178638@utah.edu</i></span>
-            <span>Lin Jia [u1091732] <i>janicelin1103@gmail.com</i></span>
-            <span>Yaodong Zhao [u1054985] <i>yaodong.zhao@utah.edu</i></span>
-        </div>
-    </div>
+    <!--<div class="page" id="page1">-->
+    <!--<h1 class="site-title">Visualization of United States Startups</h1>-->
+    <!--<div class="project-members">-->
+    <!--<span>Joris Gahery [u1178638] <i>u1178638@utah.edu</i></span>-->
+    <!--<span>Lin Jia [u1091732] <i>janicelin1103@gmail.com</i></span>-->
+    <!--<span>Yaodong Zhao [u1054985] <i>yaodong.zhao@utah.edu</i></span>-->
+    <!--</div>-->
+    <!--</div>-->
 
-    <div class="page" id="page2" data-chart="LocationChart">
+    <div id="page" data-chart="LocationChart">
         <div class="location-info">
-            <div class="location-info_state-name">United States</div>
+            <div class="location-info_state-name" id="focus-name">United States</div>
             <div class="location-info_item">Number of Startups</div>
-            <div class="location-info_number _bold">12939</div>
+            <div class="location-info_number _bold" id="focus-startup-count"></div>
             <div class="location-info_item">Top 10 of Markets</div>
-            <div class="location-info_number">12939</div>
+            <div class="location-info_list" id="focus-markets"><ul></ul></div>
         </div>
         <svg></svg>
     </div>
-    <div class="page" id="page3" data-chart="YearChart"></div>
-    <div class="page" id="page4" data-chart="FundingChart"></div>
-    <div class="page" id="page5" data-chart="EmploymentChart"></div>
 
     <!--<div class="section">-->
     <!--<h2 class="section-title">Startups density information</h2>-->
@@ -50,8 +47,8 @@
     <!--<h2 class="section-title">Location</h2>-->
     <!--<div id="Map">-->
     <!--<svg width="800" height="600">-->
-        <!--<g id="mapLayer"></g>-->
-        <!--<g id="dataLayer"></g>-->
+    <!--<g id="mapLayer"></g>-->
+    <!--<g id="dataLayer"></g>-->
     <!--</svg>-->
     <!--</div>-->
     <!--</div>-->
@@ -107,10 +104,13 @@
 <div class="footer">
     <!--<img src="images/rocket-ship.svg" width="100" height="100"/>-->
 </div>
-<script type="application/javascript" src="js/LocationChart.js"></script>
-<script type="application/javascript" src="js/YearChart.js"></script>
-<!--<script type="application/javascript" src="js/chart-employment.js"></script>-->
-<script type="application/javascript" src="js/navigation.js"></script>
-
+<script type="application/javascript" src="js/chart-map.js"></script>
+<script type="application/javascript" src="js/chart-year.js"></script>
+<script type="application/javascript" src="js/dispatcher.js"></script>
+<!--<script type="application/javascript" src="js/M-employment.js"></script>-->
+<!--<script type="application/javascript" src="js/navigation.js"></script>-->
+<script defer>
+    new Dispatcher();
+</script>
 </body>
 </html>
