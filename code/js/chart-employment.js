@@ -2,14 +2,15 @@ class EmploymentChart {
 
     constructor(disp) {
         this.disp = disp;
-        this.diameter = 750; //max size of the bubbles
+        this.diameter = 700; //max size of the bubbles
         this.colorScale = d3.scaleOrdinal(d3.schemeCategory20); //color category
         this.bubble = d3.pack()
             .size([this.diameter, this.diameter])
             .padding(1.5);
 
         this.group = disp.svg.append('g');
-        this.group.classed('bubble');
+        this.group.attr('transform', 'translate(' + disp.canvas.translateX + ', ' + disp.canvas.translateY +')')
+            .classed('bubble');
     }
 
     update() {

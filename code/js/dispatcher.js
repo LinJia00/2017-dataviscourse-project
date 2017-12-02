@@ -12,6 +12,15 @@ class Dispatcher {
             .attr('height', this.height)
             .attr('width', this.width);
 
+        let canvasSize = 800;
+        this.canvas = {
+            size: canvasSize,
+            height: canvasSize * 0.6,
+            width: canvasSize,
+            translateX: 500,
+            translateY: 100,
+        };
+
         this.focused = false;
 
         d3.queue()

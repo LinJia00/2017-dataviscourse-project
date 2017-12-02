@@ -4,23 +4,21 @@ class YearChart {
         this.disp = disp;
         this.group = disp.svg.append('g');
         this.dataSets = disp.dataSets;
-        this.startYear = 2000;
-        this.endYear = 2016;
 
-        this.height = d3.max([disp.height - 400, 500]);
-        this.width = disp.width - 400;
 
-        this.lineChartTranslateX = 350;
-        this.lineChartTranslateY = 100;
-        this.lineChartGroup = this.group.append('g');
-        this.lineChartGroup.attr('transform', 'translate(' + this.lineChartTranslateX + ', ' + this.lineChartTranslateY + ')');
+        this.width = disp.canvas.width;
+        this.height = disp.canvas.height;
+        this.xAxisScale = d3.scaleLinear().range([0, disp.canvas.width]);
+
+        this.yAxisScale = d3.scaleLinear().range([0, disp.canvas.height]);
+
+        this.group.attr('transform', 'translate(' + disp.canvas.translateX + ', ' + disp.canvas.translateY + ')');
+        this.lineGroup = this.group.append('g');
+        this.xAxisGroup = this.group.append('g').attr('transform', 'translate(0, ' + disp.canvas.height + ')');
+        this.yAxisGroup = this.group.append('g');
     }
 
     update() {
-
-        // set the ranges
-        let x = d3.scaleBand().range([0, this.width]).padding(0.1);
-        let y = d3.scaleLinear().range([this.height, 0]);
         let data = null;
 
         if (this.disp.focused) {
@@ -29,43 +27,49 @@ class YearChart {
             data = this.dataSets['countByYearCSV'];
         }
 
-        // Scale the range of the data in the domains
-        let yearDomain = [];
-        for (let y = this.startYear; y <= this.endYear; y++) {
-            yearDomain.push(y);
+        data = data.map((d) => {
+            return {
+                'year': parseInt(d['Year']),
+                'count': parseInt(d['Count'])
+            };
+        });
+
+        let startYear = 1990;
+        let endYear = 2016;
+
+        data = data.filter((d) => d.year >= startYear && d.year <= endYear);
+
+        for (let y = startYear; y <= endYear; y++) {
+            let found = false;
+            data.map((d) => {
+                if (d.year === y) {
+                    found = true;
+                }
+            });
+
+            if (!found) {
+                data.push({year: y, count: 0});
+            }
         }
 
-        x.domain(yearDomain);
-        y.domain([0, d3.max(data, function (d) {
-            return d['Count'];
-        })]);
+        data = data.sort((a, b) => d3.ascending(a.year, b.year));
 
-        this.group.selectAll(".bar")
-            .data(data)
-            .enter().append("rect")
-            .attr("class", "bar")
-            .attr("x", function (d) {
-                return x(d['Year']);
-            })
-            .attr("width", x.bandwidth())
-            .attr("y", function (d) {
-                return y(d['Count']);
-            })
-            .attr("height", (d) => this.height - y(d['Count']));
+        this.xAxisScale.domain([startYear, endYear]);
+        this.yAxisScale.domain([d3.max(data, (d) => d.count) * 1.2, 0]);
 
-        // add the x Axis
-        this.group.append("g")
-            .attr("transform", "translate(0," + this.height + ")")
-            .call(d3.axisBottom(x));
+        let line = d3.line().curve(d3.curveBasis).x((d) => this.xAxisScale(d.year)).y((d) => this.yAxisScale(d.count));
+        this.lineGroup.append('path').datum(data)
+            .attr("class", "line")
+            .attr('fill', 'none')
+            .attr('stroke', '#ef6548')
+            .attr("d", line);
 
-        // add the y Axis
-        this.group.append("g")
-            .call(d3.axisLeft(y));
+        let xAxis = d3.axisBottom(this.xAxisScale);
+        this.xAxisGroup.call(xAxis);
 
-    }
+        let yAxis = d3.axisLeft(this.yAxisScale);
+        this.yAxisGroup.call(yAxis);
 
-    hide() {
-        this.group.classed('hidden', true);
     }
 }
 
