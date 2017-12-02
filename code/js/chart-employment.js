@@ -9,16 +9,11 @@ class EmploymentChart {
             .padding(1.5);
 
         this.group = disp.svg.append('g');
-        this.group.attr('transform', 'translate(' + disp.canvas.translateX + ', ' + disp.canvas.translateY +')')
+        this.group.attr('transform', 'translate(' + disp.canvas.translateX + ', ' + 50 + ')')
             .classed('bubble');
     }
 
     update() {
-// // Define the div for the tooltip
-//         let div = d3.select("body").append("div")
-//             .attr("class", "tooltip")
-//             .style("opacity", 0);
-
         let data = this.disp.dataSets['employeeByMarketCSV'];
 
         //convert numerical values from strings to numbers
@@ -60,7 +55,7 @@ class EmploymentChart {
             .attr("text", function (d) {
                 return d.data["Market Name"];
             })
-            .style("fill", (d)  => {
+            .style("fill", (d) => {
                 return this.colorScale((Math.random() * 3));
             })
             .on("click", function (event) {
@@ -100,10 +95,6 @@ class EmploymentChart {
                 //    "font-size": "9px"
             });
 
-    }
-
-    hide() {
-        this.group.classed('hidden', true);
     }
 
 

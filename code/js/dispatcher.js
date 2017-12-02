@@ -71,6 +71,9 @@ class Dispatcher {
     }
 
     start() {
+        this.hide(this.yearChart);
+        this.hide(this.employmentChart);
+
         this.mapChart.update();
 
         d3.select('#focus-startup-count').on('click', () => {
@@ -88,9 +91,19 @@ class Dispatcher {
             this.show(this.employmentChart);
             this.employmentChart.update();
         });
+
+        d3.select('#focus-return').on('click', () => {
+            d3.event.preventDefault();
+            this.hide(this.yearChart);
+            this.hide(this.employmentChart);
+            this.mapChart.unfocus();
+
+        });
     }
 
     updateInfo(name, startUpCount, topMarkets, employment) {
+
+        d3.select('#focus-name').text(name);
         d3.select('#focus-startup-count').text(startUpCount);
 
         let items = d3.select('#focus-markets ul').selectAll('li').data(topMarkets);
@@ -98,6 +111,20 @@ class Dispatcher {
         items.text((d) => d['Market Name']);
 
         d3.select('#focus-employment').text(employment);
+
+        if (name !== 'United States') {
+            d3.select('#focus')
+                .transition(d3.transition().duration(1000))
+                .style('background-color', '#C4C4C4')
+                .style('opacity', '0.9');
+            setTimeout(function(){d3.select('#focus').classed('_state', true)}, 500);
+        } else {
+            d3.select('#focus')
+                .transition(d3.transition().duration(1000))
+                .style('background-color', null)
+                .style('opacity', null);
+            setTimeout(function(){d3.select('#focus').classed('_state', false)}, 500);
+        }
     }
 
     hide(chart) {

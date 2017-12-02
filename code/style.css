@@ -78,35 +78,18 @@ h2.section-title {
 /**
  * For year chart
  */
-
-.year-chart .line {
-    opacity: 0.5;
+.chart-year .line {
+    stroke: #ED3A56;
     stroke-width: 1;
 }
 
-.year-chart .state-hover-line .line {
+.chart-year .state-hover-line .line {
     opacity: 0.1;
 }
 
-.year-chart .line.hover {
+.chart-year .line.hover {
     stroke: #000;
     opacity: 1;
-}
-
-.year-chart g.filter-bars text {
-    font-size: 0.7em;
-}
-
-.year-chart g.filter-bars {
-    cursor: pointer;
-}
-
-.year-chart g.filter-bars .hover {
-    color: red;
-}
-
-.year-chart g.filter-bars .hover text {
-    font-weight: bold;
 }
 
 /**
@@ -174,13 +157,48 @@ For map path
     right: 10px;
 }
 
-.location-info {
+.focus {
     position: absolute;
-    left: 50px;
-    top: 150px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    min-width: 250px;
+    padding: 150px 0 0 50px;
 }
 
-.location-info_state-name {
+.focus._state {
+    padding-top: 80px;
+}
+
+.focus div {
+    opacity: 1;
+}
+
+.focus_return {
+    display: none;
+    background: url("images/left-arrow.svg") no-repeat 0 5px;
+    background-size: 40px;
+    padding-left: 60px;
+    font-size: 20px;
+    font-weight: lighter;
+    line-height: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #555;
+}
+
+.focus._state .focus_return {
+    display: block;
+}
+
+.focus_return:hover {
+    background: #EF3753;
+    color: #FFF;
+}
+
+.focus_name {
     z-index: 2001;
     color: #EF3753;
     font-weight: 400;
@@ -190,24 +208,57 @@ For map path
     margin-bottom: 50px;
 }
 
-.location-info_item {
+.focus_item {
     color: #6d7988;
     text-transform: uppercase;
     font-weight: 500;
     font-style: normal;
 }
 
-.location-info_number {
+.focus_number {
     color: #C4C4C4;
     font-weight: 400;
     font-style: normal;
+    margin-bottom: 10px;
+    padding: 5px 0;
 }
 
-.location-info_number._bold {
+.focus_number._bold {
     color: #EF3753;
     font-weight: 800;
     font-style: normal;
     font-size: 21px;
+}
+
+.focus_list {
+    padding: 5px 0;
+}
+
+.focus_list ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.focus_list {
+    font-size: 0.8em;
+    color: #C4C4C4;
+}
+
+.focus._state .focus_item {
+    color: #333;
+}
+
+.focus._state .focus_list {
+    color: #555;
+}
+
+.focus._state .focus_number {
+    color: #555;
+}
+
+.focus._state .focus_number._bold {
+    color: #EF3753;
 }
 
 #navigation {

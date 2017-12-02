@@ -10,24 +10,24 @@ class MapChart {
 
         this.mapLayer = this.group.append('g');
         this.dataLayer = this.group.append('g');
+
+        let initialSize = 800;
+        let displaySize = d3.max([initialSize, this.width * 0.8]);
+
+        this.displayScale = displaySize / initialSize;
+        this.translateX = this.width - displaySize / 2;
+        this.translateY = displaySize / 3;
+
+        this.projection = d3.geoAlbersUsa()
+            .translate([0, 0])
+            .scale(initialSize);
     }
 
     update() {
-        let initialSize = 800;
+        let path = d3.geoPath().projection(this.projection);
 
-        let projection = d3.geoAlbersUsa()
-            .translate([0, 0])
-            .scale(initialSize);
-
-        let path = d3.geoPath().projection(projection);
-
-        let displaySize = d3.max([initialSize, this.width * 0.8]);
-        let displayScale = displaySize / initialSize;
-
-        let translateX = this.width - displaySize / 2;
-        let translateY = displaySize / 3;
         this.group
-            .attr('transform', 'translate(' + translateX + ', ' + translateY + ') scale(' + displayScale + ')');
+            .attr('transform', 'translate(' + this.translateX + ', ' + this.translateY + ') scale(' + this.displayScale + ')');
 
         this.mapLayer.selectAll("path")
             .data(this.dataSets['mapJSON'].features)
@@ -36,10 +36,10 @@ class MapChart {
             .attr("d", path)
             .classed('state', true)
             .on('click', (d) => {
-                let zoomScale = displayScale * 2.5;
+                let zoomScale = this.displayScale * 2.5;
                 let center = path.centroid(d);
-                let moveX = translateX - center[0] * zoomScale;
-                let moveY = translateY - center[1] * zoomScale;
+                let moveX = this.translateX - center[0] * zoomScale;
+                let moveY = this.translateY - center[1] * zoomScale;
 
                 this.mapLayer.selectAll('path').classed('clicked', false);
                 d3.select(d3.event.target).classed('clicked', true);
@@ -55,11 +55,11 @@ class MapChart {
             .enter()
             .append("circle")
             .classed('cityCircle', true)
-            .attr("cx", function (d) {
-                return projection([parseFloat(d['Lng']), parseFloat(d['Lat'])])[0];
+            .attr("cx", (d) => {
+                return this.projection([parseFloat(d['Lng']), parseFloat(d['Lat'])])[0];
             })
-            .attr("cy", function (d) {
-                return projection([parseFloat(d['Lng']), parseFloat(d['Lat'])])[1];
+            .attr("cy", (d) => {
+                return this.projection([parseFloat(d['Lng']), parseFloat(d['Lat'])])[1];
             })
             .attr("r", 0)
             .transition(d3.transition().duration(1000))
@@ -72,12 +72,14 @@ class MapChart {
 
     updateInfo(state) {
         let focusName = 'United States';
+
         if (state) {
             this.disp.focused = state;
             focusName = state;
         } else {
             this.disp.focused = false;
         }
+
         this.disp.updateInfo(
             focusName,
             this.startUpCount(state),
@@ -151,7 +153,11 @@ class MapChart {
         }
     }
 
-    hide() {
-        this.group.classed('hidden', true);
+    unfocus() {
+        this.group
+            .transition(d3.transition().duration(1000))
+            .attr('transform', 'translate(' + this.translateX + ', ' + this.translateY + ') scale(' + this.displayScale + ')');
+
+        this.updateInfo();
     }
 }

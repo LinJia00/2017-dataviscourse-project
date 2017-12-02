@@ -13,6 +13,12 @@ class YearChart {
         this.yAxisScale = d3.scaleLinear().range([0, disp.canvas.height]);
 
         this.group.attr('transform', 'translate(' + disp.canvas.translateX + ', ' + disp.canvas.translateY + ')');
+        this.group.classed('chart-year', true);
+        this.group.append('rect')
+            .attr('x', 0).attr('y', 0)
+            .attr('width', this.width).attr('height', this.height)
+            .attr('fill', '#192228');
+
         this.lineGroup = this.group.append('g');
         this.xAxisGroup = this.group.append('g').attr('transform', 'translate(0, ' + disp.canvas.height + ')');
         this.yAxisGroup = this.group.append('g');
