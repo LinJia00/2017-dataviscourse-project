@@ -1,10 +1,12 @@
 html, body {
     margin: 0;
     padding: 0;
+    height: 100%;
+    width: 100%;
 }
 
 body {
-    background: #29202A;
+    background: #29303A;
     font-family: 'Lato', sans-serif;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -13,12 +15,26 @@ body {
 }
 
 .container {
-    margin: 50px auto;
-    max-width: 1020px;
-    padding: 0;
-    background: #fff;
-    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.25);
-    border-radius: 4px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    min-height: 500px;
+    min-width: 800px;
+}
+
+.page {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.page.show {
+    display: block;
 }
 
 h1.site-title {
@@ -60,66 +76,87 @@ h2.section-title {
     text-align: center;
 }
 
-#yearChart .line {
+/**
+ * For year chart
+ */
+
+.year-chart .line {
     opacity: 0.5;
     stroke-width: 1;
 }
 
-#yearChart .state-hover-line .line {
+.year-chart .state-hover-line .line {
     opacity: 0.1;
 }
 
-#yearChart .line.hover {
+.year-chart .line.hover {
     stroke: #000;
     opacity: 1;
 }
 
-#yearChart g.filter-bars text {
+.year-chart g.filter-bars text {
     font-size: 0.7em;
 }
 
-#yearChart g.filter-bars {
+.year-chart g.filter-bars {
     cursor: pointer;
 }
 
-#yearChart g.filter-bars .hover {
+.year-chart g.filter-bars .hover {
     color: red;
 }
 
-#yearChart g.filter-bars .hover text {
+.year-chart g.filter-bars .hover text {
     font-weight: bold;
 }
 
 /**
 For map path
  */
-#Map path {
-    fill: none;
+.LocationChart path.state {
+    fill: #192228;
     stroke-width: 1px;
-    stroke: #222;
+    stroke: gray;
+    opacity: 0.8;
+    cursor: pointer;
 }
 
-#Map .axis text {
+.LocationChart path.state:hover {
+    fill: #000;
+    opacity: 0.8;
+}
+
+.LocationChart path.clicked {
+    fill: #000;
+}
+
+.LocationChart .cityCircle {
+    stroke: #ED3A56;
+    fill: none;
+    opacity: 0.8
+}
+
+.LocationChart .axis text {
     font: 10px sans-serif;
 }
 
-#Map .axis path,
-#Map .axis line {
+.LocationChart .axis path,
+.LocationChart .axis line {
     fill: none;
     stroke: #000;
     shape-rendering: crispEdges;
 }
 
-#Map .bar {
+.LocationChart .bar {
     fill: steelblue;
     fill-opacity: .9;
 }
 
-#Map .x.axis path {
+.LocationChart .x.axis path {
     display: none;
 }
 
-#Map div.tooltip {
+.LocationChart div.tooltip {
     position: absolute;
     text-align: center;
     width: 60px;
@@ -132,8 +169,82 @@ For map path
     pointer-events: none;
 }
 
-#Map label {
+.LocationChart label {
     position: absolute;
     top: 10px;
     right: 10px;
+}
+
+.location-info {
+    position: absolute;
+    left: 50px;
+    top: 150px;
+}
+
+.location-info_state-name {
+    z-index: 2001;
+    color: #EF3753;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    line-height: 36px;
+    margin-bottom: 50px;
+}
+
+.location-info_item {
+    color: #6d7988;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.location-info_number {
+    color: #C4C4C4;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.location-info_number._bold {
+    color: #EF3753;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 21px;
+}
+
+#navigation {
+    overflow: hidden;
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    left: 0;
+    right: 0;
+}
+
+#navigation .nav-button {
+    background: #c44d34;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 50px;
+    opacity: 0.5;
+    cursor: pointer;
+    position: absolute;
+    color: #fff;
+    margin-top: 20px;
+    font-size: 20px;
+    z-index: 10;
+}
+
+#navigation .nav-button.nav-prev {
+    left: 50px;
+}
+
+#navigation .nav-button.nav-next {
+    right: 50px;
+}
+
+#navigation .nav-button:hover {
+    opacity: 1;
 }

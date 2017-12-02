@@ -1,62 +1,72 @@
 let startYear = 2000;
 let endYear = 2016;
 
-d3.csv('data/count-by-market.csv', (marketCounts) => {
-    marketCounts = marketCounts.sort((x, y) => d3.descending(parseInt(x['Count']), parseInt(y['Count'])));
-    let marketNames = marketCounts.slice(0, 100).map((d) => d['Market Name']);
+class YearChart {
 
-    d3.csv('data/count-by-year-market.csv', (data) => {
-        data = data.map((d) => {
-            return {
-                marketName: d['Market Name'],
-                year: parseInt(d['Year']),
-                count: parseInt(d['Count'])
-            }
-        }).filter((d) => {
-            return marketNames.indexOf(d.marketName) >= 0 && d.year >= startYear && d.year <= endYear;
-        });
-        let chart = new YearMarketChart(data, marketNames);
-        chart.update();
-    });
-});
+    constructor(page) {
+        this.page = page;
 
-class YearMarketChart {
+        let clientRect = page.node().getBoundingClientRect();
+        this.width = clientRect.width;
+        this.height = clientRect.height;
 
-    constructor(data, marketNames) {
-        this.data = data;
-        this.svg = d3.select('#yearChart svg');
-
-        this.svgDim = {'w': this.svg.attr('width'), 'h': this.svg.attr('height')};
-        this.lineChartDim = {'w': this.svgDim['w'] - 100, 'h': this.svgDim['h'] - 210};
-
-        this.xAxisScale = d3.scaleLinear()
-            .domain([startYear, endYear])
-            .range([0, this.lineChartDim['w']]);
-
-        this.yAxisScale = d3.scaleLinear()
-            .domain([d3.max(data, (d) => d.count), 0])
-            .range([0, this.lineChartDim['h']]);
-
-        this.lineColorScale = d3.scaleQuantile()
-            .domain(this.yAxisScale.domain())
-            .range([
-                '#fef0d9',
-                '#fdd49e',
-                '#fdbb84',
-                '#fc8d59',
-                '#ef6548',
-                '#d7301f',
-                '#990000',
-            ]);
-
-        this.marketNames = marketNames;
-
-        this.linesTranslate = 'translate(50, 0)';
+        this.svg = page.append('svg')
+            .classed('year-chart', true)
+            .attr('height', this.height)
+            .attr('width', this.width);
     }
 
-    update() {
-        this.drawLineChart();
-        this.drawMarketFilter();
+    draw() {
+        d3.csv('data/count-by-market.csv', (marketCounts) => {
+            marketCounts = marketCounts.sort((x, y) => d3.descending(parseInt(x['Count']), parseInt(y['Count'])));
+            let marketNames = marketCounts.slice(0, 100).map((d) => d['Market Name']);
+
+            d3.csv('data/count-by-year-market.csv', (data) => {
+                data = data.map((d) => {
+                    return {
+                        marketName: d['Market Name'],
+                        year: parseInt(d['Year']),
+                        count: parseInt(d['Count'])
+                    }
+                }).filter((d) => {
+                    return marketNames.indexOf(d.marketName) >= 0 && d.year >= startYear && d.year <= endYear;
+                });
+                // let chart = new YearMarketChart(data, marketNames);
+                // chart.update();
+            });
+        });
+
+        // this.data = data;
+        //
+        // this.svgDim = {'w': this.svg.attr('width'), 'h': this.svg.attr('height')};
+        // this.lineChartDim = {'w': this.svgDim['w'] - 100, 'h': this.svgDim['h'] - 210};
+        //
+        // this.xAxisScale = d3.scaleLinear()
+        //     .domain([startYear, endYear])
+        //     .range([0, this.lineChartDim['w']]);
+        //
+        // this.yAxisScale = d3.scaleLinear()
+        //     .domain([d3.max(data, (d) => d.count), 0])
+        //     .range([0, this.lineChartDim['h']]);
+        //
+        // this.lineColorScale = d3.scaleQuantile()
+        //     .domain(this.yAxisScale.domain())
+        //     .range([
+        //         '#fef0d9',
+        //         '#fdd49e',
+        //         '#fdbb84',
+        //         '#fc8d59',
+        //         '#ef6548',
+        //         '#d7301f',
+        //         '#990000',
+        //     ]);
+        //
+        // this.marketNames = marketNames;
+        //
+        // this.linesTranslate = 'translate(50, 0)';
+        //
+        // this.drawLineChart();
+        // this.drawMarketFilter();
     }
 
     drawLineChart() {
