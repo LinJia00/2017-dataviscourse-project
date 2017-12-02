@@ -1,0 +1,4142 @@
+State,Market Name,Count
+Alabama,Cloud Computing,1
+Alabama,Health Care,2
+Alabama,Gaming,1
+Alabama,Automotive,1
+Alabama,Software,3
+Alabama,Mobile Apps,1
+Alabama,Search Engine,1
+Alabama,Photo Sharing,1
+Alabama,Apps,1
+Alabama,EdTech,1
+Alabama,Mobile,1
+Alabama,Digital Marketing,1
+Alabama,Medical,1
+Alabama,Family,1
+Alabama,E-Commerce,1
+Alabama,Financial Services,1
+Alabama,Ticketing,1
+Alabama,Pharmaceutical,1
+Alabama,Internet,1
+Alabama,Sporting Goods,1
+Arkansas,E-Commerce,2
+Arkansas,Hospitality,1
+Arkansas,Education,2
+Arkansas,Mobile,1
+Arkansas,Digital Media,1
+Arkansas,Logistics,1
+Arkansas,Software,1
+Arkansas,Casual Games,1
+Arkansas,Social Media,2
+Arkansas,Analytics,1
+Arkansas,Enterprise Software,3
+Arkansas,Finance,2
+Arkansas,Payments,1
+Arkansas,SaaS,1
+Arkansas,Retail,1
+Arkansas,Crowdsourcing,1
+Arkansas,Health Care,2
+Arkansas,Security,1
+Arkansas,Nanotechnology,1
+Arkansas,Customer Service,1
+Arkansas,Personalization,1
+Indiana,Information Technology,3
+Indiana,Industrial,1
+Indiana,Enterprise Software,2
+Indiana,Management Consulting,1
+Indiana,Advertising,1
+Indiana,E-Commerce,4
+Indiana,Health Diagnostics,1
+Indiana,Biotechnology,1
+Indiana,Marketing,1
+Indiana,Cloud Data Services,1
+Indiana,Pharmaceutical,1
+Indiana,Medical Device,5
+Indiana,Software,9
+Indiana,Non Profit,1
+Indiana,SaaS,2
+Indiana,Sports,1
+Indiana,Marketing Automation,3
+Indiana,Mobile,4
+Indiana,Cause Marketing,1
+Indiana,Automotive,1
+Indiana,Industrial Automation,1
+Indiana,Billing,1
+Indiana,Enterprise Applications,1
+Indiana,Cloud Computing,1
+Indiana,Health Care,10
+Indiana,Big Data,2
+Indiana,Public Transportation,1
+Indiana,Manufacturing,2
+Indiana,Logistics,1
+Indiana,Energy,2
+Indiana,Apps,1
+Indiana,Social Media,3
+Indiana,Android,1
+Indiana,Public Relations,1
+Indiana,Fitness,1
+Indiana,Digital Signage,1
+Indiana,Information Services,1
+Indiana,Developer Platform,1
+Indiana,Smart Building,1
+Indiana,Hardware,3
+Indiana,Video,1
+Indiana,Real Estate,1
+Indiana,E-Learning,1
+Indiana,Education,2
+Indiana,Food Processing,2
+Indiana,Media and Entertainment,1
+Indiana,Legal,1
+Indiana,Real Time,1
+Indiana,Virtualization,1
+Indiana,Agriculture,1
+Indiana,Women's,1
+Indiana,Recruiting,1
+Indiana,Skill Assessment,1
+Indiana,Technical Support,1
+Indiana,Web Design,1
+California,Software,422
+California,Enterprise Software,338
+California,Asset Management,2
+California,Health Care,413
+California,Agriculture,6
+California,Farming,5
+California,Robotics,16
+California,Developer Tools,17
+California,Energy Management,7
+California,B2B,30
+California,Clean Energy,8
+California,Industrial,9
+California,Energy Storage,1
+California,CleanTech,3
+California,Travel,28
+California,Virtual Reality,26
+California,Augmented Reality,14
+California,Virtualization,15
+California,Tourism,10
+California,Logistics,20
+California,Printing,3
+California,Video Games,14
+California,Gaming,81
+California,Renewable Energy,14
+California,Waste Management,4
+California,Video,68
+California,Digital Entertainment,5
+California,Consumer Electronics,29
+California,Hardware,99
+California,GPU,1
+California,Electronics,18
+California,Retail,36
+California,Manufacturing,78
+California,Transportation,23
+California,PaaS,6
+California,SaaS,159
+California,IT Management,7
+California,Enterprise Applications,9
+California,Computer,32
+California,Cyber Security,18
+California,Security,101
+California,Social Network,20
+California,Content,43
+California,Social Media,140
+California,News,11
+California,Social Bookmarking,3
+California,Photography,32
+California,Wearables,16
+California,3D Technology,13
+California,Personal Health,8
+California,Cloud Computing,73
+California,Fitness,16
+California,Messaging,33
+California,Blogging Platforms,7
+California,SMS,7
+California,Human Resources,27
+California,Finance,60
+California,FinTech,36
+California,Web Development,17
+California,Apps,191
+California,Customer Service,11
+California,Mobile,240
+California,Search Engine,28
+California,Solar,24
+California,Network Security,16
+California,Internet,148
+California,Ride Sharing,3
+California,Mobile Apps,32
+California,Peer to Peer,1
+California,Information Technology,96
+California,Intelligent Systems,4
+California,Analytics,169
+California,Web Hosting,28
+California,Ad Server,1
+California,Advertising,56
+California,Consumer,8
+California,Accounting,3
+California,Recruiting,21
+California,Employment,5
+California,Career Planning,12
+California,Big Data,98
+California,Risk Management,10
+California,E-Commerce,286
+California,Financial Services,78
+California,Identity Management,16
+California,Brand Marketing,8
+California,Ad Targeting,5
+California,Marketing Automation,9
+California,Lead Management,1
+California,Digital Signage,2
+California,Social,8
+California,Enterprise,2
+California,EdTech,18
+California,Education,115
+California,iOS,28
+California,Information Services,29
+California,Data Center,6
+California,Professional Services,4
+California,Professional Networking,9
+California,Social Recruiting,3
+California,Lifestyle,15
+California,Dietary Supplements,1
+California,Genetics,22
+California,Biotechnology,108
+California,Developer APIs,16
+California,Photo Sharing,17
+California,Infrastructure,10
+California,Energy,33
+California,Internet of Things,47
+California,Smart Home,7
+California,Open Source,20
+California,Small and Medium Businesses,18
+California,Automotive,10
+California,Ticketing,4
+California,Event Management,5
+California,Events,28
+California,Digital Media,33
+California,Non Profit,13
+California,EBooks,2
+California,Marketplace,22
+California,Sharing Economy,5
+California,Hospitality,29
+California,Higher Education,1
+California,Textbook,1
+California,Advertising Platforms,28
+California,Energy Efficiency,10
+California,Construction,11
+California,Embedded Systems,1
+California,IT Infrastructure,2
+California,Application Performance Management,6
+California,Subscription Service,8
+California,Android,42
+California,Sensor,3
+California,Consumer Software,1
+California,Gift Card,4
+California,Publishing,15
+California,Mobile Devices,9
+California,Auctions,1
+California,Electric Vehicle,4
+California,Space Travel,1
+California,Aerospace,4
+California,Machine Learning,71
+California,Artificial Intelligence,43
+California,Rental,3
+California,Real Estate,44
+California,Cloud Data Services,20
+California,Flash Storage,6
+California,Online Games,6
+California,Online Portals,21
+California,Developer Platform,9
+California,Navigation,6
+California,Broadcasting,5
+California,Video Streaming,20
+California,Technical Support,2
+California,Music,24
+California,Payments,12
+California,CRM,16
+California,Business Intelligence,25
+California,Credit Cards,4
+California,File Sharing,22
+California,Personal Finance,7
+California,Coupons,5
+California,Shopping,10
+California,Banking,6
+California,Sales,1
+California,Freemium,1
+California,Wireless,30
+California,Food and Beverage,8
+California,Food Processing,5
+California,Nutrition,4
+California,Personalization,22
+California,Medical,32
+California,Pharmaceutical,42
+California,Service Industry,20
+California,Market Research,6
+California,Wealth Management,6
+California,Stock Exchanges,3
+California,eSports,2
+California,Sports,20
+California,Real Time,32
+California,Location Based Services,21
+California,Communications Infrastructure,11
+California,Optical Communication,4
+California,Bitcoin,12
+California,Cryptocurrency,1
+California,Venture Capital,5
+California,Data Visualization,7
+California,Innovation Management,9
+California,Cloud Infrastructure,12
+California,Network Hardware,3
+California,Legal,9
+California,Public Transportation,3
+California,Ad Network,8
+California,Collaboration,28
+California,Email,17
+California,Crowdsourcing,11
+California,Fashion,40
+California,Wellness,18
+California,Beauty,7
+California,Product Design,7
+California,Semiconductor,25
+California,Data Storage,5
+California,Children,10
+California,Medical Device,49
+California,Data Integration,4
+California,Database,2
+California,Project Management,9
+California,Supply Chain Management,12
+California,Local,18
+California,Telecommunications,26
+California,VoIP,8
+California,E-Learning,3
+California,Health Diagnostics,30
+California,Credit,3
+California,Consumer Lending,3
+California,Task Management,7
+California,Home Improvement,1
+California,Interior Design,1
+California,Architecture,3
+California,Home Renovation,5
+California,Dating,10
+California,Mobile Payments,10
+California,E-Commerce Platforms,5
+California,Collaborative Consumption,9
+California,Lead Generation,15
+California,CivicTech,1
+California,Autonomous Vehicles,12
+California,Privacy,3
+California,Predictive Analytics,26
+California,Battery,4
+California,Reputation,2
+California,Procurement,1
+California,Advice,4
+California,Cloud Security,12
+California,Rental Property,4
+California,Lending,3
+California,Crowdfunding,14
+California,MMO Games,3
+California,App Marketing,4
+California,Debit Cards,1
+California,Point of Sale,1
+California,Drones,9
+California,Media and Entertainment,28
+California,Geospatial,4
+California,Hedge Funds,2
+California,Audio,12
+California,Linux,3
+California,Outsourcing,1
+California,Consulting,19
+California,Fleet Management,3
+California,Content Syndication,3
+California,Cloud Storage,6
+California,Video Chat,2
+California,Marketing,22
+California,Restaurants,12
+California,Communities,6
+California,Private Social Networking,7
+California,GovTech,5
+California,Business Information Systems,1
+California,Semantic Search,4
+California,Natural Language Processing,9
+California,IaaS,2
+California,Retail Technology,14
+California,Presentations,3
+California,Test and Measurement,5
+California,Quality Assurance,1
+California,Video Conferencing,4
+California,SEO,10
+California,Leisure,6
+California,Art,5
+California,Data Center Automation,1
+California,Delivery,1
+California,Grocery,1
+California,Unified Communications,2
+California,Consumer Applications,1
+California,Organic Food,5
+California,Content Delivery Network,3
+California,Digital Marketing,6
+California,Social Media Marketing,9
+California,Mobile Advertising,12
+California,National Security,1
+California,Insurance,9
+California,Home Services,3
+California,Translation Service,1
+California,Business Development,8
+California,Loyalty Programs,3
+California,Text Analytics,2
+California,Virtual Currency,3
+California,mHealth,1
+California,Diabetes,3
+California,Pet,4
+California,RFID,1
+California,Sales Automation,8
+California,Food Delivery,4
+California,Property Management,4
+California,Therapeutics,30
+California,Water,9
+California,Sustainability,7
+California,Private Cloud,3
+California,TV,5
+California,3D Printing,4
+California,Clinical Trials,3
+California,Employee Benefits,3
+California,Content Creators,8
+California,Virtual World,1
+California,Casual Games,1
+California,Eyewear,2
+California,Politics,3
+California,GreenTech,2
+California,Resorts,1
+California,Shipping,3
+California,LGBT,4
+California,Product Management,2
+California,Green Consumer Goods,3
+California,Toys,1
+California,Cooking,2
+California,Film Production,2
+California,Fraud Detection,2
+California,Management Information Systems,1
+California,Shoes,1
+California,Content Discovery,4
+California,Affiliate Marketing,1
+California,Cosmetics,3
+California,Oil and Gas,1
+California,Wind Energy,1
+California,Email Marketing,10
+California,Social Shopping,1
+California,Mechanical Engineering,2
+California,Industrial Engineering,1
+California,Health Insurance,3
+California,Creative Agency,2
+California,Child Care,1
+California,Billing,9
+California,Industrial Automation,1
+California,Consumer Goods,6
+California,Smart Building,3
+California,Nanotechnology,6
+California,Q&A,1
+California,Web Apps,3
+California,Computer Vision,5
+California,Commercial Real Estate,2
+California,Data Mining,3
+California,Intellectual Property,3
+California,Knowledge Management,3
+California,Veterinary,2
+California,Contact Management,5
+California,Hospital,3
+California,Coffee,1
+California,Handmade,1
+California,Chemical,2
+California,Lighting,1
+California,Music Streaming,2
+California,Local Business,2
+California,Operating Systems,2
+California,Document Management,5
+California,Content Marketing,1
+California,College Recruiting,1
+California,Film,9
+California,ERP,2
+California,Price Comparison,1
+California,Green Building,2
+California,Browser Extensions,1
+California,Web Browsers,6
+California,Women's,5
+California,Drone Management,1
+California,Virtual Assistant,5
+California,Office Administration,1
+California,Financial Exchanges,4
+California,Advanced Materials,1
+California,Semantic Web,2
+California,Corporate Training,3
+California,Training,10
+California,Wholesale,3
+California,Law Enforcement,3
+California,Web Design,4
+California,Productivity Tools,3
+California,Biopharma,17
+California,GPS,3
+California,Dental,1
+California,Gamification,4
+California,Video Editing,2
+California,Landscaping,3
+California,Religion,1
+California,Retirement,1
+California,Family,1
+California,Sporting Goods,2
+California,SEM,3
+California,Ad Exchange,1
+California,Embedded Software,1
+California,Local Advertising,6
+California,Social Innovation,1
+California,Reservations,3
+California,Adventure Travel,3
+California,Impact Investing,3
+California,Assistive Technology,1
+California,Life Science,4
+California,Biofuel,1
+California,Simulation,2
+California,Physical Security,1
+California,Public Safety,4
+California,Online Auctions,2
+California,Wine And Spirits,8
+California,Facebook,2
+California,Biometrics,2
+California,Government,4
+California,Language Learning,2
+California,Hotel,4
+California,Scheduling,3
+California,Management Consulting,2
+California,Emerging Markets,1
+California,EDA,3
+California,Parenting,1
+California,Gambling,1
+California,Celebrity,2
+California,Universities,1
+California,Social News,1
+California,ISP,3
+California,Commercial,1
+California,Video on Demand,2
+California,Staffing Agency,3
+California,Flowers,1
+California,Adult,1
+California,Boating,1
+California,Tutoring,6
+California,Consumer Reviews,1
+California,Direct Marketing,2
+California,Concerts,3
+California,Social Media Management,4
+California,Public Relations,3
+California,Guides,7
+California,Product Search,3
+California,Power Grid,2
+California,Journalism,3
+California,Virtual Goods,2
+California,Charity,4
+California,Software Engineering,2
+California,Fantasy Sports,2
+California,Film Distribution,1
+California,Direct Sales,2
+California,Furniture,5
+California,NFC,1
+California,DSP,1
+California,Psychology,2
+California,Skill Assessment,1
+California,InsurTech,1
+California,Self-Storage,4
+California,Men's,3
+California,Visual Search,2
+California,Ediscovery,1
+California,Vertical Search,3
+California,Musical Instruments,2
+California,Machinery Manufacturing,1
+California,Alternative Medicine,2
+California,Video Advertising,1
+California,Coworking,1
+California,Delivery Service,3
+California,Reading Apps,1
+California,Personal Development,1
+California,Virtual Workforce,1
+California,Millennials,1
+California,Parking,2
+California,Internet Radio,2
+California,Building Material,1
+California,Elder Care,1
+California,Event Promotion,1
+California,Social CRM,2
+California,Desktop Apps,1
+California,Alumni,1
+California,Funerals,2
+California,Personal Branding,1
+California,Packaging Services,1
+California,Electrical Distribution,1
+California,Windows Phone,1
+California,Brewing,1
+California,Biomass Energy,1
+California,Environmental Consulting,1
+California,Motion Capture,3
+California,Nuclear,1
+California,Travel Agency,1
+California,Music Venues,3
+California,UX Design,1
+California,Chemical Engineering,1
+California,CMS,1
+California,Satellite Communication,1
+California,Rehabilitation,1
+California,Recipes,1
+California,Gift Exchange,1
+California,In-Flight Entertainment,1
+California,Mechanical Design,1
+California,Fossil Fuels,1
+Iowa,Agriculture,1
+Iowa,Software,3
+Iowa,Rental,1
+Iowa,Real Estate,1
+Iowa,Analytics,2
+Iowa,Outsourcing,1
+Iowa,Video Games,1
+Iowa,Health Care,3
+Iowa,Insurance,1
+Iowa,Therapeutics,1
+Iowa,Content Discovery,1
+Iowa,Enterprise Software,2
+Iowa,Education,1
+Iowa,Non Profit,1
+Iowa,Apps,2
+Iowa,Information Technology,1
+Iowa,E-Commerce,2
+Iowa,Cloud Infrastructure,1
+Iowa,File Sharing,1
+Iowa,Automotive,1
+Iowa,Broadcasting,1
+Iowa,Social Media,1
+Iowa,Android,1
+Iowa,Event Management,1
+Iowa,Biotechnology,1
+Iowa,Hospital,1
+Kansas,Health Care,5
+Kansas,Medical Device,2
+Kansas,Biotechnology,1
+Kansas,Internet,1
+Kansas,Mobile Advertising,1
+Kansas,Digital Media,2
+Kansas,Finance,2
+Kansas,Financial Services,1
+Kansas,Enterprise Software,2
+Kansas,Information Technology,2
+Kansas,Big Data,1
+Kansas,Enterprise Applications,1
+Kansas,Document Management,1
+Kansas,Software,1
+Kansas,Hardware,2
+Kansas,Mobile,1
+Kansas,Transportation,1
+Kansas,Biometrics,1
+Kansas,Loyalty Programs,1
+Kansas,E-Commerce,1
+Kansas,App Marketing,1
+Kansas,Brewing,1
+Kansas,Publishing,1
+Kansas,Analytics,1
+Kansas,Wireless,1
+Kansas,Cloud Data Services,1
+Kansas,Cloud Infrastructure,1
+Kansas,Food Processing,1
+Kansas,Basketball,1
+Kansas,Messaging,1
+Kansas,Intellectual Property,1
+Kansas,Manufacturing,1
+Kansas,Apps,1
+Kentucky,Biotechnology,1
+Kentucky,Life Science,1
+Kentucky,Health Care,4
+Kentucky,Manufacturing,2
+Kentucky,Content,2
+Kentucky,Sports,1
+Kentucky,Apps,1
+Kentucky,Infrastructure,1
+Kentucky,Enterprise Software,2
+Kentucky,Software,3
+Kentucky,FinTech,1
+Kentucky,Banking,1
+Kentucky,Financial Services,1
+Kentucky,EdTech,1
+Kentucky,Medical,1
+Kentucky,Information Services,1
+Kentucky,Health Diagnostics,1
+Kentucky,Social Media,1
+Kentucky,Social Media Marketing,1
+Kentucky,Location Based Services,1
+Kentucky,Sustainability,1
+Kentucky,Finance,1
+Kentucky,E-Commerce,2
+Kentucky,Classifieds,1
+Kentucky,Cloud Computing,1
+Kentucky,Dental,1
+Kentucky,Communications Infrastructure,1
+Kentucky,Lifestyle,1
+Kentucky,Personal Health,1
+Kentucky,Real Estate,1
+Kentucky,Insurance,1
+Kentucky,Gaming,1
+Kentucky,Concerts,1
+Kentucky,Wine And Spirits,1
+Kentucky,Artificial Intelligence,1
+Kentucky,Loyalty Programs,1
+Kentucky,Pet,1
+Louisiana,Advanced Materials,1
+Louisiana,Health Care,2
+Louisiana,Hospitality,1
+Louisiana,Application Performance Management,1
+Louisiana,Finance,1
+Louisiana,Developer Platform,1
+Louisiana,Chemical,1
+Louisiana,Travel,1
+Louisiana,Software,1
+Louisiana,Lifestyle,1
+Louisiana,Digital Media,1
+Louisiana,Internet,1
+Louisiana,Concerts,1
+Louisiana,Retail Technology,1
+Louisiana,Enterprise Software,1
+Louisiana,SaaS,2
+Louisiana,Social Media,1
+Louisiana,News,1
+Louisiana,Big Data,1
+Louisiana,Non Profit,1
+Louisiana,Bioinformatics,1
+Louisiana,3D Printing,1
+Louisiana,Sports,1
+Louisiana,Human Resources,1
+Maine,E-Commerce,1
+Maine,Retail,1
+Maine,Financial Services,2
+Maine,Outdoors,1
+Maine,Education,2
+Maine,Information Technology,1
+Maine,Software,1
+Maine,Pharmaceutical,1
+Maine,Genetics,1
+Maine,Manufacturing,1
+Maine,Energy,1
+Maine,Legal,1
+Maryland,Big Data,1
+Maryland,Biotechnology,10
+Maryland,Health Diagnostics,5
+Maryland,Messaging,3
+Maryland,Marketplace,1
+Maryland,Manufacturing,8
+Maryland,E-Commerce,6
+Maryland,Internet,3
+Maryland,B2B,1
+Maryland,Agriculture,1
+Maryland,Medical,4
+Maryland,Hospitality,2
+Maryland,Health Care,31
+Maryland,Analytics,4
+Maryland,Education,8
+Maryland,SaaS,3
+Maryland,Clinical Trials,1
+Maryland,E-Learning,1
+Maryland,Cyber Security,2
+Maryland,Email,1
+Maryland,Software,9
+Maryland,Mineral,1
+Maryland,Publishing,1
+Maryland,Information Technology,3
+Maryland,Price Comparison,1
+Maryland,Enterprise Software,9
+Maryland,Social Network,1
+Maryland,Social Media Marketing,1
+Maryland,Hardware,5
+Maryland,Computer,2
+Maryland,Video Games,1
+Maryland,Mobile,4
+Maryland,Web Development,1
+Maryland,Sports,1
+Maryland,Personal Health,1
+Maryland,Tea,1
+Maryland,Restaurants,3
+Maryland,Pharmaceutical,2
+Maryland,Biopharma,1
+Maryland,Medical Device,3
+Maryland,3D Technology,1
+Maryland,Personalization,1
+Maryland,Natural Language Processing,1
+Maryland,EdTech,3
+Maryland,Therapeutics,2
+Maryland,Social Media,2
+Maryland,Non Profit,1
+Maryland,Brand Marketing,1
+Maryland,Training,1
+Maryland,Open Source,1
+Maryland,Wellness,1
+Maryland,Financial Services,2
+Maryland,Digital Media,2
+Maryland,Lead Generation,1
+Maryland,Security,6
+Maryland,Telecommunications,1
+Maryland,Infrastructure,2
+Maryland,Wireless,1
+Maryland,mHealth,1
+Maryland,Wholesale,1
+Maryland,Content Marketing,1
+Maryland,Apps,4
+Maryland,Organic,1
+Maryland,Organic Food,1
+Maryland,Machine Learning,2
+Maryland,Communities,1
+Maryland,Service Industry,1
+Maryland,File Sharing,1
+Maryland,Consulting,1
+Maryland,Search Engine,1
+Maryland,Video,1
+Maryland,Commercial Real Estate,1
+Maryland,Location Based Services,1
+Maryland,Photo Sharing,1
+Maryland,Energy Efficiency,1
+Maryland,Events,3
+Maryland,Advertising Platforms,1
+Maryland,Content,3
+Maryland,Energy,1
+Maryland,Electronics,1
+Maryland,Drones,1
+Maryland,App Marketing,1
+Maryland,Consumer Electronics,1
+Maryland,Life Science,1
+Maryland,Business Intelligence,1
+Maryland,Navigation,2
+Maryland,Digital Marketing,1
+Maryland,Internet of Things,1
+Maryland,Compliance,1
+Maryland,Parenting,1
+Maryland,Real Estate,2
+Maryland,Food Processing,1
+Maryland,Wine And Spirits,1
+Maryland,Private Social Networking,1
+Maryland,Chemical,1
+Maryland,Language Learning,1
+Maryland,Developer Platform,2
+Maryland,Predictive Analytics,1
+Maryland,Ad Targeting,1
+Massachusetts,Information Technology,13
+Massachusetts,Network Security,2
+Massachusetts,Software,58
+Massachusetts,Internet,14
+Massachusetts,Semiconductor,4
+Massachusetts,Manufacturing,21
+Massachusetts,Solar,5
+Massachusetts,Health Care,117
+Massachusetts,Transportation,3
+Massachusetts,Energy,10
+Massachusetts,Medical,8
+Massachusetts,3D Technology,4
+Massachusetts,Video,8
+Massachusetts,Enterprise Software,73
+Massachusetts,Translation Service,1
+Massachusetts,Management Information Systems,1
+Massachusetts,Pharmaceutical,29
+Massachusetts,Retail,10
+Massachusetts,Industrial Automation,1
+Massachusetts,Robotics,5
+Massachusetts,Chemical,3
+Massachusetts,Battery,1
+Massachusetts,Ad Network,2
+Massachusetts,Privacy,1
+Massachusetts,FinTech,3
+Massachusetts,Biotechnology,66
+Massachusetts,Therapeutics,15
+Massachusetts,Telecommunications,3
+Massachusetts,Web Hosting,4
+Massachusetts,Aerospace,2
+Massachusetts,Product Design,1
+Massachusetts,Computer,9
+Massachusetts,Developer APIs,1
+Massachusetts,Medical Device,14
+Massachusetts,Social Media,9
+Massachusetts,Security,22
+Massachusetts,Content,7
+Massachusetts,Open Source,1
+Massachusetts,Non Profit,3
+Massachusetts,Politics,2
+Massachusetts,Information Services,2
+Massachusetts,Virtualization,3
+Massachusetts,Social Network,2
+Massachusetts,Analytics,28
+Massachusetts,Mobile,33
+Massachusetts,Marketing,3
+Massachusetts,Advertising,3
+Massachusetts,Advertising Platforms,4
+Massachusetts,Biopharma,5
+Massachusetts,Virtual Assistant,1
+Massachusetts,Education,17
+Massachusetts,E-Learning,3
+Massachusetts,Hospital,2
+Massachusetts,Genetics,14
+Massachusetts,SaaS,12
+Massachusetts,Human Resources,3
+Massachusetts,Artificial Intelligence,8
+Massachusetts,Big Data,15
+Massachusetts,Wireless,5
+Massachusetts,Mobile Devices,2
+Massachusetts,Cloud Data Services,2
+Massachusetts,Web Development,3
+Massachusetts,Shopping,2
+Massachusetts,Online Portals,2
+Massachusetts,Marketplace,4
+Massachusetts,Digital Media,3
+Massachusetts,E-Commerce,35
+Massachusetts,B2B,4
+Massachusetts,Trading Platform,2
+Massachusetts,Developer Tools,2
+Massachusetts,Sales,2
+Massachusetts,Drones,3
+Massachusetts,Apps,13
+Massachusetts,iOS,3
+Massachusetts,Clinical Trials,2
+Massachusetts,Restaurants,3
+Massachusetts,Events,6
+Massachusetts,Search Engine,3
+Massachusetts,Training,2
+Massachusetts,Health Diagnostics,16
+Massachusetts,Machine Learning,6
+Massachusetts,Agriculture,2
+Massachusetts,Fashion,5
+Massachusetts,Market Research,3
+Massachusetts,Oil and Gas,1
+Massachusetts,Internet of Things,4
+Massachusetts,Test and Measurement,3
+Massachusetts,Energy Management,3
+Massachusetts,Photography,2
+Massachusetts,Service Industry,2
+Massachusetts,Predictive Analytics,2
+Massachusetts,Marketing Automation,2
+Massachusetts,Android,2
+Massachusetts,Cyber Security,5
+Massachusetts,EdTech,4
+Massachusetts,Electronics,3
+Massachusetts,Hardware,19
+Massachusetts,Art,1
+Massachusetts,Business Intelligence,3
+Massachusetts,Business Information Systems,1
+Massachusetts,National Security,1
+Massachusetts,Personal Health,1
+Massachusetts,Fitness,3
+Massachusetts,Risk Management,1
+Massachusetts,Social Media Marketing,3
+Massachusetts,Cloud Computing,11
+Massachusetts,Social,1
+Massachusetts,File Sharing,1
+Massachusetts,Video Streaming,1
+Massachusetts,Pet,1
+Massachusetts,News,6
+Massachusetts,Data Integration,2
+Massachusetts,Developer Platform,1
+Massachusetts,Courier Service,1
+Massachusetts,Consumer Electronics,5
+Massachusetts,Elder Care,1
+Massachusetts,Sensor,1
+Massachusetts,GreenTech,1
+Massachusetts,Logistics,2
+Massachusetts,Life Science,5
+Massachusetts,Data Visualization,1
+Massachusetts,Real Time,2
+Massachusetts,Web Design,1
+Massachusetts,Professional Networking,1
+Massachusetts,Publishing,3
+Massachusetts,Email,4
+Massachusetts,Local,3
+Massachusetts,Personalization,3
+Massachusetts,Collaboration,2
+Massachusetts,Journalism,1
+Massachusetts,Freemium,1
+Massachusetts,Wearables,3
+Massachusetts,Social Media Management,1
+Massachusetts,Lifestyle,1
+Massachusetts,Wine And Spirits,3
+Massachusetts,Real Estate,4
+Massachusetts,Architecture,1
+Massachusetts,Home Renovation,3
+Massachusetts,CRM,4
+Massachusetts,PaaS,1
+Massachusetts,Finance,9
+Massachusetts,Location Based Services,2
+Massachusetts,Brand Marketing,3
+Massachusetts,Digital Marketing,1
+Massachusetts,Innovation Management,2
+Massachusetts,Nutrition,1
+Massachusetts,Private Social Networking,3
+Massachusetts,Email Marketing,2
+Massachusetts,Homeland Security,1
+Massachusetts,Physical Security,1
+Massachusetts,App Marketing,1
+Massachusetts,Tutoring,1
+Massachusetts,Wellness,3
+Massachusetts,Consulting,6
+Massachusetts,Financial Services,8
+Massachusetts,Task Management,2
+Massachusetts,Nanotechnology,3
+Massachusetts,Intelligent Systems,1
+Massachusetts,Personal Finance,1
+Massachusetts,Sports,6
+Massachusetts,Sporting Goods,1
+Massachusetts,Audio,4
+Massachusetts,Cloud Management,1
+Massachusetts,Cloud Security,3
+Massachusetts,Food Processing,1
+Massachusetts,Clean Energy,1
+Massachusetts,Renewable Energy,2
+Massachusetts,Sales Automation,1
+Massachusetts,Hospitality,4
+Massachusetts,Tea,1
+Massachusetts,Identity Management,2
+Massachusetts,Enterprise Applications,3
+Massachusetts,Content Marketing,1
+Massachusetts,Farming,1
+Massachusetts,Crowdsourcing,2
+Massachusetts,Industrial,1
+Massachusetts,Gaming,8
+Massachusetts,Travel,5
+Massachusetts,Cloud Infrastructure,2
+Massachusetts,3D Printing,1
+Massachusetts,Energy Efficiency,8
+Massachusetts,Web Browsers,1
+Massachusetts,Video Conferencing,1
+Massachusetts,College Recruiting,1
+Massachusetts,Recruiting,4
+Massachusetts,Craft Beer,1
+Massachusetts,Online Games,1
+Massachusetts,Food and Beverage,2
+Massachusetts,Smart Home,2
+Massachusetts,Speech Recognition,1
+Massachusetts,Hedge Funds,1
+Massachusetts,Photo Sharing,4
+Massachusetts,Insurance,2
+Massachusetts,GPU,1
+Massachusetts,Computer Vision,1
+Massachusetts,Video Chat,1
+Massachusetts,Ride Sharing,1
+Massachusetts,Mobile Advertising,1
+Massachusetts,Content Discovery,2
+Massachusetts,Employee Benefits,1
+Massachusetts,Mobile Apps,3
+Massachusetts,Media and Entertainment,1
+Massachusetts,Beauty,1
+Massachusetts,Sustainability,1
+Massachusetts,Water,1
+Massachusetts,SMS,1
+Massachusetts,Business Development,2
+Massachusetts,Technical Support,1
+Massachusetts,Women's,1
+Massachusetts,Supply Chain Management,2
+Massachusetts,Music,2
+Massachusetts,Flash Storage,1
+Massachusetts,Data Storage,1
+Massachusetts,Content Creators,1
+Massachusetts,Leasing,1
+Massachusetts,Social Innovation,1
+Massachusetts,Crowdfunding,1
+Massachusetts,Tourism,2
+Massachusetts,Psychology,1
+Massachusetts,Gift Card,1
+Massachusetts,Biofuel,1
+Massachusetts,Video on Demand,1
+Massachusetts,Augmented Reality,1
+Massachusetts,Reservations,1
+Massachusetts,Communications Infrastructure,1
+Massachusetts,Consumer Goods,1
+Massachusetts,Autonomous Vehicles,1
+Massachusetts,Compliance,1
+Massachusetts,Electric Vehicle,1
+Massachusetts,Loyalty Programs,1
+Massachusetts,Cloud Storage,1
+Massachusetts,Travel Accommodations,1
+Massachusetts,Direct Sales,1
+Massachusetts,Language Learning,1
+Massachusetts,Printing,1
+Massachusetts,Lead Generation,2
+Massachusetts,Property Insurance,1
+Massachusetts,CMS,1
+Massachusetts,Product Research,1
+Massachusetts,Building Material,1
+Massachusetts,Document Management,1
+Massachusetts,Virtual Goods,1
+Massachusetts,Higher Education,1
+Massachusetts,Nuclear,1
+Massachusetts,Natural Language Processing,1
+Massachusetts,Adventure Travel,1
+Michigan,Pharmaceutical,1
+Michigan,Health Care,10
+Michigan,Personal Health,1
+Michigan,Social Media,1
+Michigan,Video,2
+Michigan,Marketing,1
+Michigan,Computer,1
+Michigan,Network Security,1
+Michigan,Mobile,3
+Michigan,Android,1
+Michigan,iOS,1
+Michigan,Public Relations,1
+Michigan,Analytics,6
+Michigan,Social Media Management,1
+Michigan,Internet,1
+Michigan,Finance,1
+Michigan,Enterprise Software,5
+Michigan,Medical,2
+Michigan,Biotechnology,7
+Michigan,Therapeutics,2
+Michigan,Medical Device,6
+Michigan,Manufacturing,5
+Michigan,Gaming,1
+Michigan,E-Commerce,5
+Michigan,Travel,2
+Michigan,Ride Sharing,1
+Michigan,Retail,3
+Michigan,Real Estate,1
+Michigan,Aerospace,1
+Michigan,News,1
+Michigan,Search Engine,1
+Michigan,Recruiting,1
+Michigan,Human Resources,1
+Michigan,SaaS,1
+Michigan,Information Technology,2
+Michigan,Technical Support,1
+Michigan,Electronics,3
+Michigan,Cosmetics,1
+Michigan,Biopharma,1
+Michigan,Software,10
+Michigan,ERP,1
+Michigan,Digital Media,1
+Michigan,Collaboration,1
+Michigan,FinTech,1
+Michigan,Health Diagnostics,1
+Michigan,Nanotechnology,1
+Michigan,Autonomous Vehicles,1
+Michigan,Apps,2
+Michigan,Telecommunications,1
+Michigan,Predictive Analytics,1
+Michigan,Financial Services,2
+Michigan,EdTech,1
+Michigan,Education,7
+Michigan,Mobile Devices,1
+Michigan,Business Intelligence,1
+Michigan,Security,1
+Michigan,Insurance,1
+Michigan,Web Development,1
+Michigan,Developer Tools,1
+Michigan,Agriculture,1
+Michigan,Advertising,1
+Michigan,Fuel,1
+Michigan,Car Sharing,1
+Michigan,Music Education,1
+Michigan,Law Enforcement,1
+Michigan,Content Creators,1
+Michigan,Crowdsourcing,1
+Michigan,Real Estate Investment,1
+Michigan,Laser,1
+Michigan,Food Processing,1
+Michigan,Consumer Goods,1
+Michigan,Animal Feed,1
+Colorado,Marketplace,2
+Colorado,Software,30
+Colorado,Transportation,2
+Colorado,Mobile,13
+Colorado,Cloud Computing,1
+Colorado,Internet of Things,4
+Colorado,Biotechnology,4
+Colorado,Health Care,27
+Colorado,Pharmaceutical,3
+Colorado,Network Security,3
+Colorado,Security,8
+Colorado,E-Commerce,10
+Colorado,Marketing,1
+Colorado,Advertising,4
+Colorado,Predictive Analytics,1
+Colorado,Business Intelligence,5
+Colorado,Machine Learning,1
+Colorado,Internet,9
+Colorado,Classifieds,1
+Colorado,Enterprise Software,17
+Colorado,Analytics,7
+Colorado,Project Management,1
+Colorado,Video,3
+Colorado,News,1
+Colorado,Apps,12
+Colorado,Manufacturing,9
+Colorado,Data Storage,2
+Colorado,Energy,2
+Colorado,Lighting,1
+Colorado,Developer APIs,2
+Colorado,Artificial Intelligence,1
+Colorado,Big Data,4
+Colorado,Media and Entertainment,1
+Colorado,Online Auctions,1
+Colorado,Information Technology,9
+Colorado,Therapeutics,1
+Colorado,Medical,2
+Colorado,Hardware,2
+Colorado,Medical Device,5
+Colorado,Diabetes,1
+Colorado,Privacy,1
+Colorado,SaaS,8
+Colorado,Consumer Electronics,3
+Colorado,Advertising Platforms,2
+Colorado,Android,2
+Colorado,Information Services,3
+Colorado,Dental,1
+Colorado,Database,1
+Colorado,Fashion,1
+Colorado,Consumer Goods,2
+Colorado,B2B,2
+Colorado,Gaming,2
+Colorado,Fitness,2
+Colorado,Wearables,1
+Colorado,Market Research,1
+Colorado,Photography,3
+Colorado,Sustainability,1
+Colorado,FinTech,2
+Colorado,Billing,2
+Colorado,Health Diagnostics,2
+Colorado,Education,8
+Colorado,EdTech,1
+Colorado,Renewable Energy,2
+Colorado,Food and Beverage,3
+Colorado,Finance,3
+Colorado,Employment,1
+Colorado,Human Resources,1
+Colorado,Infrastructure,1
+Colorado,Wind Energy,1
+Colorado,Email,1
+Colorado,Digital Media,2
+Colorado,Real Estate,2
+Colorado,Online Portals,1
+Colorado,Social Media,3
+Colorado,Web Development,1
+Colorado,Search Engine,1
+Colorado,Real Time,1
+Colorado,Geospatial,2
+Colorado,Payments,2
+Colorado,Parenting,1
+Colorado,IT Management,1
+Colorado,Virtualization,1
+Colorado,Water Purification,1
+Colorado,Location Based Services,1
+Colorado,Self-Storage,1
+Colorado,Cloud Data Services,2
+Colorado,Computer,4
+Colorado,Messaging,1
+Colorado,Hotel,1
+Colorado,Hospitality,5
+Colorado,Tourism,1
+Colorado,Travel,2
+Colorado,Training,2
+Colorado,Corporate Training,2
+Colorado,Crowdfunding,2
+Colorado,Professional Networking,1
+Colorado,Web Design,2
+Colorado,Financial Services,2
+Colorado,Innovation Management,1
+Colorado,Insurance,1
+Colorado,Fruit,1
+Colorado,Consulting,2
+Colorado,Energy Efficiency,2
+Colorado,Music Education,1
+Colorado,Genetics,1
+Colorado,Vacation Rental,1
+Colorado,Scheduling,1
+Colorado,Content Discovery,1
+Colorado,Business Travel,1
+Colorado,Enterprise,1
+Colorado,Events,1
+Colorado,Nanotechnology,1
+Colorado,Wireless,2
+Colorado,Network Hardware,1
+Colorado,Beauty,1
+Colorado,Communities,1
+Colorado,Sports,2
+Colorado,Venture Capital,1
+Colorado,Loyalty Programs,1
+Colorado,Retail,4
+Colorado,Knowledge Management,1
+Colorado,Food Processing,1
+Colorado,Career Planning,1
+Colorado,Service Industry,1
+Colorado,Interior Design,1
+Colorado,Pet,1
+Colorado,Personal Health,1
+Colorado,Consumer Software,1
+Colorado,Digital Signage,1
+Colorado,Data Visualization,1
+Colorado,CRM,2
+Colorado,Email Marketing,1
+Colorado,Lead Generation,1
+Colorado,Resorts,1
+Colorado,Blogging Platforms,1
+Colorado,Music,1
+Colorado,Content,2
+Colorado,Crowdsourcing,1
+Colorado,Electronics,1
+Colorado,Photo Sharing,1
+Colorado,Green Consumer Goods,1
+Colorado,GreenTech,1
+Colorado,Social Network,2
+Colorado,Ad Retargeting,1
+Colorado,Adventure Travel,1
+Colorado,Home Improvement,1
+Colorado,Drones,1
+Colorado,Ad Network,1
+Colorado,Construction,1
+Colorado,Advanced Materials,1
+Colorado,Biopharma,1
+Colorado,Wedding,1
+Colorado,Collaboration,2
+Colorado,Peer to Peer,1
+Colorado,Solar,1
+Colorado,Biofuel,1
+Colorado,Dietary Supplements,1
+Colorado,Nutrition,1
+Colorado,Credit Cards,1
+Colorado,Image Recognition,1
+Colorado,Furniture,1
+Colorado,Social Media Management,1
+Colorado,Personal Finance,1
+Colorado,Content Delivery Network,1
+Colorado,Business Information Systems,1
+Colorado,NFC,1
+Colorado,Rental,1
+Colorado,Children,1
+Colorado,Reading Apps,1
+Colorado,Textiles,1
+Colorado,Life Science,1
+Colorado,SMS,1
+Colorado,Waste Management,1
+Colorado,Intellectual Property,1
+Colorado,Nightlife,1
+Colorado,Veterinary,1
+Minnesota,Medical,1
+Minnesota,Medical Device,7
+Minnesota,Health Care,23
+Minnesota,Information Technology,6
+Minnesota,Developer Platform,2
+Minnesota,Social Media,3
+Minnesota,Food and Beverage,1
+Minnesota,Mobile,3
+Minnesota,Software,10
+Minnesota,Messaging,1
+Minnesota,Apps,2
+Minnesota,Hardware,2
+Minnesota,Automotive,1
+Minnesota,Internet,3
+Minnesota,Manufacturing,3
+Minnesota,Enterprise Software,4
+Minnesota,Biotechnology,7
+Minnesota,E-Commerce,6
+Minnesota,SaaS,2
+Minnesota,Real Estate,3
+Minnesota,Human Resources,1
+Minnesota,Education,2
+Minnesota,Photography,1
+Minnesota,Digital Media,1
+Minnesota,Publishing,1
+Minnesota,Enterprise,1
+Minnesota,B2B,1
+Minnesota,Events,1
+Minnesota,Drones,1
+Minnesota,Big Data,1
+Minnesota,Chemical,1
+Minnesota,Information Services,1
+Minnesota,Life Science,1
+Minnesota,Health Diagnostics,3
+Minnesota,Business Intelligence,1
+Minnesota,Agriculture,2
+Minnesota,Sustainability,1
+Minnesota,Natural Language Processing,1
+Minnesota,Wellness,2
+Minnesota,GreenTech,1
+Minnesota,Natural Resources,1
+Minnesota,Training,1
+Minnesota,Alternative Medicine,1
+Minnesota,Marketplace,1
+Minnesota,Fuel,1
+Minnesota,Document Management,1
+Minnesota,Mechanical Engineering,1
+Minnesota,Cloud Computing,2
+Minnesota,Blogging Platforms,1
+Minnesota,Social Network,2
+Minnesota,Mobile Devices,1
+Minnesota,Broadcasting,1
+Minnesota,Therapeutics,1
+Minnesota,Computer,2
+Minnesota,Personal Health,1
+Minnesota,Hospitality,1
+Minnesota,Financial Services,1
+Minnesota,Security,2
+Minnesota,Auctions,1
+Minnesota,Energy Storage,1
+Minnesota,Event Management,1
+Minnesota,Smart Building,1
+Mississippi,Software,2
+Missouri,Health Diagnostics,1
+Missouri,Biotechnology,10
+Missouri,Mobile,3
+Missouri,Security,1
+Missouri,Social Media,4
+Missouri,Communications Infrastructure,1
+Missouri,Software,11
+Missouri,Music,1
+Missouri,Sports,2
+Missouri,Internet of Things,2
+Missouri,Sustainability,1
+Missouri,Video Streaming,1
+Missouri,Medical,1
+Missouri,Health Care,16
+Missouri,Medical Device,2
+Missouri,E-Commerce,4
+Missouri,Internet,3
+Missouri,Video,1
+Missouri,Restaurants,1
+Missouri,Apps,2
+Missouri,SaaS,3
+Missouri,Analytics,1
+Missouri,Business Development,1
+Missouri,Hospitality,1
+Missouri,Information Services,1
+Missouri,Information Technology,2
+Missouri,Food Processing,2
+Missouri,Search Engine,1
+Missouri,Enterprise Software,2
+Missouri,Business Information Systems,1
+Missouri,Cloud Computing,1
+Missouri,Solar,1
+Missouri,Machine Learning,5
+Missouri,3D Technology,1
+Missouri,Navigation,1
+Missouri,Organic Food,1
+Missouri,Manufacturing,2
+Missouri,Venture Capital,1
+Missouri,Financial Services,1
+Missouri,Education,2
+Missouri,Fitness,1
+Missouri,Small and Medium Businesses,1
+Missouri,SMS,1
+Missouri,Advertising,2
+Missouri,Finance,1
+Missouri,Gaming,2
+Missouri,Agriculture,3
+Missouri,Email Marketing,2
+Missouri,Hospital,1
+Missouri,GovTech,1
+Missouri,Wearables,1
+Missouri,Network Security,1
+Missouri,iOS,1
+Missouri,Consumer Electronics,1
+Missouri,Content,2
+Missouri,Collaboration,1
+Missouri,Developer Platform,1
+Missouri,Service Industry,1
+Missouri,Electronics,2
+Missouri,Real Time,1
+Missouri,Transaction Processing,1
+Missouri,Commercial Real Estate,1
+Missouri,Legal,1
+Missouri,Social,1
+Missouri,Life Science,2
+Missouri,Digital Entertainment,1
+Missouri,Human Resources,1
+Missouri,Wireless,1
+Missouri,Travel,2
+Missouri,Advice,1
+Missouri,Computer,1
+Missouri,Peer to Peer,1
+Missouri,Retail Technology,1
+Missouri,Web Development,1
+Missouri,Lead Management,1
+Missouri,Clinical Trials,1
+Missouri,Brand Marketing,1
+Montana,Energy,1
+Montana,Content,1
+Montana,Enterprise Software,3
+Montana,Therapeutics,1
+Montana,Risk Management,1
+Montana,Oil and Gas,1
+Montana,SaaS,1
+Montana,Market Research,1
+Montana,Small and Medium Businesses,1
+Montana,Product Design,1
+Montana,VoIP,1
+Nebraska,Construction,1
+Nebraska,Price Comparison,1
+Nebraska,Retail,1
+Nebraska,Apps,1
+Nebraska,File Sharing,1
+Nebraska,Internet,1
+Nebraska,Information Services,1
+Nebraska,Software,3
+Nebraska,Information Technology,3
+Nebraska,Health Care,1
+Nebraska,Social Assistance,1
+Nebraska,Finance,1
+Nebraska,Financial Services,1
+Nebraska,Advertising Platforms,1
+Nebraska,SaaS,2
+Nebraska,Location Based Services,1
+Nebraska,Outdoors,1
+Nebraska,Medical,1
+Nebraska,Music,1
+Nebraska,Sports,1
+Nebraska,Education,1
+Nebraska,Real Estate,1
+Nebraska,Cloud Computing,1
+Nebraska,Advertising,2
+Nebraska,Marketplace,1
+Nebraska,Web Design,1
+Nebraska,Ticketing,1
+Nebraska,Agriculture,1
+Nebraska,Transportation,1
+Nebraska,Photo Editing,1
+Nebraska,Management Consulting,1
+Nebraska,Food Processing,1
+Nebraska,Event Management,1
+Nevada,Mobile,1
+Nevada,Restaurants,1
+Nevada,Real Estate,1
+Nevada,Education,2
+Nevada,Security,1
+Nevada,Photography,2
+Nevada,Market Research,1
+Nevada,Cloud Computing,3
+Nevada,Enterprise Software,4
+Nevada,Brand Marketing,1
+Nevada,E-Commerce,3
+Nevada,Apps,4
+Nevada,Video Games,2
+Nevada,Travel,1
+Nevada,Software,2
+Nevada,Event Management,2
+Nevada,Information Technology,2
+Nevada,Digital Media,1
+Nevada,Gaming,1
+Nevada,Service Industry,1
+Nevada,Consumer Software,1
+Nevada,Internet,4
+Nevada,Sports,1
+Nevada,SaaS,2
+Nevada,Project Management,1
+Nevada,B2B,1
+Nevada,Career Planning,2
+Nevada,Tea,1
+Nevada,Management Information Systems,1
+Nevada,Finance,2
+Nevada,Business Intelligence,1
+Nevada,Health Care,4
+Nevada,Real Time,1
+Nevada,Electronics,1
+Nevada,Social Media,3
+Nevada,Audio,1
+Nevada,Messaging,1
+Nevada,Renewable Energy,1
+Nevada,Financial Services,2
+Nevada,EBooks,1
+Nevada,Web Hosting,1
+Nevada,Aerospace,1
+Nevada,Knowledge Management,1
+Nevada,Cyber Security,1
+Nevada,Nanotechnology,1
+Nevada,Fantasy Sports,1
+Nevada,Manufacturing,1
+Nevada,Advertising,1
+Nevada,Environmental Engineering,1
+Nevada,Delivery Service,1
+Nevada,Lead Generation,1
+Nevada,Drones,1
+Nevada,Billing,1
+Nevada,Employment,1
+Nevada,Lifestyle,1
+Nevada,Neuroscience,1
+New Hampshire,Consumer Electronics,1
+New Hampshire,Education,1
+New Hampshire,Mobile,1
+New Hampshire,Business Intelligence,1
+New Hampshire,Solar,1
+New Hampshire,Social Media,1
+New Hampshire,Collaboration,1
+New Hampshire,Android,1
+New Hampshire,Enterprise Software,4
+New Hampshire,Internet,3
+New Hampshire,Health Care,4
+New Hampshire,Software,2
+New Hampshire,E-Commerce,2
+New Hampshire,Cloud Computing,1
+New Hampshire,Event Management,1
+New Hampshire,Aerospace,1
+New Hampshire,Advertising,1
+New Hampshire,Product Design,1
+New Hampshire,Email,1
+New Hampshire,Big Data,1
+New Hampshire,Human Resources,1
+New Hampshire,Information Technology,1
+New Hampshire,Manufacturing,1
+New Hampshire,Retail,1
+New Hampshire,Medical Device,1
+New Hampshire,Information Services,1
+New Hampshire,Consulting,1
+New Hampshire,Transportation,1
+New Hampshire,Apps,1
+New Jersey,Software,17
+New Jersey,Consulting,1
+New Jersey,Biotechnology,12
+New Jersey,Medical,3
+New Jersey,Health Care,16
+New Jersey,Therapeutics,5
+New Jersey,Mobile,10
+New Jersey,Telecommunications,1
+New Jersey,Web Hosting,2
+New Jersey,Information Technology,3
+New Jersey,Cloud Computing,2
+New Jersey,Agriculture,2
+New Jersey,Outsourcing,1
+New Jersey,Financial Services,4
+New Jersey,Medical Device,4
+New Jersey,Document Management,1
+New Jersey,SaaS,1
+New Jersey,Compliance,1
+New Jersey,Information Services,1
+New Jersey,Analytics,4
+New Jersey,Enterprise Software,10
+New Jersey,Solar,1
+New Jersey,Internet,3
+New Jersey,E-Commerce,10
+New Jersey,Health Diagnostics,2
+New Jersey,Pharmaceutical,8
+New Jersey,Biopharma,1
+New Jersey,Asset Management,1
+New Jersey,FinTech,2
+New Jersey,Finance,2
+New Jersey,Wealth Management,1
+New Jersey,Robotics,1
+New Jersey,Advertising,1
+New Jersey,Manufacturing,5
+New Jersey,Mobile Apps,1
+New Jersey,Hardware,3
+New Jersey,Digital Media,1
+New Jersey,Sports,2
+New Jersey,Shopping,1
+New Jersey,Video,1
+New Jersey,Advertising Platforms,1
+New Jersey,Collaboration,1
+New Jersey,Genetics,2
+New Jersey,Payments,1
+New Jersey,Retail,1
+New Jersey,Music,1
+New Jersey,Content Delivery Network,1
+New Jersey,Computer,1
+New Jersey,Energy,1
+New Jersey,Fuel,1
+New Jersey,Product Research,1
+New Jersey,Food and Beverage,2
+New Jersey,Customer Service,1
+New Jersey,Water Purification,1
+New Jersey,VoIP,1
+New Jersey,Education,2
+New Jersey,EdTech,2
+New Jersey,Social Media,4
+New Jersey,Personalization,1
+New Jersey,Publishing,2
+New Jersey,Wireless,1
+New Jersey,Content,2
+New Jersey,Semiconductor,1
+New Jersey,Electric Vehicle,1
+New Jersey,Social Media Marketing,1
+New Jersey,Small and Medium Businesses,1
+New Jersey,Lifestyle,1
+New Jersey,Delivery,1
+New Jersey,Apps,1
+New Jersey,Real Estate,1
+New Jersey,Commercial Real Estate,1
+New Jersey,Audio,1
+New Jersey,Events,2
+New Jersey,IT Management,1
+New Jersey,Nanotechnology,1
+New Jersey,Developer Tools,1
+New Jersey,Email Marketing,1
+New Jersey,Virtualization,1
+New Jersey,Fashion,2
+New Jersey,Craft Beer,1
+New Jersey,Android,1
+New Jersey,Recruiting,1
+New Jersey,Fitness,1
+New Jersey,Photography,2
+New Jersey,Social Network,1
+New Jersey,Consumer Applications,1
+New Jersey,Mobile Payments,1
+New Jersey,Location Based Services,1
+New Jersey,Restaurants,1
+New Jersey,Social Innovation,1
+New Jersey,Reputation,1
+New Jersey,Computer Vision,1
+New Jersey,Natural Language Processing,1
+New Jersey,Coffee,1
+New Jersey,Web Design,1
+New Jersey,Auctions,1
+New Mexico,Biotechnology,2
+New Mexico,Genetics,1
+New Mexico,Computer Vision,1
+New Mexico,Wellness,1
+New Mexico,Risk Management,1
+New Mexico,iOS,1
+New Mexico,SaaS,1
+New Mexico,Email Marketing,1
+New Mexico,Enterprise Software,2
+New Mexico,Health Care,2
+New Mexico,Mobile,1
+New Mexico,Information Technology,1
+New Mexico,Energy,1
+New Mexico,Open Source,1
+New Mexico,Identity Management,1
+New Mexico,Hardware,1
+New Mexico,Gift Card,1
+New York,Digital Entertainment,2
+New York,Internet,51
+New York,Social,4
+New York,News,18
+New York,Video,31
+New York,Delivery,2
+New York,Food and Beverage,4
+New York,E-Commerce,118
+New York,Software,82
+New York,Training,5
+New York,Recruiting,7
+New York,Mobile,48
+New York,Product Design,1
+New York,SaaS,48
+New York,Collaboration,9
+New York,Apps,47
+New York,UX Design,1
+New York,Database,2
+New York,Open Source,2
+New York,PaaS,1
+New York,Cloud Computing,7
+New York,Digital Marketing,1
+New York,Content Marketing,6
+New York,Content Discovery,2
+New York,Hospitality,16
+New York,Building Maintenance,1
+New York,Social Media,54
+New York,Advertising,45
+New York,Business Intelligence,7
+New York,Market Research,6
+New York,Cloud Data Services,2
+New York,Local,6
+New York,Retail,21
+New York,Fashion,35
+New York,Publishing,24
+New York,B2B,9
+New York,Digital Media,26
+New York,Content,22
+New York,Payments,3
+New York,Finance,35
+New York,Marketing,9
+New York,Crowdsourcing,6
+New York,Marketplace,13
+New York,Information Technology,26
+New York,Enterprise Software,73
+New York,Analytics,45
+New York,Big Data,19
+New York,Sports,14
+New York,Subscription Service,2
+New York,Shopping,7
+New York,Biotechnology,15
+New York,Pharmaceutical,5
+New York,Health Care,91
+New York,Education,53
+New York,Fitness,10
+New York,Consumer Applications,1
+New York,Fantasy Sports,2
+New York,Gaming,12
+New York,Art,8
+New York,Information Services,10
+New York,Social Media Management,2
+New York,Social Media Marketing,4
+New York,Blogging Platforms,2
+New York,Social CRM,2
+New York,Lifestyle,12
+New York,Hardware,10
+New York,Brand Marketing,8
+New York,Advertising Platforms,17
+New York,FinTech,25
+New York,Media and Entertainment,12
+New York,Shoes,1
+New York,EdTech,12
+New York,Marketing Automation,3
+New York,Risk Management,2
+New York,Cyber Security,3
+New York,Cloud Infrastructure,1
+New York,Security,9
+New York,Image Recognition,1
+New York,Artificial Intelligence,11
+New York,Machine Learning,11
+New York,Visual Search,2
+New York,Financial Services,35
+New York,Music,10
+New York,Point of Sale,1
+New York,Insurance,3
+New York,Q&A,1
+New York,Sharing Economy,3
+New York,Jewelry,3
+New York,Real Estate,15
+New York,Communities,1
+New York,Consulting,10
+New York,Web Development,5
+New York,Mobile Advertising,10
+New York,Impact Investing,2
+New York,Data Visualization,2
+New York,Medical,3
+New York,Biopharma,5
+New York,Privacy,1
+New York,Identity Management,5
+New York,Personalization,6
+New York,Web Hosting,5
+New York,Cooking,2
+New York,Social Network,5
+New York,E-Learning,3
+New York,Human Resources,12
+New York,iOS,9
+New York,Therapeutics,4
+New York,Broadcasting,6
+New York,Podcast,2
+New York,Video Streaming,4
+New York,Consumer Lending,1
+New York,Events,15
+New York,Search Engine,8
+New York,Concerts,1
+New York,Vertical Search,1
+New York,Email Marketing,5
+New York,Professional Services,1
+New York,CRM,4
+New York,Beauty,1
+New York,Restaurants,9
+New York,Higher Education,1
+New York,Credit,4
+New York,Content Creators,3
+New York,Lingerie,1
+New York,Women's,3
+New York,Small and Medium Businesses,3
+New York,Wholesale,1
+New York,Robotics,1
+New York,Mobile Apps,15
+New York,Personal Finance,2
+New York,Internet of Things,6
+New York,Travel,12
+New York,Aerospace,1
+New York,Air Transportation,1
+New York,Biometrics,1
+New York,IT Infrastructure,1
+New York,Construction,1
+New York,Commercial Real Estate,7
+New York,Predictive Analytics,8
+New York,Messaging,7
+New York,Non Profit,3
+New York,Email,5
+New York,Real Time,8
+New York,Ad Retargeting,2
+New York,Service Industry,4
+New York,Wireless,3
+New York,Food Delivery,3
+New York,Self-Storage,1
+New York,Ad Targeting,4
+New York,Retail Technology,3
+New York,SEO,5
+New York,Lending,2
+New York,Food Processing,3
+New York,Virtual Assistant,2
+New York,Customer Service,3
+New York,Automotive,1
+New York,Financial Exchanges,2
+New York,Stock Exchanges,1
+New York,Price Comparison,1
+New York,Social Media Advertising,1
+New York,Printing,3
+New York,Consumer,3
+New York,3D Technology,2
+New York,Computer Vision,2
+New York,Developer APIs,5
+New York,Photography,8
+New York,Presentations,1
+New York,Logistics,3
+New York,Transportation,5
+New York,Supply Chain Management,2
+New York,Employee Benefits,1
+New York,Photo Editing,2
+New York,Neuroscience,1
+New York,Location Based Services,10
+New York,Mobile Payments,1
+New York,Employment,4
+New York,Career Planning,4
+New York,Wedding,1
+New York,Freelance,1
+New York,Video Advertising,2
+New York,Business Development,1
+New York,Venture Capital,2
+New York,Charity,1
+New York,Ad Exchange,1
+New York,Manufacturing,12
+New York,3D Printing,1
+New York,Consumer Goods,4
+New York,Online Auctions,4
+New York,Medical Device,6
+New York,Agriculture,2
+New York,Sensor,1
+New York,Indoor Positioning,1
+New York,Legal,7
+New York,Advice,4
+New York,Developer Tools,3
+New York,Consumer Electronics,6
+New York,Innovation Management,2
+New York,Crowdfunding,5
+New York,Personal Health,1
+New York,Photo Sharing,5
+New York,Health Diagnostics,4
+New York,Genetics,4
+New York,Fertility,1
+New York,Dating,3
+New York,Android,12
+New York,Ride Sharing,1
+New York,Children,2
+New York,Compliance,1
+New York,Freemium,2
+New York,Tourism,3
+New York,Property Management,1
+New York,DIY,1
+New York,Telecommunications,5
+New York,Product Search,1
+New York,Angel Investment,1
+New York,Computer,3
+New York,Call Center,1
+New York,Cosmetics,1
+New York,Delivery Service,3
+New York,Hospital,1
+New York,Auctions,3
+New York,Accounting,1
+New York,Wellness,1
+New York,Augmented Reality,3
+New York,Health Insurance,1
+New York,Furniture,2
+New York,Event Management,1
+New York,Social Recruiting,1
+New York,Parenting,1
+New York,Procurement,1
+New York,Law Enforcement,1
+New York,Developer Platform,2
+New York,Wearables,4
+New York,Wealth Management,8
+New York,Online Portals,3
+New York,Cloud Security,1
+New York,Industrial,2
+New York,Network Security,4
+New York,Real Estate Investment,2
+New York,Animal Feed,1
+New York,Productivity Tools,2
+New York,Ad Network,5
+New York,Software Engineering,1
+New York,Billing,1
+New York,Language Learning,3
+New York,Web Apps,1
+New York,Wine And Spirits,4
+New York,Reputation,1
+New York,Natural Language Processing,2
+New York,Architecture,4
+New York,Coworking,3
+New York,Virtual Reality,6
+New York,Credit Cards,1
+New York,Professional Networking,2
+New York,Loyalty Programs,1
+New York,Public Relations,2
+New York,Online Games,1
+New York,Reading Apps,1
+New York,Psychology,1
+New York,Oil and Gas,1
+New York,Energy,4
+New York,Incubators,1
+New York,Tutoring,2
+New York,Enterprise Applications,1
+New York,IT Management,1
+New York,Sustainability,3
+New York,Navigation,1
+New York,Public Transportation,2
+New York,EBooks,2
+New York,Hotel,1
+New York,Collaborative Consumption,2
+New York,Music Venues,1
+New York,Drones,1
+New York,Clean Energy,1
+New York,Interior Design,2
+New York,App Marketing,2
+New York,Trading Platform,1
+New York,Private Social Networking,3
+New York,Guides,1
+New York,Smart Home,3
+New York,Journalism,3
+New York,Content Syndication,1
+New York,Waste Management,1
+New York,Communications Infrastructure,1
+New York,Outsourcing,1
+New York,Data Center,2
+New York,Bitcoin,3
+New York,Classifieds,1
+New York,Local Advertising,1
+New York,Semantic Search,2
+New York,Text Analytics,1
+New York,Content Delivery Network,2
+New York,Politics,1
+New York,Film,1
+New York,Residential,1
+New York,Consumer Reviews,1
+New York,Social Shopping,1
+New York,File Sharing,2
+New York,Nightlife,1
+New York,Emerging Markets,1
+New York,Leisure,3
+New York,Gambling,1
+New York,Collectibles,1
+New York,Social Innovation,1
+New York,Semantic Web,2
+New York,Funding Platform,1
+New York,Toys,1
+New York,Solar,2
+New York,Virtual Currency,1
+New York,Nanotechnology,1
+New York,App Discovery,1
+New York,QR Codes,1
+New York,Skill Assessment,1
+New York,Lead Generation,4
+New York,Nutrition,1
+New York,College Recruiting,2
+New York,Transaction Processing,2
+New York,Energy Management,1
+New York,Home Renovation,1
+New York,RFID,1
+New York,Recreation,2
+New York,Rental,1
+New York,Document Management,1
+New York,GPS,1
+New York,Energy Efficiency,1
+New York,Same Day Delivery,1
+New York,Gift Card,1
+New York,Adventure Travel,1
+New York,Universities,1
+New York,MMO Games,1
+New York,Web Browsers,1
+New York,Virtual Desktop,1
+New York,Building Material,1
+New York,Brewing,1
+New York,Linux,1
+New York,SEM,1
+New York,Performing Arts,1
+New York,Creative Agency,1
+New York,Lighting,1
+New York,AgTech,1
+New York,Data Center Automation,1
+New York,Local Business,1
+New York,Religion,1
+New York,Public Safety,1
+New York,Social Bookmarking,1
+New York,Diving,1
+New York,Bioinformatics,1
+New York,Space Travel,1
+Connecticut,Therapeutics,3
+Connecticut,Biotechnology,11
+Connecticut,Health Care,14
+Connecticut,Medical,1
+Connecticut,Pharmaceutical,2
+Connecticut,Health Diagnostics,2
+Connecticut,Software,5
+Connecticut,SaaS,1
+Connecticut,Enterprise Software,3
+Connecticut,Natural Resources,1
+Connecticut,Manufacturing,4
+Connecticut,News,1
+Connecticut,Security,1
+Connecticut,Education,2
+Connecticut,Online Auctions,1
+Connecticut,Medical Device,2
+Connecticut,Personal Finance,1
+Connecticut,Information Technology,4
+Connecticut,Web Hosting,1
+Connecticut,Mobile,1
+Connecticut,Information Services,2
+Connecticut,Music,2
+Connecticut,Cloud Computing,1
+Connecticut,Analytics,8
+Connecticut,Clinical Trials,1
+Connecticut,Location Based Services,1
+Connecticut,Homeland Security,1
+Connecticut,Identity Management,1
+Connecticut,E-Commerce,1
+Connecticut,Finance,1
+Connecticut,Financial Services,2
+Connecticut,Advertising,1
+Connecticut,Ad Network,1
+Connecticut,Event Management,1
+Connecticut,Events,1
+Connecticut,Social Media Marketing,1
+Connecticut,Food Processing,1
+Connecticut,Supply Chain Management,1
+Connecticut,Precious Metals,1
+Connecticut,Internet,2
+Connecticut,Aquaculture,1
+Connecticut,iOS,1
+Connecticut,Neuroscience,1
+Connecticut,Biopharma,1
+Connecticut,Restaurants,1
+Connecticut,Leisure,1
+Connecticut,Genetics,1
+Connecticut,Mechanical Engineering,1
+Connecticut,ISP,1
+Connecticut,Emergency Medicine,1
+Connecticut,Facial Recognition,1
+Connecticut,Consulting,1
+Connecticut,Business Information Systems,1
+Connecticut,Social CRM,1
+Connecticut,Hardware,2
+Connecticut,Banking,1
+Connecticut,Shopping,1
+Connecticut,Knowledge Management,1
+Connecticut,B2B,1
+Connecticut,Social Media,2
+Connecticut,Food and Beverage,1
+Connecticut,Cloud Data Services,1
+Connecticut,Crowdsourcing,1
+Connecticut,Oil and Gas,1
+Connecticut,Business Development,1
+Connecticut,Aerospace,1
+Connecticut,Wearables,1
+North Carolina,Mobile,2
+North Carolina,Hardware,4
+North Carolina,Computer,2
+North Carolina,Manufacturing,2
+North Carolina,SaaS,9
+North Carolina,Enterprise Software,5
+North Carolina,Information Technology,5
+North Carolina,Customer Service,2
+North Carolina,Apps,2
+North Carolina,Analytics,4
+North Carolina,Mobile Apps,3
+North Carolina,Food and Beverage,2
+North Carolina,Medical Device,6
+North Carolina,Software,16
+North Carolina,Robotics,1
+North Carolina,Power Grid,1
+North Carolina,Health Care,24
+North Carolina,Pharmaceutical,8
+North Carolina,Biotechnology,11
+North Carolina,Cloud Computing,2
+North Carolina,Location Based Services,1
+North Carolina,FinTech,2
+North Carolina,Finance,1
+North Carolina,Education,6
+North Carolina,Machine Learning,1
+North Carolina,Computer Vision,1
+North Carolina,Infrastructure,1
+North Carolina,Therapeutics,2
+North Carolina,Music,1
+North Carolina,Web Development,1
+North Carolina,Personal Health,1
+North Carolina,Wellness,1
+North Carolina,Wearables,1
+North Carolina,Data Integration,1
+North Carolina,Telecommunications,1
+North Carolina,Web Hosting,4
+North Carolina,Market Research,1
+North Carolina,Social Media Marketing,1
+North Carolina,Email Marketing,1
+North Carolina,Search Engine,2
+North Carolina,E-Commerce,2
+North Carolina,Retail,1
+North Carolina,Advertising,1
+North Carolina,Brand Marketing,1
+North Carolina,Photo Sharing,2
+North Carolina,Android,2
+North Carolina,iOS,2
+North Carolina,Public Transportation,1
+North Carolina,Internet,2
+North Carolina,Content,2
+North Carolina,Video,1
+North Carolina,Predictive Analytics,2
+North Carolina,Business Development,3
+North Carolina,Energy,1
+North Carolina,Renewable Energy,1
+North Carolina,Solar,1
+North Carolina,Fashion,2
+North Carolina,Health Diagnostics,1
+North Carolina,Sports,1
+North Carolina,Geospatial,1
+North Carolina,Human Resources,1
+North Carolina,Digital Media,2
+North Carolina,Biopharma,3
+North Carolina,Social Media,2
+North Carolina,Financial Services,1
+North Carolina,Real Estate,3
+North Carolina,Billing,1
+North Carolina,Virtual Reality,1
+North Carolina,Industrial Engineering,1
+North Carolina,Online Portals,2
+North Carolina,Information Services,1
+North Carolina,Women's,1
+North Carolina,Chemical,2
+North Carolina,Content Discovery,1
+North Carolina,3D Technology,1
+North Carolina,Management Information Systems,1
+North Carolina,Developer Tools,2
+North Carolina,Industrial,1
+North Carolina,Subscription Service,1
+North Carolina,B2B,1
+North Carolina,Adventure Travel,1
+North Carolina,Social Recruiting,1
+North Carolina,Sustainability,1
+North Carolina,Nutrition,1
+North Carolina,Consumer Electronics,1
+North Carolina,Water Purification,1
+North Carolina,Food Processing,1
+North Carolina,Parenting,1
+North Carolina,Social Media Advertising,1
+North Carolina,Hospitality,3
+North Carolina,Consulting,1
+North Carolina,Publishing,1
+North Carolina,Life Insurance,1
+North Carolina,Art,1
+North Carolina,Music Venues,1
+North Carolina,Project Management,1
+North Carolina,Ad Targeting,1
+North Carolina,PaaS,1
+North Carolina,Social Media Management,1
+North Carolina,Construction,1
+North Carolina,Employment,1
+North Carolina,Green Building,1
+North Carolina,Audio,1
+North Carolina,Food Delivery,1
+North Carolina,Genetics,1
+North Carolina,Optical Communication,1
+North Dakota,Productivity Tools,1
+North Dakota,Drones,1
+North Dakota,Therapeutics,1
+North Dakota,Manufacturing,2
+North Dakota,Enterprise Software,2
+North Dakota,Energy,1
+North Dakota,Audio,1
+Ohio,Health Care,25
+Ohio,Non Profit,3
+Ohio,Manufacturing,1
+Ohio,Real Estate,1
+Ohio,Commercial Real Estate,1
+Ohio,Mobile,9
+Ohio,Information Technology,3
+Ohio,Pharmaceutical,2
+Ohio,Biotechnology,3
+Ohio,Life Science,3
+Ohio,Medical Device,10
+Ohio,Education,2
+Ohio,Consulting,3
+Ohio,Retail,1
+Ohio,E-Commerce,14
+Ohio,Insurance,1
+Ohio,Security,1
+Ohio,Software,20
+Ohio,Virtual Reality,2
+Ohio,Logistics,2
+Ohio,Medical,1
+Ohio,Therapeutics,1
+Ohio,Hardware,1
+Ohio,Genetics,1
+Ohio,Fitness,1
+Ohio,Automotive,1
+Ohio,Mobile Apps,1
+Ohio,Auto Insurance,1
+Ohio,SaaS,6
+Ohio,Analytics,7
+Ohio,3D Printing,1
+Ohio,Enterprise Software,10
+Ohio,Compliance,1
+Ohio,Social Media Management,1
+Ohio,Project Management,2
+Ohio,Business Intelligence,1
+Ohio,Social Media,7
+Ohio,Data Mining,1
+Ohio,Recruiting,1
+Ohio,Internet,1
+Ohio,Apps,7
+Ohio,Chemical,1
+Ohio,Big Data,1
+Ohio,B2B,2
+Ohio,Information Services,1
+Ohio,Legal,1
+Ohio,Digital Media,5
+Ohio,Human Resources,1
+Ohio,Artificial Intelligence,1
+Ohio,Solar,1
+Ohio,Sustainability,1
+Ohio,Outdoors,1
+Ohio,Advertising,1
+Ohio,Marketing,1
+Ohio,File Sharing,1
+Ohio,Shopping,1
+Ohio,Sensor,1
+Ohio,Energy,1
+Ohio,Oil and Gas,1
+Ohio,Sports,1
+Ohio,Gift Card,1
+Ohio,Personal Health,1
+Ohio,Fashion,3
+Ohio,Finance,3
+Ohio,Hospitality,1
+Ohio,iOS,1
+Ohio,Wine And Spirits,1
+Ohio,Service Industry,1
+Ohio,Email Marketing,1
+Ohio,Personalization,2
+Ohio,Art,1
+Ohio,Real Time,1
+Ohio,Data Center,1
+Ohio,Industrial,1
+Ohio,Business Development,1
+Ohio,Crowdsourcing,1
+Ohio,Events,3
+Ohio,Cloud Infrastructure,1
+Ohio,Wireless,2
+Ohio,Video Streaming,1
+Ohio,Video,1
+Ohio,Pet,1
+Ohio,Casual Games,1
+Ohio,Drones,1
+Ohio,FinTech,1
+Ohio,Adventure Travel,1
+Ohio,Web Apps,1
+Ohio,DIY,1
+Ohio,Water,2
+Ohio,Local,1
+Ohio,Fantasy Sports,1
+Ohio,Fuel Cell,1
+Ohio,Search Engine,1
+Ohio,Toys,1
+Ohio,Travel,1
+Ohio,Presentations,1
+Ohio,Social Media Marketing,1
+Ohio,Sponsorship,1
+Ohio,Photo Editing,1
+Ohio,Natural Resources,1
+Ohio,Developer Tools,1
+Ohio,Publishing,1
+Ohio,Blogging Platforms,1
+Ohio,Property Insurance,1
+Oklahoma,Automotive,1
+Oklahoma,E-Commerce,1
+Oklahoma,Health Care,1
+Oklahoma,Biotechnology,4
+Oklahoma,Energy,2
+Oklahoma,Medical,1
+Oklahoma,Manufacturing,2
+Oklahoma,Social Media,1
+Oklahoma,Social Media Marketing,1
+Oklahoma,Health Diagnostics,1
+Oklahoma,Nanotechnology,1
+Oklahoma,Security,2
+Oklahoma,Audio,1
+Oklahoma,Software,2
+Oklahoma,Innovation Management,1
+Oklahoma,Education,1
+Oklahoma,Enterprise Software,1
+Oklahoma,Shopping,1
+Oklahoma,Sports,1
+Oklahoma,Test and Measurement,1
+Oklahoma,Music,1
+Oregon,Mobile,5
+Oregon,Messaging,1
+Oregon,Information Technology,4
+Oregon,Analytics,4
+Oregon,Social Media,2
+Oregon,Security,2
+Oregon,Search Engine,1
+Oregon,Local,1
+Oregon,Software,12
+Oregon,Information Services,1
+Oregon,Travel,1
+Oregon,Tourism,1
+Oregon,iOS,2
+Oregon,Mapping Services,1
+Oregon,Navigation,1
+Oregon,Content Delivery Network,2
+Oregon,Enterprise Software,5
+Oregon,Video,3
+Oregon,Internet,4
+Oregon,Cloud Computing,2
+Oregon,Finance,1
+Oregon,Real Estate,2
+Oregon,Marketing Automation,1
+Oregon,Predictive Analytics,1
+Oregon,Manufacturing,2
+Oregon,Product Design,1
+Oregon,Consumer Electronics,1
+Oregon,Biotechnology,3
+Oregon,Health Diagnostics,2
+Oregon,Financial Services,3
+Oregon,Banking,1
+Oregon,Supply Chain Management,1
+Oregon,Health Care,4
+Oregon,Electronics,1
+Oregon,Fitness,2
+Oregon,Virtual Workforce,1
+Oregon,Vending and Concessions,1
+Oregon,SaaS,4
+Oregon,Education,1
+Oregon,E-Learning,2
+Oregon,Ediscovery,1
+Oregon,Real Estate Investment,1
+Oregon,Semiconductor,1
+Oregon,Wireless,2
+Oregon,Audio,1
+Oregon,Big Data,1
+Oregon,Internet of Things,2
+Oregon,Online Portals,1
+Oregon,Digital Marketing,1
+Oregon,Wearables,1
+Oregon,Recycling,1
+Oregon,Sustainability,2
+Oregon,Location Based Services,1
+Oregon,Social Media Marketing,2
+Oregon,Wealth Management,1
+Oregon,Data Visualization,1
+Oregon,Data Storage,1
+Oregon,Leisure,1
+Oregon,Food Processing,1
+Oregon,E-Commerce,5
+Oregon,Web Hosting,1
+Oregon,Cyber Security,1
+Oregon,Consumer Goods,1
+Oregon,Sales Automation,1
+Oregon,Retail,1
+Oregon,Artificial Intelligence,1
+Oregon,Legal,1
+Oregon,Crowdfunding,1
+Oregon,Recreation,1
+Oregon,Business Development,2
+Oregon,Energy,1
+Oregon,Food and Beverage,1
+Oregon,Venture Capital,1
+Oregon,Virtualization,1
+Oregon,Social Recruiting,1
+Oregon,Consulting,1
+Oregon,Augmented Reality,1
+Oregon,EBooks,1
+Oregon,Hospitality,1
+Oregon,Content,1
+Oregon,SMS,1
+Oregon,Stock Exchanges,1
+Oregon,Delivery,1
+Oregon,VoIP,1
+Oregon,Therapeutics,1
+Oregon,SEO,1
+Oregon,Sports,1
+Oregon,Musical Instruments,1
+Oregon,Public Relations,1
+Oregon,Virtual Reality,1
+Oregon,Dating,1
+Oregon,Digital Entertainment,1
+Oregon,Advice,1
+Oregon,Optical Communication,1
+Pennsylvania,E-Learning,1
+Pennsylvania,Internet,6
+Pennsylvania,Education,11
+Pennsylvania,Software,27
+Pennsylvania,Computer,2
+Pennsylvania,Finance,5
+Pennsylvania,Health Care,59
+Pennsylvania,Robotics,3
+Pennsylvania,Navigation,1
+Pennsylvania,Logistics,1
+Pennsylvania,E-Commerce,12
+Pennsylvania,Mobile,7
+Pennsylvania,Retail,3
+Pennsylvania,Cloud Computing,1
+Pennsylvania,Cloud Data Services,3
+Pennsylvania,Web Hosting,2
+Pennsylvania,Cloud Security,1
+Pennsylvania,Life Science,1
+Pennsylvania,Biotechnology,16
+Pennsylvania,Pharmaceutical,6
+Pennsylvania,Consulting,2
+Pennsylvania,Information Technology,7
+Pennsylvania,Enterprise Software,20
+Pennsylvania,Software Engineering,1
+Pennsylvania,Test and Measurement,2
+Pennsylvania,Social Media,11
+Pennsylvania,Hardware,4
+Pennsylvania,Cloud Infrastructure,1
+Pennsylvania,Therapeutics,3
+Pennsylvania,Medical Device,9
+Pennsylvania,Analytics,5
+Pennsylvania,Events,3
+Pennsylvania,Real Estate,6
+Pennsylvania,Financial Services,3
+Pennsylvania,Genetics,1
+Pennsylvania,Big Data,1
+Pennsylvania,SaaS,3
+Pennsylvania,Apps,6
+Pennsylvania,Automotive,1
+Pennsylvania,Warehousing,1
+Pennsylvania,Restaurants,2
+Pennsylvania,Web Development,1
+Pennsylvania,Information Services,2
+Pennsylvania,Industrial,2
+Pennsylvania,Innovation Management,1
+Pennsylvania,CRM,2
+Pennsylvania,Artificial Intelligence,1
+Pennsylvania,Transportation,1
+Pennsylvania,Human Resources,1
+Pennsylvania,Energy Management,1
+Pennsylvania,Data Center Automation,1
+Pennsylvania,Photography,1
+Pennsylvania,Business Intelligence,2
+Pennsylvania,Energy Efficiency,1
+Pennsylvania,Energy,2
+Pennsylvania,Power Grid,1
+Pennsylvania,SMS,1
+Pennsylvania,Training,4
+Pennsylvania,Biopharma,3
+Pennsylvania,Health Diagnostics,2
+Pennsylvania,FinTech,3
+Pennsylvania,Predictive Analytics,2
+Pennsylvania,Tutoring,1
+Pennsylvania,Real Time,1
+Pennsylvania,Advertising,2
+Pennsylvania,Identity Management,2
+Pennsylvania,Digital Media,4
+Pennsylvania,Media and Entertainment,1
+Pennsylvania,Fitness,2
+Pennsylvania,Wearables,1
+Pennsylvania,Veterinary,1
+Pennsylvania,Banking,1
+Pennsylvania,Retail Technology,1
+Pennsylvania,Hospitality,2
+Pennsylvania,Ad Targeting,1
+Pennsylvania,Electronics,1
+Pennsylvania,Consumer Electronics,1
+Pennsylvania,Manufacturing,6
+Pennsylvania,Online Portals,1
+Pennsylvania,Rental Property,1
+Pennsylvania,Aerospace,1
+Pennsylvania,Small and Medium Businesses,2
+Pennsylvania,Diabetes,1
+Pennsylvania,Search Engine,5
+Pennsylvania,Toys,1
+Pennsylvania,Pet,1
+Pennsylvania,Communities,1
+Pennsylvania,Collaboration,3
+Pennsylvania,Developer Platform,2
+Pennsylvania,Marketing Automation,1
+Pennsylvania,Home and Garden,1
+Pennsylvania,Telecommunications,1
+Pennsylvania,Service Industry,1
+Pennsylvania,Communications Infrastructure,1
+Pennsylvania,Wireless,2
+Pennsylvania,Network Hardware,1
+Pennsylvania,Advanced Materials,1
+Pennsylvania,Sports,1
+Pennsylvania,Video Games,2
+Pennsylvania,Security,3
+Pennsylvania,Coupons,3
+Pennsylvania,Video,1
+Pennsylvania,Content Marketing,1
+Pennsylvania,Video Advertising,1
+Pennsylvania,Advertising Platforms,1
+Pennsylvania,Sustainability,1
+Pennsylvania,Outdoors,1
+Pennsylvania,Nanotechnology,2
+Pennsylvania,Nutrition,1
+Pennsylvania,Online Auctions,1
+Pennsylvania,Product Design,1
+Pennsylvania,Supply Chain Management,1
+Pennsylvania,Personal Health,1
+Pennsylvania,Cosmetics,2
+Pennsylvania,Fashion,1
+Pennsylvania,NFC,1
+Pennsylvania,Mobile Payments,1
+Pennsylvania,Non Profit,2
+Pennsylvania,Sensor,1
+Pennsylvania,Solar,1
+Pennsylvania,Wine And Spirits,3
+Pennsylvania,News,1
+Pennsylvania,Property Management,1
+Pennsylvania,Music,1
+Pennsylvania,Autonomous Vehicles,1
+Pennsylvania,Bakery,1
+Pennsylvania,Augmented Reality,1
+Pennsylvania,3D Technology,1
+Pennsylvania,Mining Technology,1
+Pennsylvania,Gaming,2
+Pennsylvania,Web Browsers,1
+Pennsylvania,Dental,1
+Pennsylvania,Fantasy Sports,1
+Pennsylvania,Recruiting,1
+Pennsylvania,Career Planning,3
+Pennsylvania,Self-Storage,1
+Pennsylvania,Casual Games,1
+Pennsylvania,Wedding,1
+Pennsylvania,Architecture,1
+Pennsylvania,Market Research,1
+Pennsylvania,Communication Hardware,1
+Rhode Island,E-Commerce,4
+Rhode Island,Billing,1
+Rhode Island,Biotechnology,3
+Rhode Island,Automotive,1
+Rhode Island,Social Media,2
+Rhode Island,Fitness,1
+Rhode Island,Health Care,4
+Rhode Island,Virtualization,1
+Rhode Island,Manufacturing,1
+Rhode Island,Energy,3
+Rhode Island,Finance,1
+Rhode Island,Developer Tools,1
+Rhode Island,Sporting Goods,1
+Rhode Island,Developer Platform,1
+Rhode Island,Software,3
+Rhode Island,Marketing Automation,1
+Rhode Island,Transportation,2
+Rhode Island,Solar,1
+Rhode Island,Chemical,1
+Rhode Island,Subscription Service,1
+Rhode Island,Blogging Platforms,1
+Rhode Island,Robotics,1
+Rhode Island,Messaging,1
+Rhode Island,Analytics,1
+Rhode Island,Wireless,1
+Rhode Island,Advertising,2
+Rhode Island,Sports,2
+Rhode Island,Real Time,1
+Rhode Island,Human Resources,1
+Rhode Island,Events,1
+Rhode Island,Printing,1
+Rhode Island,Education,3
+Rhode Island,Information Services,1
+Rhode Island,Collaboration,1
+Rhode Island,Event Management,1
+Delaware,Mobile,1
+Delaware,E-Commerce,2
+Delaware,E-Commerce Platforms,1
+Delaware,Energy,1
+Delaware,Internet of Things,2
+Delaware,Psychology,1
+Delaware,Big Data,1
+Delaware,Cloud Data Services,1
+Delaware,File Sharing,1
+Delaware,Natural Language Processing,1
+Delaware,SaaS,1
+Delaware,Information Technology,3
+Delaware,Supply Chain Management,1
+Delaware,Hardware,1
+Delaware,Digital Entertainment,1
+Delaware,Consumer Electronics,1
+Delaware,Network Security,2
+Delaware,Security,1
+Delaware,Biotechnology,1
+Delaware,Internet,2
+Delaware,Enterprise Software,2
+Delaware,Content,1
+Delaware,Business Intelligence,1
+Delaware,Marketplace,1
+Delaware,Architecture,1
+Delaware,Water,1
+Delaware,Genetics,1
+Delaware,Social Media Management,1
+Delaware,Apps,3
+Delaware,CRM,1
+Delaware,Marketing Automation,1
+Delaware,Predictive Analytics,1
+Delaware,Crowdfunding,1
+Delaware,Software,3
+Delaware,Developer APIs,1
+Delaware,Location Based Services,1
+Delaware,Health Care,1
+Delaware,Public Transportation,1
+Delaware,Linux,1
+Delaware,PaaS,1
+Delaware,Social Media,1
+Delaware,Financial Services,1
+Delaware,Video,1
+Delaware,Beauty,1
+Delaware,Transportation,1
+Delaware,Banking,1
+Delaware,Travel,2
+Delaware,Restaurants,1
+South Carolina,Analytics,1
+South Carolina,Health Care,11
+South Carolina,Financial Services,2
+South Carolina,Marketing Automation,1
+South Carolina,FinTech,1
+South Carolina,Advice,1
+South Carolina,Software,2
+South Carolina,Internet,2
+South Carolina,Service Industry,1
+South Carolina,Transportation,1
+South Carolina,Small and Medium Businesses,1
+South Carolina,Textiles,1
+South Carolina,Non Profit,1
+South Carolina,Education,1
+South Carolina,Apps,1
+South Carolina,Lead Generation,1
+South Carolina,SaaS,1
+South Carolina,B2B,1
+South Carolina,Big Data,1
+South Carolina,Enterprise Software,1
+South Carolina,Predictive Analytics,1
+South Carolina,Internet of Things,1
+South Carolina,Finance,1
+South Carolina,Information Services,1
+South Carolina,Higher Education,1
+South Carolina,Therapeutics,2
+South Carolina,Pharmaceutical,1
+South Carolina,Genetics,2
+South Carolina,Organic Food,1
+South Carolina,App Marketing,1
+South Carolina,E-Commerce,1
+South Carolina,Enterprise,1
+South Carolina,Leisure,1
+South Carolina,Nanotechnology,1
+South Carolina,Photography,1
+South Carolina,News,1
+South Dakota,Health Care,2
+South Dakota,FinTech,1
+South Dakota,Agriculture,1
+South Dakota,Education,1
+Tennessee,Financial Services,3
+Tennessee,Health Care,40
+Tennessee,Analytics,6
+Tennessee,Big Data,1
+Tennessee,Software,18
+Tennessee,Information Technology,4
+Tennessee,Market Research,1
+Tennessee,Internet,2
+Tennessee,Email,1
+Tennessee,SaaS,3
+Tennessee,Apps,3
+Tennessee,Web Apps,1
+Tennessee,Wellness,1
+Tennessee,Biotechnology,2
+Tennessee,Service Industry,1
+Tennessee,Employment,2
+Tennessee,Enterprise Software,7
+Tennessee,Collaboration,2
+Tennessee,Industrial,2
+Tennessee,Video,2
+Tennessee,Electronics,1
+Tennessee,Marketing,1
+Tennessee,Digital Media,1
+Tennessee,Advertising,2
+Tennessee,Health Diagnostics,1
+Tennessee,Payments,1
+Tennessee,Mobile,4
+Tennessee,Internet of Things,2
+Tennessee,Pharmaceutical,1
+Tennessee,Solar,1
+Tennessee,EHR,1
+Tennessee,Logistics,2
+Tennessee,Medical,2
+Tennessee,E-Commerce,3
+Tennessee,Content Creators,1
+Tennessee,Crowdfunding,1
+Tennessee,Security,3
+Tennessee,Cloud Data Services,1
+Tennessee,Music,3
+Tennessee,Construction,2
+Tennessee,Hardware,1
+Tennessee,Social Media,3
+Tennessee,Personal Finance,1
+Tennessee,Finance,2
+Tennessee,Education,1
+Tennessee,Career Planning,1
+Tennessee,Product Research,1
+Tennessee,Banking,1
+Tennessee,Medical Device,3
+Tennessee,Wireless,1
+Tennessee,Computer Vision,1
+Tennessee,Real Estate,1
+Tennessee,Personal Health,1
+Tennessee,Sports,2
+Tennessee,Point of Sale,2
+Tennessee,Human Resources,1
+Tennessee,Fitness,1
+Tennessee,Messaging,1
+Tennessee,Events,1
+Tennessee,iOS,1
+Tennessee,Web Hosting,1
+Tennessee,Restaurants,1
+Tennessee,Cooking,1
+Tennessee,Energy,1
+Tennessee,SEO,1
+Tennessee,Automotive,1
+Tennessee,Developer Tools,2
+Tennessee,Android,1
+Tennessee,Fashion,2
+Tennessee,Public Relations,1
+Tennessee,Small and Medium Businesses,1
+Tennessee,Lighting,1
+Tennessee,Audio,1
+Tennessee,Test and Measurement,1
+Tennessee,Women's,1
+Tennessee,Advanced Materials,1
+Tennessee,News,2
+Tennessee,Media and Entertainment,1
+Tennessee,Training,1
+Texas,Travel,2
+Texas,Advertising,6
+Texas,Tourism,1
+Texas,Energy,19
+Texas,Oil and Gas,1
+Texas,Energy Efficiency,5
+Texas,Marketplace,4
+Texas,E-Commerce,26
+Texas,Coupons,1
+Texas,Retail,8
+Texas,Search Engine,1
+Texas,Automotive,2
+Texas,Machine Learning,4
+Texas,SaaS,14
+Texas,Artificial Intelligence,2
+Texas,Predictive Analytics,2
+Texas,Compliance,1
+Texas,Retail Technology,1
+Texas,Software,49
+Texas,IT Management,1
+Texas,Social Media,20
+Texas,Internet,18
+Texas,Digital Media,5
+Texas,Fashion,3
+Texas,Enterprise Software,43
+Texas,Business Development,2
+Texas,Telecommunications,7
+Texas,Real Time,2
+Texas,Web Hosting,1
+Texas,Communications Infrastructure,3
+Texas,Analytics,13
+Texas,Business Information Systems,1
+Texas,Information Technology,16
+Texas,Biotechnology,9
+Texas,Biopharma,3
+Texas,Pharmaceutical,5
+Texas,CRM,2
+Texas,Small and Medium Businesses,3
+Texas,Sales Automation,1
+Texas,Medical Device,7
+Texas,Health Care,57
+Texas,Therapeutics,5
+Texas,Network Security,4
+Texas,Security,6
+Texas,Medical,4
+Texas,Data Storage,1
+Texas,Video,2
+Texas,Virtual Desktop,1
+Texas,Content,3
+Texas,Web Development,2
+Texas,Cyber Security,2
+Texas,IaaS,2
+Texas,Location Based Services,1
+Texas,Android,2
+Texas,iOS,2
+Texas,Mobile,19
+Texas,Apps,10
+Texas,EdTech,5
+Texas,Education,15
+Texas,Marketing,1
+Texas,B2B,2
+Texas,Real Estate,8
+Texas,Property Management,2
+Texas,Information Services,1
+Texas,Big Data,4
+Texas,Social Media Marketing,2
+Texas,Email Marketing,1
+Texas,Marketing Automation,3
+Texas,Data Integration,2
+Texas,Transportation,3
+Texas,Mobile Advertising,1
+Texas,Serious Games,1
+Texas,Gaming,2
+Texas,Internet of Things,3
+Texas,Cloud Computing,11
+Texas,Cloud Data Services,2
+Texas,FinTech,6
+Texas,Finance,6
+Texas,E-Commerce Platforms,2
+Texas,Clean Energy,2
+Texas,Solar,2
+Texas,Video Conferencing,1
+Texas,Financial Services,6
+Texas,Computer,2
+Texas,Sports,4
+Texas,Consulting,6
+Texas,Online Portals,1
+Texas,Collaboration,4
+Texas,Database,1
+Texas,Data Visualization,2
+Texas,Biomass Energy,1
+Texas,Public Relations,1
+Texas,Health Diagnostics,2
+Texas,Recruiting,1
+Texas,Human Resources,2
+Texas,Manufacturing,10
+Texas,Industrial,2
+Texas,Genetics,1
+Texas,Mobile Apps,6
+Texas,Drones,1
+Texas,Robotics,1
+Texas,Knowledge Management,1
+Texas,Infrastructure,1
+Texas,Semiconductor,3
+Texas,Wearables,1
+Texas,Personalization,2
+Texas,Legal,1
+Texas,Retirement,2
+Texas,Identity Management,1
+Texas,Banking,2
+Texas,Hardware,8
+Texas,Events,5
+Texas,Publishing,3
+Texas,Personal Health,1
+Texas,mHealth,1
+Texas,Leisure,4
+Texas,Wellness,1
+Texas,Fitness,3
+Texas,Smart Home,2
+Texas,Training,1
+Texas,Advertising Platforms,1
+Texas,Service Industry,7
+Texas,Agriculture,1
+Texas,Hospitality,4
+Texas,VoIP,1
+Texas,Environmental Engineering,1
+Texas,Renewable Energy,2
+Texas,Shopping,2
+Texas,Billing,2
+Texas,Consumer Lending,1
+Texas,Smart Building,1
+Texas,Lighting,1
+Texas,Developer Tools,1
+Texas,Brand Marketing,1
+Texas,Music,3
+Texas,Semantic Search,3
+Texas,Employment,2
+Texas,Collaborative Consumption,1
+Texas,Wine And Spirits,1
+Texas,Construction,1
+Texas,Cloud Storage,1
+Texas,Local,2
+Texas,Consumer Electronics,3
+Texas,CleanTech,1
+Texas,Energy Storage,2
+Texas,Power Grid,1
+Texas,Content Delivery Network,1
+Texas,Developer APIs,1
+Texas,Supply Chain Management,3
+Texas,Wireless,7
+Texas,Payments,1
+Texas,Photography,4
+Texas,Facial Recognition,1
+Texas,Energy Management,2
+Texas,Recycling,1
+Texas,Innovation Management,1
+Texas,E-Learning,1
+Texas,News,2
+Texas,Natural Language Processing,1
+Texas,Electronics,3
+Texas,Virtual Reality,3
+Texas,Brewing,1
+Texas,Procurement,1
+Texas,Virtualization,1
+Texas,Messaging,2
+Texas,Social,1
+Texas,Mapping Services,1
+Texas,Contact Management,1
+Texas,Clinical Trials,1
+Texas,Media and Entertainment,2
+Texas,Fuel,1
+Texas,Casual Games,1
+Texas,Life Science,1
+Texas,Operating Systems,1
+Texas,Shipping,1
+Texas,Chemical,1
+Texas,Developer Platform,1
+Texas,Ticketing,1
+Texas,PaaS,1
+Texas,Video Streaming,1
+Texas,Project Management,1
+Texas,Fantasy Sports,3
+Texas,Skill Assessment,1
+Texas,Outdoors,1
+Texas,Social Network,2
+Texas,Email,1
+Texas,Pet,2
+Texas,Lifestyle,3
+Texas,Sporting Goods,1
+Texas,Residential,1
+Texas,Market Research,1
+Texas,Virtual Assistant,1
+Texas,Product Research,1
+Texas,Social Entrepreneurship,1
+Texas,Recreation,2
+Texas,Home Decor,1
+Texas,GreenTech,1
+Texas,Law Enforcement,1
+Texas,Social Media Management,1
+Texas,Web Design,1
+Texas,Technical Support,1
+Texas,Tennis,1
+Texas,AgTech,1
+Texas,Intrusion Detection,1
+Texas,Augmented Reality,1
+Texas,Tutoring,2
+Texas,Mechanical Engineering,1
+Texas,Video Chat,2
+Texas,Public Safety,2
+Texas,Crowdfunding,1
+Texas,QR Codes,1
+Texas,Art,1
+Texas,Public Transportation,1
+Texas,Test and Measurement,1
+Texas,Cooking,1
+Texas,Debit Cards,1
+Texas,Non Profit,1
+Texas,Parenting,1
+Texas,Peer to Peer,1
+Utah,Market Research,1
+Utah,SaaS,6
+Utah,Consumer,1
+Utah,Retail,2
+Utah,Energy,2
+Utah,Clean Energy,1
+Utah,Education,6
+Utah,Enterprise Software,13
+Utah,Internet of Things,1
+Utah,Security,4
+Utah,Biotechnology,2
+Utah,Pharmaceutical,2
+Utah,Robotics,1
+Utah,Analytics,2
+Utah,Predictive Analytics,1
+Utah,Big Data,2
+Utah,Energy Management,1
+Utah,Software,16
+Utah,Human Resources,1
+Utah,Recruiting,1
+Utah,Video,1
+Utah,Health Care,7
+Utah,Information Technology,2
+Utah,Computer,1
+Utah,E-Learning,1
+Utah,Mobile,2
+Utah,Business Intelligence,3
+Utah,Manufacturing,3
+Utah,Apps,4
+Utah,Financial Services,3
+Utah,Internet,3
+Utah,Finance,1
+Utah,Banking,1
+Utah,Medical,2
+Utah,Cloud Data Services,1
+Utah,Hardware,3
+Utah,Advertising,3
+Utah,Small and Medium Businesses,1
+Utah,E-Commerce,5
+Utah,Payments,2
+Utah,Lead Generation,1
+Utah,Marketing,1
+Utah,Renewable Energy,1
+Utah,Real Estate,2
+Utah,Social Media,2
+Utah,Photography,1
+Utah,Wine And Spirits,1
+Utah,Health Diagnostics,2
+Utah,Medical Device,2
+Utah,Local,1
+Utah,Events,1
+Utah,Geospatial,1
+Utah,Web Hosting,1
+Utah,Information Services,1
+Utah,Genetics,1
+Utah,Cloud Computing,3
+Utah,CRM,1
+Utah,Email Marketing,1
+Utah,News,1
+Utah,Insurance,1
+Utah,Gaming,1
+Utah,Web Development,1
+Utah,Online Portals,1
+Utah,Fashion,1
+Utah,Transportation,1
+Utah,Legal,1
+Utah,Technical Support,1
+Utah,Art,2
+Utah,Consulting,1
+Utah,Data Integration,2
+Utah,Search Engine,1
+Utah,Wireless,2
+Utah,Music,2
+Utah,Supply Chain Management,1
+Utah,Subscription Service,1
+Utah,Content Delivery Network,1
+Utah,3D Technology,1
+Utah,Sports,1
+Utah,Sales,1
+Utah,Flash Storage,1
+Vermont,Software,1
+Vermont,Legal,1
+Vermont,Internet,2
+Vermont,Wellness,1
+Vermont,Health Care,1
+Vermont,E-Commerce,2
+Vermont,Retail,1
+Vermont,Advertising,1
+Vermont,GreenTech,1
+Vermont,Mobile,1
+Vermont,Renewable Energy,1
+Vermont,Solar,1
+Vermont,Cloud Computing,1
+Vermont,Energy,1
+Vermont,Product Design,1
+Vermont,Gaming,1
+Vermont,MMO Games,1
+Vermont,Geospatial,1
+Vermont,Financial Services,1
+Virginia,Consumer,1
+Virginia,Consulting,5
+Virginia,Financial Services,3
+Virginia,Marketing,1
+Virginia,Advertising,3
+Virginia,Publishing,2
+Virginia,Security,16
+Virginia,Web Hosting,1
+Virginia,Content,1
+Virginia,Information Technology,10
+Virginia,Cloud Computing,6
+Virginia,Analytics,6
+Virginia,Enterprise Software,14
+Virginia,Big Data,6
+Virginia,Internet of Things,5
+Virginia,Internet,3
+Virginia,Wireless,2
+Virginia,Network Security,1
+Virginia,SaaS,5
+Virginia,Software,25
+Virginia,Cyber Security,5
+Virginia,Risk Management,1
+Virginia,Social Media,6
+Virginia,Education,4
+Virginia,Higher Education,1
+Virginia,Health Diagnostics,1
+Virginia,Communications Infrastructure,1
+Virginia,Health Care,16
+Virginia,Telecommunications,3
+Virginia,Mobile,8
+Virginia,Industrial,1
+Virginia,Events,2
+Virginia,Computer,2
+Virginia,Automotive,1
+Virginia,Business Intelligence,4
+Virginia,Video,1
+Virginia,Energy Efficiency,1
+Virginia,E-Commerce,9
+Virginia,FinTech,2
+Virginia,Lending,1
+Virginia,Android,1
+Virginia,iOS,3
+Virginia,Privacy,1
+Virginia,Information Services,2
+Virginia,Application Performance Management,1
+Virginia,Biotechnology,6
+Virginia,Life Science,1
+Virginia,Tourism,1
+Virginia,Compliance,1
+Virginia,Aerospace,1
+Virginia,Bitcoin,1
+Virginia,Location Based Services,1
+Virginia,Digital Media,1
+Virginia,Human Resources,2
+Virginia,Developer APIs,1
+Virginia,Data Center,1
+Virginia,Wellness,1
+Virginia,GreenTech,1
+Virginia,Search Engine,2
+Virginia,Dental,1
+Virginia,Messaging,1
+Virginia,Training,1
+Virginia,Reputation,1
+Virginia,Pharmaceutical,2
+Virginia,Advertising Platforms,1
+Virginia,Mobile Advertising,1
+Virginia,Marketing Automation,1
+Virginia,Geospatial,1
+Virginia,Hardware,2
+Virginia,Real Time,1
+Virginia,Apps,2
+Virginia,Intelligent Systems,2
+Virginia,Retail,1
+Virginia,Crowdsourcing,2
+Virginia,Photography,1
+Virginia,Consumer Electronics,1
+Virginia,Finance,3
+Virginia,Employment,2
+Virginia,Medical Device,1
+Virginia,Software Engineering,1
+Virginia,Genetics,2
+Virginia,Professional Services,1
+Virginia,Navigation,1
+Virginia,Sports,1
+Virginia,STEM Education,1
+Virginia,Organic Food,1
+Virginia,VoIP,2
+Virginia,Wealth Management,2
+Virginia,Manufacturing,1
+Virginia,Shopping,1
+Virginia,SMS,1
+Virginia,Data Integration,2
+Virginia,Accounting,1
+Virginia,Social CRM,1
+Virginia,Professional Networking,1
+Virginia,Local,2
+Virginia,Delivery,1
+Virginia,Solar,1
+Virginia,Hospitality,1
+Virginia,Eyewear,1
+Virginia,Fleet Management,1
+Virginia,Lead Generation,1
+Virginia,Real Estate,5
+Virginia,Beauty,1
+Virginia,Natural Language Processing,1
+Virginia,TV,1
+Virginia,Building Maintenance,1
+Virginia,Music,2
+Virginia,Gaming,1
+Virginia,Private Social Networking,1
+Virginia,Energy Management,1
+Virginia,Food Delivery,1
+Virginia,Video Chat,1
+Virginia,Business Development,1
+Virginia,Water Transportation,1
+Virginia,Email,1
+Virginia,Email Marketing,1
+Virginia,Concerts,1
+District of Columbia,Enterprise Software,4
+District of Columbia,Cloud Computing,1
+District of Columbia,Business Intelligence,3
+District of Columbia,Big Data,2
+District of Columbia,Analytics,4
+District of Columbia,Sports,1
+District of Columbia,Internet,5
+District of Columbia,Advertising Platforms,1
+District of Columbia,Digital Media,1
+District of Columbia,Information Technology,2
+District of Columbia,Education,6
+District of Columbia,E-Commerce,5
+District of Columbia,Marketing,1
+District of Columbia,FinTech,2
+District of Columbia,Financial Services,1
+District of Columbia,Finance,4
+District of Columbia,Information Services,1
+District of Columbia,Supply Chain Management,1
+District of Columbia,Software,6
+District of Columbia,Legal,1
+District of Columbia,Content,1
+District of Columbia,CRM,1
+District of Columbia,Hospitality,1
+District of Columbia,Universities,1
+District of Columbia,Publishing,1
+District of Columbia,Local,1
+District of Columbia,Flowers,1
+District of Columbia,Health Care,8
+District of Columbia,Machine Learning,1
+District of Columbia,Drones,1
+District of Columbia,Energy,1
+District of Columbia,Payments,1
+District of Columbia,Apps,2
+District of Columbia,Social Media,4
+District of Columbia,Mobile,2
+District of Columbia,iOS,2
+District of Columbia,SaaS,2
+District of Columbia,Energy Efficiency,1
+District of Columbia,EdTech,2
+District of Columbia,Management Information Systems,1
+District of Columbia,Android,1
+District of Columbia,Identity Management,1
+District of Columbia,Hardware,4
+District of Columbia,Mobile Apps,1
+District of Columbia,Fashion,2
+District of Columbia,Real Estate,2
+District of Columbia,Market Research,1
+District of Columbia,Biotechnology,1
+District of Columbia,Events,2
+District of Columbia,Web Development,1
+District of Columbia,Public Transportation,1
+District of Columbia,Transportation,1
+District of Columbia,Non Profit,2
+District of Columbia,Leisure,1
+District of Columbia,Retail,2
+District of Columbia,Restaurants,1
+District of Columbia,Advice,1
+District of Columbia,Pet,1
+District of Columbia,Music,1
+District of Columbia,Innovation Management,1
+District of Columbia,Lifestyle,1
+District of Columbia,Small and Medium Businesses,1
+District of Columbia,Developer Platform,1
+District of Columbia,Water Purification,1
+District of Columbia,Online Portals,1
+District of Columbia,Consulting,1
+District of Columbia,Product Search,1
+District of Columbia,Audio,1
+District of Columbia,Food Processing,1
+District of Columbia,B2B,1
+District of Columbia,Business Development,1
+District of Columbia,Communications Infrastructure,1
+District of Columbia,Social,1
+West Virginia,Industrial,1
+West Virginia,Health Care,1
+West Virginia,Health Diagnostics,1
+Wisconsin,E-Commerce,4
+Wisconsin,Restaurants,1
+Wisconsin,Health Care,11
+Wisconsin,Medical,1
+Wisconsin,Analytics,1
+Wisconsin,Biotechnology,3
+Wisconsin,Pharmaceutical,1
+Wisconsin,Information Technology,7
+Wisconsin,Video,1
+Wisconsin,Enterprise Software,4
+Wisconsin,SaaS,4
+Wisconsin,Finance,2
+Wisconsin,Mobile Apps,1
+Wisconsin,Software,5
+Wisconsin,Real Estate,2
+Wisconsin,Search Engine,1
+Wisconsin,Manufacturing,2
+Wisconsin,Internet of Things,1
+Wisconsin,Cloud Infrastructure,1
+Wisconsin,Machine Learning,1
+Wisconsin,Virtual Reality,1
+Wisconsin,Fraud Detection,1
+Wisconsin,Apps,2
+Wisconsin,Insurance,1
+Wisconsin,Fuel,1
+Wisconsin,Health Diagnostics,3
+Wisconsin,Energy,1
+Wisconsin,Big Data,3
+Wisconsin,Audio,1
+Wisconsin,Security,1
+Wisconsin,Advertising,1
+Wisconsin,Social Media,4
+Wisconsin,Communications Infrastructure,1
+Wisconsin,Art,1
+Wisconsin,Publishing,1
+Wisconsin,Recruiting,1
+Wisconsin,Android,1
+Wisconsin,Internet,4
+Wisconsin,Photography,1
+Wisconsin,Biopharma,1
+Wisconsin,Education,1
+Wisconsin,Gamification,1
+Wisconsin,Product Search,1
+Wisconsin,Wireless,1
+Wisconsin,Life Science,1
+Wisconsin,Consulting,1
+Florida,Medical,5
+Florida,Service Industry,2
+Florida,Health Care,42
+Florida,E-Commerce,14
+Florida,Web Development,2
+Florida,Network Security,1
+Florida,Small and Medium Businesses,3
+Florida,Analytics,7
+Florida,Biotechnology,6
+Florida,Payments,3
+Florida,Consulting,3
+Florida,Information Technology,10
+Florida,Advertising,7
+Florida,Machine Learning,1
+Florida,Internet of Things,2
+Florida,Artificial Intelligence,1
+Florida,Ad Targeting,1
+Florida,Industrial,2
+Florida,Telecommunications,3
+Florida,Mobile,5
+Florida,Wireless,1
+Florida,Web Hosting,1
+Florida,Software,17
+Florida,Browser Extensions,1
+Florida,Therapeutics,2
+Florida,Genetics,1
+Florida,Pharmaceutical,7
+Florida,Location Based Services,1
+Florida,Enterprise Software,15
+Florida,iOS,2
+Florida,Insurance,1
+Florida,Finance,7
+Florida,Financial Services,6
+Florida,Energy,2
+Florida,SaaS,9
+Florida,Water,1
+Florida,Water Purification,1
+Florida,Video,4
+Florida,Nightlife,1
+Florida,Apps,6
+Florida,Automotive,2
+Florida,Medical Device,3
+Florida,Music,2
+Florida,Digital Media,3
+Florida,Social Media,8
+Florida,Publishing,2
+Florida,Social Media Marketing,2
+Florida,Transportation,3
+Florida,Project Management,1
+Florida,Collaboration,1
+Florida,3D Technology,1
+Florida,Logistics,1
+Florida,Travel,4
+Florida,Food and Beverage,1
+Florida,Art,2
+Florida,Mobile Apps,3
+Florida,Internet,8
+Florida,Content,2
+Florida,Real Time,4
+Florida,Hospitality,3
+Florida,Hotel,2
+Florida,Tourism,1
+Florida,Adventure Travel,2
+Florida,Lead Generation,1
+Florida,Advertising Platforms,1
+Florida,Mobile Devices,1
+Florida,Manufacturing,6
+Florida,Human Resources,2
+Florida,Recruiting,2
+Florida,Marketing,1
+Florida,Leasing,1
+Florida,Electronics,1
+Florida,Sports,3
+Florida,SMS,2
+Florida,Cloud Computing,3
+Florida,Wearables,2
+Florida,Big Data,2
+Florida,Education,7
+Florida,Customer Service,2
+Florida,Email Marketing,1
+Florida,Shopping,2
+Florida,Retail,1
+Florida,Pet,1
+Florida,Predictive Analytics,3
+Florida,Cyber Security,4
+Florida,GovTech,1
+Florida,Legal,2
+Florida,Business Intelligence,2
+Florida,Higher Education,1
+Florida,Renewable Energy,1
+Florida,Information Services,1
+Florida,Security,3
+Florida,Social Network,1
+Florida,Broadcasting,1
+Florida,News,3
+Florida,Retail Technology,2
+Florida,Communications Infrastructure,1
+Florida,Drones,1
+Florida,Reputation,1
+Florida,Wellness,1
+Florida,Search Engine,1
+Florida,Content Delivery Network,1
+Florida,NFC,1
+Florida,Property Management,1
+Florida,Real Estate,5
+Florida,Affiliate Marketing,1
+Florida,Computer,1
+Florida,Professional Networking,1
+Florida,Call Center,1
+Florida,Gaming,1
+Florida,Emerging Markets,1
+Florida,E-Commerce Platforms,1
+Florida,Marketplace,1
+Florida,Children,1
+Florida,Rental Property,1
+Florida,File Sharing,2
+Florida,Virtual Reality,1
+Florida,Private Social Networking,1
+Florida,E-Learning,1
+Florida,Communication Hardware,1
+Florida,Developer APIs,2
+Florida,Local,2
+Florida,Content Marketing,1
+Florida,Gamification,1
+Florida,Media and Entertainment,1
+Florida,Women's,1
+Florida,Consumer Electronics,1
+Florida,Lifestyle,2
+Florida,Parenting,1
+Florida,Biopharma,1
+Florida,Ad Network,1
+Florida,Android,2
+Florida,Fashion,3
+Florida,Aerospace,1
+Florida,Space Travel,1
+Florida,Dating,1
+Florida,Task Management,1
+Florida,Solar,1
+Florida,Food Processing,1
+Florida,Restaurants,2
+Florida,Intelligent Systems,1
+Florida,Business Information Systems,1
+Florida,Photography,1
+Florida,Men's,1
+Florida,Lead Management,1
+Florida,Brand Marketing,1
+Florida,Wedding,1
+Florida,Content Syndication,1
+Florida,Local Advertising,1
+Florida,Non Profit,1
+Florida,Social News,1
+Florida,GreenTech,1
+Wyoming,Marketing,1
+Wyoming,Software,1
+Wyoming,Public Relations,1
+Wyoming,Food and Beverage,1
+Wyoming,Financial Services,1
+Arizona,Manufacturing,1
+Arizona,Solar,2
+Arizona,Automotive,2
+Arizona,Internet,1
+Arizona,E-Commerce,7
+Arizona,Service Industry,1
+Arizona,Aerospace,1
+Arizona,Travel,1
+Arizona,Enterprise Software,7
+Arizona,Self-Storage,1
+Arizona,Small and Medium Businesses,1
+Arizona,CRM,2
+Arizona,Semiconductor,1
+Arizona,Software,2
+Arizona,Wholesale,1
+Arizona,Supply Chain Management,2
+Arizona,Information Technology,1
+Arizona,Information Services,2
+Arizona,Construction,1
+Arizona,Health Care,8
+Arizona,Advertising,1
+Arizona,Marketing,1
+Arizona,Transportation,2
+Arizona,Public Transportation,1
+Arizona,Education,4
+Arizona,SaaS,4
+Arizona,EdTech,3
+Arizona,Payments,1
+Arizona,Health Diagnostics,2
+Arizona,Medical,1
+Arizona,Genetics,1
+Arizona,Biotechnology,3
+Arizona,Real Estate,1
+Arizona,Financial Services,3
+Arizona,Mobile,2
+Arizona,Local Advertising,1
+Arizona,Search Engine,1
+Arizona,Social Recruiting,1
+Arizona,Digital Media,1
+Arizona,Mobile Advertising,1
+Arizona,Medical Device,3
+Arizona,Machine Learning,1
+Arizona,Internet of Things,2
+Arizona,Big Data,1
+Arizona,Business Intelligence,2
+Arizona,Fitness,1
+Arizona,Cloud Data Services,1
+Arizona,Sports,1
+Arizona,Beauty,1
+Arizona,Mobile Apps,1
+Arizona,Social CRM,1
+Arizona,Open Source,1
+Arizona,Wellness,1
+Arizona,Developer Tools,1
+Arizona,Apps,3
+Arizona,Hardware,1
+Arizona,Social Media,4
+Arizona,Venture Capital,1
+Arizona,Events,1
+Arizona,Video,1
+Arizona,Cloud Computing,2
+Arizona,Energy Management,1
+Arizona,Language Learning,1
+Arizona,Insurance,1
+Arizona,Young Adults,1
+Arizona,Credit,1
+Arizona,Nanotechnology,2
+Arizona,Content Discovery,1
+Arizona,Retail Technology,1
+Arizona,Communities,1
+Arizona,Delivery,1
+Arizona,Career Planning,1
+Arizona,Real Time,1
+Arizona,Tourism,1
+Arizona,Government,1
+Arizona,Mobile Devices,1
+Arizona,Android,1
+Arizona,Lead Generation,1
+Arizona,Subscription Service,1
+Arizona,Consulting,2
+Arizona,SEO,1
+Arizona,Charity,1
+Arizona,Local,1
+Arizona,Semantic Search,1
+Arizona,Ticketing,1
+Arizona,Web Browsers,1
+Arizona,Personalization,1
+Arizona,Music Venues,1
+Arizona,Art,1
+Arizona,Blogging Platforms,1
+Georgia,Health Care,21
+Georgia,Data Visualization,1
+Georgia,Machine Learning,2
+Georgia,Social Media,6
+Georgia,Finance,3
+Georgia,Crowdfunding,1
+Georgia,Wellness,4
+Georgia,Pharmaceutical,3
+Georgia,Enterprise Software,11
+Georgia,Business Intelligence,2
+Georgia,Collaboration,2
+Georgia,Education,7
+Georgia,Internet,3
+Georgia,Analytics,7
+Georgia,Real Estate,3
+Georgia,Mobile,5
+Georgia,CRM,3
+Georgia,Information Technology,8
+Georgia,Travel,1
+Georgia,Mobile Advertising,1
+Georgia,Retail,4
+Georgia,Computer,1
+Georgia,Security,5
+Georgia,Biotechnology,4
+Georgia,Manufacturing,2
+Georgia,E-Commerce,10
+Georgia,Outsourcing,1
+Georgia,Scheduling,1
+Georgia,Recruiting,2
+Georgia,Advertising,1
+Georgia,Employment,1
+Georgia,Software,13
+Georgia,Apps,4
+Georgia,SaaS,4
+Georgia,Music,3
+Georgia,Web Development,1
+Georgia,Human Resources,2
+Georgia,Financial Services,4
+Georgia,Content Creators,1
+Georgia,Cloud Computing,2
+Georgia,Big Data,2
+Georgia,Bitcoin,1
+Georgia,Consumer,1
+Georgia,Gaming,3
+Georgia,Lifestyle,1
+Georgia,Fitness,1
+Georgia,Internet of Things,2
+Georgia,Artificial Intelligence,1
+Georgia,Energy Efficiency,2
+Georgia,Supply Chain Management,1
+Georgia,Therapeutics,2
+Georgia,Medical Device,9
+Georgia,Legal,1
+Georgia,iOS,2
+Georgia,Information Services,1
+Georgia,Telecommunications,3
+Georgia,Biopharma,1
+Georgia,ERP,1
+Georgia,Food and Beverage,1
+Georgia,Mobile Apps,1
+Georgia,TV,1
+Georgia,Media and Entertainment,2
+Georgia,Marketing Automation,1
+Georgia,Service Industry,1
+Georgia,Cyber Security,1
+Georgia,Cloud Security,1
+Georgia,Retail Technology,1
+Georgia,Wireless,2
+Georgia,Oil and Gas,2
+Georgia,Power Grid,1
+Georgia,Marketplace,1
+Georgia,Health Insurance,1
+Georgia,Social Media Marketing,3
+Georgia,Broadcasting,1
+Georgia,Developer Tools,3
+Georgia,Document Management,1
+Georgia,Business Development,1
+Georgia,Reputation,1
+Georgia,Employee Benefits,1
+Georgia,Infrastructure,2
+Georgia,MOOC,1
+Georgia,Health Diagnostics,1
+Georgia,Personal Finance,1
+Georgia,Photography,1
+Georgia,Virtualization,1
+Georgia,Intellectual Property,1
+Georgia,Transportation,1
+Georgia,Event Management,1
+Georgia,Audio,1
+Georgia,Predictive Analytics,2
+Georgia,Vending and Concessions,1
+Georgia,Location Based Services,2
+Georgia,Local,1
+Georgia,Coupons,1
+Georgia,GreenTech,1
+Georgia,Credit,1
+Georgia,Consumer Lending,1
+Georgia,Online Portals,1
+Georgia,Video,2
+Georgia,B2B,1
+Georgia,Publishing,1
+Georgia,Journalism,1
+Georgia,Clinical Trials,1
+Georgia,Energy,1
+Georgia,Drone Management,1
+Georgia,Chemical,1
+Georgia,Android,2
+Georgia,Fashion,1
+Georgia,Hardware,1
+Georgia,Web Hosting,3
+Georgia,Private Social Networking,1
+Georgia,Email,1
+Georgia,Email Marketing,1
+Georgia,GovTech,1
+Georgia,Non Profit,1
+Georgia,Homeland Security,1
+Georgia,Video Conferencing,1
+Georgia,Video on Demand,1
+Georgia,Restaurants,1
+Georgia,Mobile Payments,1
+Georgia,Landscaping,1
+Georgia,Risk Management,1
+Georgia,Personalization,2
+Georgia,Parking,1
+Georgia,Renewable Energy,2
+Georgia,Public Safety,1
+Georgia,B2C,1
+Georgia,Wearables,1
+Georgia,Robotics,1
+Georgia,Logistics,2
+Georgia,Energy Management,1
+Georgia,Ad Targeting,1
+Georgia,VoIP,1
+Hawaii,Tourism,1
+Hawaii,Biopharma,1
+Hawaii,Innovation Management,1
+Hawaii,Knowledge Management,1
+Hawaii,Mobile,2
+Hawaii,FinTech,1
+Hawaii,Internet of Things,1
+Hawaii,Car Sharing,1
+Hawaii,Blogging Platforms,1
+Hawaii,Apps,2
+Hawaii,Health Care,1
+Hawaii,Artificial Intelligence,1
+Hawaii,E-Commerce,1
+Hawaii,Energy,1
+Hawaii,Intellectual Property,1
+Hawaii,Enterprise Software,1
+Hawaii,Gift Card,1
+Hawaii,Restaurants,1
+Hawaii,Virtual Reality,1
+Hawaii,Manufacturing,1
+Hawaii,SaaS,1
+Hawaii,Content,1
+Hawaii,Gaming,2
+Hawaii,Consulting,1
+Idaho,Finance,2
+Idaho,Commercial Real Estate,1
+Idaho,E-Commerce,1
+Idaho,Software,3
+Idaho,Enterprise Applications,1
+Idaho,Fitness,1
+Idaho,Network Hardware,1
+Idaho,Compliance,1
+Idaho,EdTech,1
+Idaho,Apps,1
+Idaho,Solar,1
+Idaho,Sports,1
+Idaho,Advice,1
+Idaho,Consulting,1
+Idaho,Payments,1
+Idaho,Email,1
+Idaho,Analytics,1
+Idaho,Business Intelligence,1
+Idaho,Energy,1
+Idaho,Clean Energy,1
+Illinois,Non Profit,3
+Illinois,Advertising,4
+Illinois,Software,30
+Illinois,Analytics,10
+Illinois,Advertising Platforms,3
+Illinois,Health Care,31
+Illinois,Developer Platform,1
+Illinois,Business Intelligence,1
+Illinois,Marketplace,1
+Illinois,E-Commerce,33
+Illinois,Credit Cards,1
+Illinois,Security,1
+Illinois,Fraud Detection,1
+Illinois,Music,1
+Illinois,Internet,8
+Illinois,Big Data,4
+Illinois,Predictive Analytics,1
+Illinois,Artificial Intelligence,2
+Illinois,Email,1
+Illinois,Apps,16
+Illinois,Search Engine,2
+Illinois,SEO,2
+Illinois,Retail Technology,2
+Illinois,SaaS,12
+Illinois,Finance,12
+Illinois,Digital Media,2
+Illinois,Mobile Advertising,1
+Illinois,Product Design,2
+Illinois,Information Services,4
+Illinois,Video,3
+Illinois,Video Streaming,1
+Illinois,Mobile,11
+Illinois,Travel,1
+Illinois,Financial Services,8
+Illinois,FinTech,3
+Illinois,Coupons,1
+Illinois,Enterprise Software,17
+Illinois,Information Technology,10
+Illinois,Wearables,2
+Illinois,Energy,5
+Illinois,Fitness,2
+Illinois,Cloud Computing,2
+Illinois,Biotechnology,2
+Illinois,Manufacturing,3
+Illinois,Web Design,1
+Illinois,Health Diagnostics,3
+Illinois,Test and Measurement,1
+Illinois,Personal Finance,1
+Illinois,Innovation Management,1
+Illinois,Consumer Lending,1
+Illinois,Art,2
+Illinois,Space Travel,1
+Illinois,Medical Device,3
+Illinois,Wellness,3
+Illinois,Telecommunications,3
+Illinois,Medical,2
+Illinois,Lending,1
+Illinois,Subscription Service,2
+Illinois,Impact Investing,2
+Illinois,Food and Beverage,4
+Illinois,Logistics,4
+Illinois,Delivery,1
+Illinois,Automotive,1
+Illinois,Shipping,1
+Illinois,Fashion,1
+Illinois,Social Media,9
+Illinois,Loyalty Programs,1
+Illinois,B2B,2
+Illinois,Insurance,3
+Illinois,Small and Medium Businesses,1
+Illinois,Android,1
+Illinois,iOS,2
+Illinois,Education,13
+Illinois,Retail,4
+Illinois,Location Based Services,2
+Illinois,Payments,2
+Illinois,Billing,1
+Illinois,Wedding,1
+Illinois,Supply Chain Management,2
+Illinois,Hardware,5
+Illinois,Real Estate,6
+Illinois,Commercial Real Estate,1
+Illinois,Recruiting,3
+Illinois,Communities,1
+Illinois,Web Hosting,1
+Illinois,Transportation,3
+Illinois,File Sharing,1
+Illinois,Service Industry,5
+Illinois,Marketing,3
+Illinois,Crowdfunding,4
+Illinois,Financial Exchanges,1
+Illinois,Brand Marketing,1
+Illinois,Renewable Energy,1
+Illinois,Green Consumer Goods,1
+Illinois,Data Storage,1
+Illinois,Ad Server,1
+Illinois,Photography,1
+Illinois,Photo Sharing,3
+Illinois,Digital Marketing,1
+Illinois,IaaS,1
+Illinois,Electronics,1
+Illinois,Lighting,1
+Illinois,Fuel,1
+Illinois,Graphic Design,1
+Illinois,Social Network,1
+Illinois,Local,3
+Illinois,Consulting,4
+Illinois,Laundry and Dry-cleaning,1
+Illinois,Market Research,2
+Illinois,Product Research,1
+Illinois,Natural Resources,1
+Illinois,Virtual Reality,1
+Illinois,Risk Management,5
+Illinois,Life Science,1
+Illinois,Wealth Management,1
+Illinois,Human Resources,3
+Illinois,Legal,3
+Illinois,EdTech,1
+Illinois,Events,2
+Illinois,Internet of Things,1
+Illinois,Public Transportation,1
+Illinois,Podcast,2
+Illinois,Messaging,1
+Illinois,Corporate Training,1
+Illinois,Restaurants,3
+Illinois,Consumer,1
+Illinois,Hospitality,6
+Illinois,Tourism,1
+Illinois,IT Management,2
+Illinois,Sporting Goods,1
+Illinois,Consumer Electronics,3
+Illinois,Solar,2
+Illinois,Food Delivery,1
+Illinois,Developer APIs,2
+Illinois,Lifestyle,2
+Illinois,Publishing,1
+Illinois,Pharmaceutical,1
+Illinois,Nutrition,1
+Illinois,Performing Arts,1
+Illinois,Smart Home,1
+Illinois,Furniture,1
+Illinois,Broadcasting,1
+Illinois,Organic Food,2
+Illinois,Gaming,1
+Illinois,Open Source,2
+Illinois,Construction,2
+Illinois,Guides,1
+Illinois,Biopharma,2
+Illinois,Network Security,2
+Illinois,Aerospace,1
+Illinois,Trading Platform,1
+Illinois,Video Conferencing,1
+Illinois,Real Time,1
+Illinois,Property Management,1
+Illinois,Parking,1
+Illinois,Robotics,1
+Illinois,Collaboration,1
+Illinois,Printing,1
+Illinois,Energy Efficiency,1
+Illinois,Infrastructure,1
+Illinois,Consumer Reviews,2
+Illinois,Interior Design,1
+Illinois,Online Portals,1
+Illinois,Semantic Search,1
+Illinois,Project Management,1
+Illinois,Career Planning,1
+Illinois,Facility Management,1
+Illinois,Social CRM,1
+Illinois,Consumer Applications,1
+Illinois,Tutoring,1
+Illinois,Wine And Spirits,1
+Illinois,Cooking,1
+Illinois,Racing,1
+Illinois,Leisure,1
+Illinois,Rental,1
+Illinois,Enterprise Applications,1
+Illinois,Women's,1
+Washington,Marketplace,3
+Washington,Real Estate,3
+Washington,Biotechnology,16
+Washington,Therapeutics,4
+Washington,Health Care,41
+Washington,Information Technology,7
+Washington,Enterprise Software,28
+Washington,SaaS,14
+Washington,Internet,17
+Washington,FinTech,3
+Washington,Mobile Payments,2
+Washington,Finance,6
+Washington,Mobile,16
+Washington,Tourism,1
+Washington,Software,39
+Washington,Travel,3
+Washington,Payments,1
+Washington,Cloud Computing,8
+Washington,Collaboration,4
+Washington,Developer Tools,3
+Washington,CRM,3
+Washington,Delivery,2
+Washington,E-Commerce,20
+Washington,Retail,2
+Washington,Consumer,1
+Washington,Mobile Apps,3
+Washington,Transportation,4
+Washington,Internet of Things,2
+Washington,Analytics,12
+Washington,Big Data,8
+Washington,Crowdsourcing,1
+Washington,Cloud Data Services,2
+Washington,Energy,2
+Washington,Electrical Distribution,1
+Washington,Infrastructure,1
+Washington,Web Browsers,1
+Washington,Database,1
+Washington,Food and Beverage,4
+Washington,Restaurants,3
+Washington,Real Time,3
+Washington,Data Visualization,1
+Washington,Digital Media,2
+Washington,Natural Resources,1
+Washington,Robotics,3
+Washington,Identity Management,1
+Washington,Developer APIs,1
+Washington,Logistics,3
+Washington,Service Industry,1
+Washington,Telecommunications,2
+Washington,Wireless,3
+Washington,Web Hosting,2
+Washington,Pharmaceutical,2
+Washington,Medical,3
+Washington,Health Diagnostics,3
+Washington,Farming,1
+Washington,Supply Chain Management,1
+Washington,Manufacturing,4
+Washington,Business Information Systems,1
+Washington,Apps,13
+Washington,Consumer Electronics,4
+Washington,Consulting,3
+Washington,Medical Device,6
+Washington,iOS,1
+Washington,Lifestyle,2
+Washington,Wine And Spirits,1
+Washington,Solar,2
+Washington,Hardware,2
+Washington,Clean Energy,1
+Washington,Outdoors,1
+Washington,Renewable Energy,1
+Washington,Financial Services,2
+Washington,Training,4
+Washington,Textiles,1
+Washington,Customer Service,2
+Washington,Information Services,9
+Washington,Recycling,1
+Washington,Search Engine,1
+Washington,Non Profit,3
+Washington,Local,2
+Washington,Education,10
+Washington,EdTech,1
+Washington,Fitness,1
+Washington,Artificial Intelligence,2
+Washington,Wellness,3
+Washington,Retail Technology,1
+Washington,Messaging,2
+Washington,Social Media,13
+Washington,Industrial,2
+Washington,Charter Schools,1
+Washington,Shopping,1
+Washington,Politics,1
+Washington,Machine Learning,4
+Washington,Recruiting,1
+Washington,Security,5
+Washington,Social Media Management,1
+Washington,Cloud Infrastructure,4
+Washington,Video,3
+Washington,Human Resources,2
+Washington,Sports,2
+Washington,Sporting Goods,2
+Washington,Cosmetics,1
+Washington,Genetics,2
+Washington,Product Design,3
+Washington,Project Management,1
+Washington,Network Security,2
+Washington,Virtual Reality,1
+Washington,Augmented Reality,1
+Washington,Photo Editing,1
+Washington,Personal Health,1
+Washington,Business Intelligence,1
+Washington,Commercial Real Estate,1
+Washington,Human Computer Interaction,1
+Washington,Battery,1
+Washington,Hospitality,2
+Washington,Insurance,2
+Washington,Health Insurance,2
+Washington,Dating,1
+Washington,Fashion,3
+Washington,Gaming,8
+Washington,Android,2
+Washington,Communications Infrastructure,2
+Washington,IaaS,1
+Washington,Location Based Services,4
+Washington,Communities,1
+Washington,Photography,2
+Washington,Photo Sharing,1
+Washington,Advertising,8
+Washington,Marketing,1
+Washington,E-Learning,1
+Washington,Publishing,3
+Washington,News,1
+Washington,Advertising Platforms,2
+Washington,Agriculture,1
+Washington,Sustainability,1
+Washington,B2B,1
+Washington,Business Development,2
+Washington,Career Planning,1
+Washington,Cloud Storage,1
+Washington,Computer,2
+Washington,Cloud Security,3
+Washington,Enterprise,1
+Washington,Small and Medium Businesses,1
+Washington,Social Media Marketing,1
+Washington,PaaS,1
+Washington,Predictive Analytics,2
+Washington,Music,1
+Washington,Film Distribution,1
+Washington,Aerospace,3
+Washington,Smart Building,1
+Washington,Consumer Goods,1
+Washington,Parking,1
+Washington,Bitcoin,1
+Washington,Advanced Materials,1
+Washington,Automotive,1
+Washington,Navigation,1
+Washington,Mobile Devices,2
+Washington,Residential,1
+Washington,Events,1
+Washington,Journalism,1
+Washington,Web Development,1
+Washington,Lead Management,1
+Washington,Nutrition,1
+Washington,Coupons,2
+Washington,Natural Language Processing,2
+Washington,Interior Design,1
+Washington,Market Research,1
+Washington,Content Delivery Network,1
+Washington,Energy Storage,1
+Washington,Semantic Web,1
+Washington,MMO Games,1
+Washington,Fantasy Sports,1
+Washington,Air Transportation,1
+Washington,Toys,1
+Washington,Ediscovery,1
+Washington,App Marketing,1
+Washington,Mobile Advertising,1
+Washington,Bioinformatics,2
+Washington,Collaborative Consumption,2
+Washington,3D Printing,1
+Washington,Consumer Software,1
+Washington,Data Integration,1
+Washington,Fraud Detection,1
+Washington,Family,1
+Washington,Personal Finance,1
+Washington,Self-Storage,1
+Washington,eSports,1
+Washington,Children,1
+Washington,Public Transportation,1
+Washington,Ad Targeting,1
+Washington,E-Commerce Platforms,1
+Washington,Asset Management,1
+Washington,Emerging Markets,1
+Washington,Smart Home,1
+Washington,Email Marketing,1
+Alaska,Mobile,1
+Alaska,Building Material,1
+Alaska,Internet of Things,1
+Alaska,Manufacturing,1
+Alaska,Big Data,1

@@ -1,12 +1,12 @@
 class MapChart {
 
-    constructor(dispatch) {
-        this.dispatch = dispatch;
-        this.dataSets = dispatch.dataSets;
-        this.group = dispatch.svg.append('g');
+    constructor(disp) {
+        this.disp = disp;
+        this.dataSets = disp.dataSets;
+        this.group = disp.svg.append('g');
 
-        this.width = dispatch.width;
-        this.height = dispatch.height;
+        this.width = disp.width;
+        this.height = disp.height;
 
         this.mapLayer = this.group.append('g');
         this.dataLayer = this.group.append('g');
@@ -47,7 +47,7 @@ class MapChart {
                     .transition(d3.transition().duration(1000))
                     .attr('transform', 'translate(' + moveX + ', ' + moveY + ' ) scale(' + (zoomScale) + ')');
 
-                this.updateFocus(d.properties.name);
+                this.updateInfo(d.properties.name);
             });
 
         this.dataLayer.selectAll("circle")
@@ -67,15 +67,22 @@ class MapChart {
                 return Math.sqrt(parseInt(d['Count']) * 0.5);
             });
 
-        this.updateFocus();
+        this.updateInfo();
     }
 
-    updateFocus(state) {
+    updateInfo(state) {
         let focusName = 'United States';
         if (state) {
+            this.disp.focused = state;
             focusName = state;
+        } else {
+            this.disp.focused = false;
         }
-        this.dispatch.focusTo(focusName, this.startUpCount(state), this.topMarkets(state))
+        this.disp.updateInfo(
+            focusName,
+            this.startUpCount(state),
+            this.topMarkets(state),
+            this.employmentCount(state))
     }
 
     startUpCount(state) {
@@ -93,6 +100,8 @@ class MapChart {
             count = d3.sum(data, (d) => d['Count']);
         }
 
+        console.log(count);
+
         return count;
     }
 
@@ -102,7 +111,7 @@ class MapChart {
         let data = null;
 
         if (state) {
-            this.dataSets['countByStateYearMarketCSV'].map((row) => {
+            this.dataSets['countByStateMarketCSV'].map((row) => {
                 let marketName = row['Market Name'];
 
                 if (row['State'] === state) {
@@ -131,6 +140,15 @@ class MapChart {
         return data.sort(function (a, b) {
             return d3.descending(parseInt(a['Count']), parseInt(b['Count']));
         }).slice(0, 10);
+    }
+
+    employmentCount(state) {
+        let data = this.dataSets['employeeByStateCSV'];
+        if (state) {
+            return parseInt(data.filter((d) => d['State Name'] === state)[0]['Employee'])
+        } else {
+            return d3.sum(data, (d) => parseInt(d['Employee']));
+        }
     }
 
     hide() {

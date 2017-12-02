@@ -1,22 +1,24 @@
-function drawEmployee() {
-    let diameter = 750, //max size of the bubbles
-        color = d3.scaleOrdinal(d3.schemeCategory20); //color category
+class EmploymentChart {
 
-// Define the div for the tooltip
-    let div = d3.select("body").append("div")
-        .attr("class", "tooltip")
-        .style("opacity", 0);
+    constructor(disp) {
+        this.disp = disp;
+        this.diameter = 750; //max size of the bubbles
+        this.colorScale = d3.scaleOrdinal(d3.schemeCategory20); //color category
+        this.bubble = d3.pack()
+            .size([this.diameter, this.diameter])
+            .padding(1.5);
 
-    let bubble = d3.pack()
-        .size([diameter, diameter])
-        .padding(1.5);
+        this.group = disp.svg.append('g');
+        this.group.classed('bubble');
+    }
 
-    let svg = d3.select("#employee-chart svg")
-        .attr("width", diameter)
-        .attr("height", diameter)
-        .attr("class", "bubble");
+    update() {
+// // Define the div for the tooltip
+//         let div = d3.select("body").append("div")
+//             .attr("class", "tooltip")
+//             .style("opacity", 0);
 
-    d3.csv("data/employee-by-market.csv", function (error, data) {
+        let data = this.disp.dataSets['employeeByMarketCSV'];
 
         //convert numerical values from strings to numbers
         data = data.map(function (d) {
@@ -31,17 +33,17 @@ function drawEmployee() {
             .sort(null);
 
         //bubbles needs very specific format, convert data to this.
-        let nodes = bubble(root).children;
+        let nodes = this.bubble(root).children;
 
         //setup the chart
-        let bubbles = svg.append("g")
+        let bubbles = this.group.append("g")
             .attr("transform", "translate(0,0)")
             .selectAll(".bubble")
             .data(nodes)
             .enter();
-            
-        color = d3.scaleLinear().domain([0,1,2,3])
-      		.range(['red','green','blue','yellow']);
+
+        let color = d3.scaleLinear().domain([0, 1, 2, 3])
+            .range(['red', 'green', 'blue', 'yellow']);
 
         //create the bubbles
         bubbles.append("circle")
@@ -54,28 +56,32 @@ function drawEmployee() {
             .attr("cy", function (d) {
                 return d.y;
             })
-            .attr("text", function(d) {
-            	return d.data["Market Name"];
+            .attr("text", function (d) {
+                return d.data["Market Name"];
             })
-            .style("fill", function (d) {
-                return color((Math.random()*3));
+            .style("fill", (d)  => {
+                return this.colorScale((Math.random() * 3));
             })
             .on("click", function (event) {
-			  console.log(event.data["Market Name"]);
-			})
-			.on("mouseover", function() {
-				d3.select(this).append("title")
-						.text(this.getAttribute("text"));
-			});
+                console.log(event.data["Market Name"]);
+            })
+            .on("mouseover", function () {
+                d3.select(this).append("title")
+                    .text(this.getAttribute("text"));
+            });
 
         //format the text for each bubble
         bubbles.append("text")
-	      .text(function(d) { if(d.r > 40) {return d.data["Market Name"]; }})
-      	  .style("font-size", function(d) {
-      	  		return 3.4*d.r / (d.data["Market Name"].length) + "px";
-      	  })
-      	  .attr("dy", ".35em")
-          .attr("x", function (d) {
+            .text(function (d) {
+                if (d.r > 40) {
+                    return d.data["Market Name"];
+                }
+            })
+            .style("font-size", function (d) {
+                return 3.4 * d.r / (d.data["Market Name"].length) + "px";
+            })
+            .attr("dy", ".35em")
+            .attr("x", function (d) {
                 return d.x;
             })
             .attr("y", function (d) {
@@ -90,10 +96,14 @@ function drawEmployee() {
             .style({
                 "fill": "white",
                 "font-family": "Helvetica Neue, Helvetica, Arial, san-serif",
-            //    "font-size": "9px"
+                //    "font-size": "9px"
             });
-    });
-    
-}
 
-drawEmployee();
+    }
+
+    hide() {
+        this.group.classed('hidden', true);
+    }
+
+
+}
