@@ -28,6 +28,7 @@ class Dispatcher {
             .defer(d3.csv, "data/count-by-city.csv")
             .defer(d3.csv, "data/count-by-state-year.csv")
             .defer(d3.csv, "data/count-by-state-market.csv")
+            .defer(d3.csv, "data/count-by-state-year-market.csv")
             .defer(d3.csv, "data/count-by-state.csv")
             .defer(d3.csv, "data/count-by-year.csv")
             .defer(d3.csv, "data/count-by-market.csv")
@@ -39,13 +40,13 @@ class Dispatcher {
                     countByCityCSV,
                     countByStateYearCSV,
                     countByStateMarketCSV,
+                    countByStateYearMarketCSV,
                     countByStateCSV,
                     countByYearCSV,
                     countByMarketCSV,
                     countByYearMarketCSV,
                     employeeByStateCSV,
-                    employeeByMarketCSV
-            ) => {
+                    employeeByMarketCSV) => {
                 if (error) {
                     alert('Something went wrong: ' + error);
                 } else {
@@ -54,6 +55,7 @@ class Dispatcher {
                         countByCityCSV,
                         countByStateYearCSV,
                         countByStateMarketCSV,
+                        countByStateYearMarketCSV,
                         countByStateCSV,
                         countByYearCSV,
                         countByMarketCSV,
@@ -76,28 +78,48 @@ class Dispatcher {
 
         this.mapChart.update();
 
-        d3.select('#focus-startup-count').on('click', () => {
+        d3.select('#go-chart-year').on('click', () => {
+            d3.selectAll('.focus_chart').classed('_selected', false);
+
             this.hide(this.mapChart);
             this.hide(this.employmentChart);
 
             this.show(this.yearChart);
             this.yearChart.update();
+
+            d3.select('#go-chart-year').classed('_selected', true);
+            if (!d3.select('#focus').classed('_state')) {
+                d3.select('#focus').classed('_nation', true);
+            }
         });
 
-        d3.select('#focus-employment').on('click', () => {
+        d3.select('#go-chart-employment').on('click', () => {
+            d3.selectAll('.focus_chart').classed('_selected', false);
+
             this.hide(this.mapChart);
             this.hide(this.yearChart);
 
             this.show(this.employmentChart);
             this.employmentChart.update();
+
+            d3.select('#go-chart-employment').classed('_selected', true);
+
+            if (!d3.select('#focus').classed('_state')) {
+                d3.select('#focus').classed('_nation', true);
+            }
         });
 
         d3.select('#focus-return').on('click', () => {
             d3.event.preventDefault();
+
+            d3.select('#focus').classed('_nation', false);
+            d3.selectAll('.focus_chart').classed('_selected', false);
+
             this.hide(this.yearChart);
             this.hide(this.employmentChart);
-            this.mapChart.unfocus();
+            this.show(this.mapChart);
 
+            this.mapChart.unfocus();
         });
     }
 
@@ -117,13 +139,17 @@ class Dispatcher {
                 .transition(d3.transition().duration(1000))
                 .style('background-color', '#C4C4C4')
                 .style('opacity', '0.9');
-            setTimeout(function(){d3.select('#focus').classed('_state', true)}, 500);
+            setTimeout(function () {
+                d3.select('#focus').classed('_state', true)
+            }, 500);
         } else {
             d3.select('#focus')
                 .transition(d3.transition().duration(1000))
                 .style('background-color', null)
                 .style('opacity', null);
-            setTimeout(function(){d3.select('#focus').classed('_state', false)}, 500);
+            setTimeout(function () {
+                d3.select('#focus').classed('_state', false)
+            }, 500);
         }
     }
 

@@ -38,14 +38,9 @@ class EmploymentChart {
             .data(nodes)
             .enter();
 
-        let color = d3.scaleLinear().domain([0, 1, 2, 3])
-            .range(['red', 'green', 'blue', 'yellow']);
-
         //create the bubbles
         bubbles.append("circle")
-            .attr("r", function (d) {
-                return d.r;
-            })
+            .attr('r', 0)
             .attr("cx", function (d) {
                 return d.x;
             })
@@ -57,6 +52,9 @@ class EmploymentChart {
             })
             .style("fill", (d) => {
                 return this.colorScale((Math.random() * 3));
+            })
+            .attr("r", function (d) {
+                return d.r;
             })
             .on("click", function (event) {
                 console.log(event.data["Market Name"]);
@@ -73,9 +71,6 @@ class EmploymentChart {
                     return d.data["Market Name"];
                 }
             })
-            .style("font-size", function (d) {
-                return 3.4 * d.r / (d.data["Market Name"].length) + "px";
-            })
             .attr("dy", ".35em")
             .attr("x", function (d) {
                 return d.x;
@@ -83,16 +78,15 @@ class EmploymentChart {
             .attr("y", function (d) {
                 return d.y;// + 5;
             })
+            .style("font-size", '1px')
+            .transition(d3.transition().duration(1000))
+            .style("font-size", function (d) {
+                return 3.4 * d.r / (d.data["Market Name"].length) + "px";
+            })
             .attr("text-anchor", "middle")
-            //.text(function (d) {
-            //    if (d.r > 40) {
-            //        return d.data["Market Name"];
-            //    }
-            //})
             .style({
                 "fill": "white",
                 "font-family": "Helvetica Neue, Helvetica, Arial, san-serif",
-                //    "font-size": "9px"
             });
 
     }

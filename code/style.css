@@ -92,6 +92,37 @@ h2.section-title {
     opacity: 1;
 }
 
+.chart-year ._axis path,
+.chart-year ._axis line {
+    stroke: #aaaaaa;
+}
+
+.chart-year ._axis text {
+    fill: #aaaaaa;
+}
+
+.chart-year text._counter {
+    fill: #C4C4C4;
+    font-size: 12px;
+}
+
+.year-chart_name {
+    cursor: pointer;
+}
+
+.year-chart_name circle {
+    fill: #C4C4C4;
+}
+
+.year-chart_name text {
+    fill: #C4C4C4;
+}
+
+.year-chart_name:hover text,
+.year-chart_name:hover circle {
+    fill: #ED3A56;
+}
+
 /**
 For map path
  */
@@ -170,6 +201,15 @@ For map path
     padding-top: 80px;
 }
 
+.focus._nation {
+    padding-top: 80px;
+}
+
+.focus._nation .focus_return {
+    display: block;
+    color: #C4C4C4;
+}
+
 .focus div {
     opacity: 1;
 }
@@ -213,6 +253,12 @@ For map path
     text-transform: uppercase;
     font-weight: 500;
     font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    height: 20px;
+    padding: 0;
+    clear: both;
+    float: none;
 }
 
 .focus_number {
@@ -221,13 +267,13 @@ For map path
     font-style: normal;
     margin-bottom: 10px;
     padding: 5px 0;
+    font-size: 21px;
 }
 
 .focus_number._bold {
     color: #EF3753;
     font-weight: 800;
     font-style: normal;
-    font-size: 21px;
 }
 
 .focus_list {
@@ -241,7 +287,7 @@ For map path
 }
 
 .focus_list {
-    font-size: 0.8em;
+    font-size: 15px;
     color: #C4C4C4;
 }
 
@@ -259,6 +305,56 @@ For map path
 
 .focus._state .focus_number._bold {
     color: #EF3753;
+}
+
+.focus_item span {
+    float: left;
+    display: inline-block;
+}
+
+.focus_item span.focus_icon {
+    height: 30px;
+    width: 40px;
+    background: url("images/right-arrow-circular-button-gray.svg") no-repeat 5px 3px;
+    -webkit-background-size: 16px;
+    background-size: 16px;
+    clear: right;
+    float: none;
+}
+
+.focus._state span.focus_icon {
+    background: url("images/right-arrow-circular-button-black.svg") no-repeat 5px 3px;
+    -webkit-background-size: 16px;
+    background-size: 16px;
+}
+
+.focus_chart {
+    cursor: pointer;
+}
+
+.focus_chart:hover,
+.focus_chart._selected {
+    margin: -5px 0 0 -5px;
+    padding: 5px 0 0 5px;
+    background: #EF3753;
+    color: #fff !important;
+}
+
+.focus_chart:hover .focus_item,
+.focus_chart._selected .focus_item {
+    color: #fff !important;
+}
+
+.focus_chart:hover .focus_number,
+.focus_chart._selected .focus_number {
+    color: #fff !important;
+}
+
+.focus_chart:hover span.focus_icon,
+.focus_chart._selected span.focus_icon {
+    background: url("images/right-arrow-circular-button-white.svg") no-repeat 5px 3px;
+    -webkit-background-size: 16px;
+    background-size: 16px;
 }
 
 #navigation {

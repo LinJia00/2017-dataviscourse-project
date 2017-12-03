@@ -154,6 +154,8 @@ class MapChart {
     }
 
     unfocus() {
+        this.mapLayer.selectAll('.clicked').classed('clicked', false);
+
         this.group
             .transition(d3.transition().duration(1000))
             .attr('transform', 'translate(' + this.translateX + ', ' + this.translateY + ') scale(' + this.displayScale + ')');
