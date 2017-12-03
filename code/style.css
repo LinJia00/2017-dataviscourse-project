@@ -36,31 +36,48 @@ body {
     display: none;
 }
 
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    line-height: 50px;
+    z-index: 20;
+}
+
 h1.site-title {
+    margin: 0;
+    font-size: 24px;
     color: #c44d34;
-    padding: 10px 0;
     display: block;
-    text-align: center;
+    text-align: right;
+    padding: 0 50px 0 0;
     font-family: 'Bungee Shade', cursive;
 }
 
 .project-members {
-    color: #632F2F;
-    text-align: center;
+    margin-top: 50px;
+    font-style: italic;
+    font-family: 'Homemade Apple', cursive;
+}
+
+.project-members ul {
+    text-align: left;
     font-size: 0.8em;
-    background: #FBF3E8;
-    line-height: 2.5em;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
-.project-members span {
-    margin: 0 5px;
-    color: #555;
-    font-weight: bold;
-}
-
-.project-members span i {
+.project-members ul li {
+    padding: 0;
+    margin: 0;
     color: #777;
-    font-weight: normal;
+}
+
+.project-members_title {
+    color: #777;
 }
 
 .section {
@@ -78,6 +95,10 @@ h2.section-title {
 /**
  * For year chart
  */
+.chart-year {
+    font-family: Monaco, Menlo, cursive;
+}
+
 .chart-year .line {
     stroke: #ED3A56;
     stroke-width: 1;
@@ -116,6 +137,7 @@ h2.section-title {
 
 .year-chart_name text {
     fill: #C4C4C4;
+    font-family: 'Play', sans-serif;
 }
 
 .year-chart_name:hover text,
@@ -246,9 +268,12 @@ For map path
     font-size: 35px;
     line-height: 36px;
     margin-bottom: 50px;
+    font-family: 'Monoton', cursive;
+    margin-right: 5px;
 }
 
 .focus_item {
+    font-family: 'Teko', sans-serif;
     color: #6d7988;
     text-transform: uppercase;
     font-weight: 500;
@@ -268,6 +293,7 @@ For map path
     margin-bottom: 10px;
     padding: 5px 0;
     font-size: 21px;
+    font-family: Monaco, Menlo, cursive;
 }
 
 .focus_number._bold {
@@ -289,6 +315,7 @@ For map path
 .focus_list {
     font-size: 15px;
     color: #C4C4C4;
+    font-family: 'Play', sans-serif;
 }
 
 .focus._state .focus_item {
