@@ -48,8 +48,13 @@ class Dispatcher {
                     employeeByStateCSV,
                     employeeByMarketCSV) => {
                 if (error) {
-                    alert('Something went wrong: ' + error);
+                    d3.select('.loading').text('Something went wrong: ' + error);
                 } else {
+                    d3.select('.loading')
+                        .transition(d3.transition().duration(1000))
+                        .style('opacity', 0)
+                        .remove();
+
                     this.dataSets = {
                         mapJSON,
                         countByCityCSV,
