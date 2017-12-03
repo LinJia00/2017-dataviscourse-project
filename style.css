@@ -1,0 +1,423 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background: #29303A;
+    font-family: 'Lato', sans-serif;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    min-height: 500px;
+    min-width: 800px;
+}
+
+#page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    line-height: 50px;
+    z-index: 20;
+}
+
+h1.site-title {
+    margin: 0;
+    font-size: 24px;
+    color: #c44d34;
+    display: block;
+    text-align: right;
+    padding: 0 50px 0 0;
+    font-family: 'Bungee Shade', cursive;
+}
+
+.project-members {
+    margin-top: 50px;
+    font-style: italic;
+    font-family: 'Homemade Apple', cursive;
+}
+
+.project-members ul {
+    text-align: left;
+    font-size: 0.8em;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.project-members ul li {
+    padding: 0;
+    margin: 0;
+    color: #777;
+}
+
+.project-members_title {
+    color: #777;
+}
+
+.section {
+    padding: 10px;
+}
+
+h2.section-title {
+    font-family: 'Monoton', cursive;
+}
+
+.footer {
+    text-align: center;
+}
+
+/**
+ * For year chart
+ */
+.chart-year {
+    font-family: Monaco, Menlo, cursive;
+}
+
+.chart-year .line {
+    stroke: #ED3A56;
+    stroke-width: 1;
+}
+
+.chart-year .state-hover-line .line {
+    opacity: 0.1;
+}
+
+.chart-year .line.hover {
+    stroke: #000;
+    opacity: 1;
+}
+
+.chart-year ._axis path,
+.chart-year ._axis line {
+    stroke: #aaaaaa;
+}
+
+.chart-year ._axis text {
+    fill: #aaaaaa;
+}
+
+.chart-year text._counter {
+    fill: #C4C4C4;
+    font-size: 12px;
+}
+
+.year-chart_name {
+    cursor: pointer;
+}
+
+.year-chart_name circle {
+    fill: #C4C4C4;
+}
+
+.year-chart_name text {
+    fill: #C4C4C4;
+    font-family: 'Play', sans-serif;
+}
+
+.year-chart_name:hover text,
+.year-chart_name:hover circle {
+    fill: #ED3A56;
+}
+
+/**
+For map path
+ */
+.LocationChart path.state {
+    fill: #192228;
+    stroke-width: 1px;
+    stroke: gray;
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.LocationChart path.state:hover {
+    fill: #000;
+    opacity: 0.8;
+}
+
+.LocationChart path.clicked {
+    fill: #000;
+}
+
+.LocationChart .cityCircle {
+    stroke: #ED3A56;
+    fill: none;
+    opacity: 0.8
+}
+
+.LocationChart .axis text {
+    font: 10px sans-serif;
+}
+
+.LocationChart .axis path,
+.LocationChart .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.LocationChart .bar {
+    fill: steelblue;
+    fill-opacity: .9;
+}
+
+.LocationChart .x.axis path {
+    display: none;
+}
+
+.LocationChart div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 28px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+.LocationChart label {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.focus {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    min-width: 250px;
+    padding: 150px 0 0 50px;
+}
+
+.focus._state {
+    padding-top: 80px;
+}
+
+.focus._nation {
+    padding-top: 80px;
+}
+
+.focus._nation .focus_return {
+    display: block;
+    color: #C4C4C4;
+}
+
+.focus div {
+    opacity: 1;
+}
+
+.focus_return {
+    display: none;
+    background: url("images/left-arrow.svg") no-repeat 0 5px;
+    background-size: 40px;
+    padding-left: 60px;
+    font-size: 20px;
+    font-weight: lighter;
+    line-height: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #555;
+}
+
+.focus._state .focus_return {
+    display: block;
+}
+
+.focus_return:hover {
+    background: #EF3753;
+    color: #FFF;
+}
+
+.focus_name {
+    z-index: 2001;
+    color: #EF3753;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    line-height: 36px;
+    margin-bottom: 50px;
+    font-family: 'Monoton', cursive;
+    margin-right: 5px;
+}
+
+.focus_item {
+    font-family: 'Teko', sans-serif;
+    color: #6d7988;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    height: 20px;
+    padding: 0;
+    clear: both;
+    float: none;
+}
+
+.focus_number {
+    color: #C4C4C4;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 10px;
+    padding: 5px 0;
+    font-size: 21px;
+    font-family: Monaco, Menlo, cursive;
+}
+
+.focus_number._bold {
+    color: #EF3753;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.focus_list {
+    padding: 5px 0;
+}
+
+.focus_list ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.focus_list {
+    font-size: 15px;
+    color: #C4C4C4;
+    font-family: 'Play', sans-serif;
+}
+
+.focus._state .focus_item {
+    color: #333;
+}
+
+.focus._state .focus_list {
+    color: #555;
+}
+
+.focus._state .focus_number {
+    color: #555;
+}
+
+.focus._state .focus_number._bold {
+    color: #EF3753;
+}
+
+.focus_item span {
+    float: left;
+    display: inline-block;
+}
+
+.focus_item span.focus_icon {
+    height: 30px;
+    width: 40px;
+    background: url("images/right-arrow-circular-button-gray.svg") no-repeat 5px 3px;
+    -webkit-background-size: 16px;
+    background-size: 16px;
+    clear: right;
+    float: none;
+}
+
+.focus._state span.focus_icon {
+    background: url("images/right-arrow-circular-button-black.svg") no-repeat 5px 3px;
+    -webkit-background-size: 16px;
+    background-size: 16px;
+}
+
+.focus_chart {
+    cursor: pointer;
+}
+
+.focus_chart:hover,
+.focus_chart._selected {
+    margin: -5px 0 0 -5px;
+    padding: 5px 0 0 5px;
+    background: #EF3753;
+    color: #fff !important;
+}
+
+.focus_chart:hover .focus_item,
+.focus_chart._selected .focus_item {
+    color: #fff !important;
+}
+
+.focus_chart:hover .focus_number,
+.focus_chart._selected .focus_number {
+    color: #fff !important;
+}
+
+.focus_chart:hover span.focus_icon,
+.focus_chart._selected span.focus_icon {
+    background: url("images/right-arrow-circular-button-white.svg") no-repeat 5px 3px;
+    -webkit-background-size: 16px;
+    background-size: 16px;
+}
+
+#navigation {
+    overflow: hidden;
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    left: 0;
+    right: 0;
+}
+
+#navigation .nav-button {
+    background: #c44d34;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 50px;
+    opacity: 0.5;
+    cursor: pointer;
+    position: absolute;
+    color: #fff;
+    margin-top: 20px;
+    font-size: 20px;
+    z-index: 10;
+}
+
+#navigation .nav-button.nav-prev {
+    left: 50px;
+}
+
+#navigation .nav-button.nav-next {
+    right: 50px;
+}
+
+#navigation .nav-button:hover {
+    opacity: 1;
+}

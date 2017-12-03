@@ -1,0 +1,8069 @@
+Market Name,Year,Count
+Business Intelligence,2013,34
+Data Visualization,2013,25
+Cloud Computing,2013,62
+Mobile,2013,328
+Social Media Management,2013,6
+Web Design,2013,6
+Web Development,2013,18
+Social Media Marketing,2013,20
+SEO,2013,5
+Software,2013,340
+Digital Marketing,2013,7
+iOS,2013,47
+Apps,2013,130
+Android,2013,37
+Hardware,2013,85
+Casual Games,2013,3
+Market Research,2013,14
+Enterprise Software,2013,175
+Finance,2013,48
+Accounting,2013,7
+Compliance,2013,3
+GovTech,2013,9
+FinTech,2013,65
+SaaS,2013,203
+Analytics,2013,176
+Financial Exchanges,2013,1
+Data Integration,2013,10
+Communications Infrastructure,2013,11
+Marketing,2013,24
+Loyalty Programs,2013,8
+Local,2013,22
+Cause Marketing,2013,1
+Marketplace,2013,46
+B2B,2013,37
+E-Commerce,2013,191
+Industrial Automation,2013,6
+Internet of Things,2013,53
+Big Data,2013,149
+Risk Management,2013,8
+Medical Device,2013,36
+3D Printing,2013,14
+Manufacturing,2013,37
+E-Signature,2013,1
+Developer Tools,2013,34
+Developer APIs,2013,16
+Legal,2013,16
+Advertising,2013,69
+Social Media,2013,144
+Predictive Analytics,2013,42
+Internet,2013,124
+Email,2013,18
+Health Care,2013,238
+Consulting,2013,16
+Service Industry,2013,24
+Technical Support,2013,3
+Sports,2013,43
+Agriculture,2013,11
+Farming,2013,7
+Robotics,2013,35
+Insurance,2013,15
+Financial Services,2013,60
+Information Services,2013,10
+Information Technology,2013,121
+Automotive,2013,29
+Transportation,2013,28
+Sporting Goods,2013,5
+Basketball,2013,1
+Video Streaming,2013,18
+Music,2013,38
+Content,2013,30
+Charity,2013,3
+Fantasy Sports,2013,3
+Marketing Automation,2013,34
+Banking,2013,11
+Medical,2013,76
+Digital Signage,2013,3
+Ticketing,2013,5
+Concerts,2013,4
+3D Technology,2013,18
+App Marketing,2013,6
+Messaging,2013,37
+Gamification,2013,6
+Travel,2013,50
+Tourism,2013,12
+Retail,2013,50
+Retail Technology,2013,14
+Education,2013,107
+Video Games,2013,11
+Biotechnology,2013,83
+Pharmaceutical,2013,20
+Social Network,2013,19
+Wellness,2013,14
+Cloud Security,2013,10
+Cyber Security,2013,33
+Security,2013,55
+File Sharing,2013,13
+Energy Efficiency,2013,6
+Smart Home,2013,13
+Energy Management,2013,4
+Power Grid,2013,2
+Wearables,2013,36
+Coffee,2013,7
+Brewing,2013,5
+Food and Beverage,2013,22
+Consumer Electronics,2013,46
+Commercial Real Estate,2013,10
+Real Estate,2013,50
+Private Social Networking,2013,16
+Billing,2013,4
+mHealth,2013,29
+Logistics,2013,29
+E-Learning,2013,18
+Network Security,2013,25
+Eyewear,2013,3
+E-Commerce Platforms,2013,13
+Advanced Materials,2013,6
+Therapeutics,2013,25
+Search Engine,2013,25
+Training,2013,22
+Fashion,2013,46
+Clinical Trials,2013,4
+Health Diagnostics,2013,30
+Mobile Payments,2013,14
+Art,2013,10
+Public Safety,2013,8
+Events,2013,25
+Energy,2013,18
+National Security,2013,2
+Biopharma,2013,5
+Electronics,2013,17
+Elder Care,2013,3
+Sensor,2013,8
+GreenTech,2013,4
+B2C,2013,2
+EdTech,2013,41
+Home Health Care,2013,1
+Professional Services,2013,12
+Small and Medium Businesses,2013,24
+Children,2013,3
+Bioinformatics,2013,4
+Genetics,2013,24
+Hospital,2013,13
+MOOC,2013,2
+Hospitality,2013,20
+Clean Energy,2013,12
+Tea,2013,1
+Computer,2013,19
+Craft Beer,2013,2
+Collaboration,2013,32
+Human Resources,2013,31
+Video,2013,48
+Hedge Funds,2013,1
+Machine Learning,2013,63
+Computer Vision,2013,16
+Physical Security,2013,4
+Career Planning,2013,6
+Digital Media,2013,37
+Cloud Data Services,2013,13
+Brand Marketing,2013,25
+Content Creators,2013,9
+Life Science,2013,4
+Chemical,2013,3
+Publishing,2013,14
+Nutrition,2013,7
+TV,2013,3
+News,2013,23
+Bitcoin,2013,14
+Presentations,2013,4
+Direct Marketing,2013,5
+Speech Recognition,2013,3
+Employment,2013,9
+Wine And Spirits,2013,8
+Restaurants,2013,15
+Psychology,2013,4
+Reservations,2013,5
+PaaS,2013,14
+Project Management,2013,15
+Image Recognition,2013,5
+Artificial Intelligence,2013,58
+Industrial,2013,7
+Autonomous Vehicles,2013,7
+Women's,2013,5
+Direct Sales,2013,2
+Delivery,2013,12
+Recruiting,2013,31
+Mining Technology,2013,1
+Data Center,2013,11
+Product Design,2013,11
+Audio,2013,9
+Personal Branding,2013,2
+Beauty,2013,19
+CRM,2013,23
+Printing,2013,4
+Lifestyle,2013,22
+Assistive Technology,2013,2
+Developer Platform,2013,6
+Gaming,2013,13
+Lead Generation,2013,11
+Stock Exchanges,2013,4
+Home Improvement,2013,1
+Home Services,2013,4
+Home Renovation,2013,4
+Coworking,2013,3
+Browser Extensions,2013,2
+Rental,2013,7
+Law Enforcement,2013,3
+Skill Assessment,2013,2
+Crowdfunding,2013,20
+Privacy,2013,5
+Corporate Training,2013,7
+Social Media Advertising,2013,2
+Ad Targeting,2013,6
+Local Business,2013,1
+Communities,2013,24
+EHR,2013,2
+Email Marketing,2013,13
+Cloud Infrastructure,2013,21
+Dental,2013,2
+Impact Investing,2013,4
+Aerospace,2013,11
+Drones,2013,7
+Construction,2013,13
+Organic Food,2013,9
+Payments,2013,27
+Personal Health,2013,15
+Wireless,2013,8
+Building Material,2013,2
+Database,2013,8
+Fitness,2013,25
+Reading Apps,2013,3
+Mobile Advertising,2013,16
+Advertising Platforms,2013,24
+Health Insurance,2013,6
+Organic,2013,4
+Ad Retargeting,2013,1
+Web Browsers,2013,4
+Social,2013,6
+Identity Management,2013,10
+Nanotechnology,2013,5
+Film,2013,5
+Hunting,2013,1
+Guides,2013,2
+Local Advertising,2013,4
+Adventure Travel,2013,2
+Location Based Services,2013,30
+Outdoors,2013,6
+eSports,2013,2
+Online Auctions,2013,2
+Management Information Systems,2013,1
+Child Care,2013,4
+Real Time,2013,19
+LGBT,2013,2
+Mobile Apps,2013,37
+Cosmetics,2013,6
+Media and Entertainment,2013,15
+Architecture,2013,2
+Simulation,2013,1
+Photography,2013,34
+Delivery Service,2013,4
+Event Management,2013,9
+Shopping,2013,30
+Asset Management,2013,3
+Natural Resources,2013,3
+Content Delivery Network,2013,8
+Furniture,2013,6
+Cloud Management,2013,10
+IT Management,2013,3
+Home Decor,2013,9
+Textiles,2013,1
+Video on Demand,2013,4
+Blogging Platforms,2013,5
+Subscription Service,2013,11
+Consumer Applications,2013,1
+Visual Search,2013,4
+Office Administration,2013,3
+Operating Systems,2013,3
+Wholesale,2013,3
+Air Transportation,2013,2
+Credit,2013,3
+Self-Storage,2013,5
+Customer Service,2013,15
+Shipping,2013,6
+Supply Chain Management,2013,9
+Neuroscience,2013,3
+Wedding,2013,7
+Fraud Detection,2013,5
+Lending,2013,3
+Shoes,2013,3
+Content Marketing,2013,5
+Telecommunications,2013,13
+Social CRM,2013,2
+Jewelry,2013,5
+Q&A,2013,2
+Virtual Reality,2013,13
+Public Relations,2013,3
+Online Games,2013,2
+Employee Benefits,2013,2
+Incubators,2013,1
+Data Mining,2013,5
+Sustainability,2013,7
+CleanTech,2013,4
+Navigation,2013,6
+Public Transportation,2013,10
+Point of Sale,2013,5
+Consumer,2013,11
+Interior Design,2013,6
+Business Development,2013,7
+Trading Platform,2013,1
+Crowdsourcing,2013,16
+Personalization,2013,13
+Lingerie,2013,1
+Augmented Reality,2013,11
+Content Discovery,2013,11
+Venture Capital,2013,8
+Family,2013,1
+Productivity Tools,2013,3
+Journalism,2013,3
+Open Source,2013,9
+Online Portals,2013,12
+Nightlife,2013,3
+Gambling,2013,1
+Music Venues,2013,1
+Wealth Management,2013,4
+Natural Language Processing,2013,10
+Virtualization,2013,9
+Photo Sharing,2013,16
+Dating,2013,3
+Online Forums,2013,1
+Water,2013,6
+Text Analytics,2013,2
+Contact Management,2013,3
+Parenting,2013,8
+Aquaculture,2013,1
+Business Information Systems,2013,3
+Innovation Management,2013,8
+Commercial Insurance,2013,1
+Advice,2013,3
+CAD,2013,1
+Toys,2013,6
+Collaborative Consumption,2013,14
+Tutoring,2013,2
+Sharing Economy,2013,3
+Recreation,2013,2
+Charter Schools,2013,2
+Travel Agency,2013,1
+Smart Building,2013,5
+Document Management,2013,3
+Sales Automation,2013,9
+Sales,2013,7
+Video Advertising,2013,1
+College Recruiting,2013,1
+Collectibles,2013,1
+Freemium,2013,4
+Video Chat,2013,3
+Cooking,2013,7
+Food Processing,2013,8
+Professional Networking,2013,7
+Language Learning,2013,1
+Virtual Currency,2013,2
+Virtual Desktop,2013,2
+Non Profit,2013,14
+Universities,2013,3
+IaaS,2013,2
+Ad Network,2013,8
+Solar,2013,8
+Data Center Automation,2013,4
+ERP,2013,1
+Teenagers,2013,3
+RFID,2013,1
+Taxi Service,2013,1
+Lead Management,2013,3
+Ad Server,2013,2
+Price Comparison,2013,4
+Enterprise,2013,3
+Product Research,2013,1
+Water Purification,2013,3
+Waste Management,2013,1
+Green Building,2013,3
+Green Consumer Goods,2013,1
+Plastics and Rubber Manufacturing,2013,1
+Cosmetic Surgery,2013,1
+Oil and Gas,2013,6
+UX Design,2013,3
+Personal Finance,2013,10
+Vacation Rental,2013,1
+Photo Editing,2013,2
+Task Management,2013,3
+Mapping Services,2013,4
+Vending and Concessions,2013,1
+Real Estate Investment,2013,5
+Angel Investment,2013,2
+Cryptocurrency,2013,2
+Digital Entertainment,2013,6
+Same Day Delivery,2013,1
+Food Delivery,2013,3
+IT Infrastructure,2013,3
+Application Performance Management,2013,2
+Residential,2013,3
+Semantic Search,2013,3
+Social Entrepreneurship,2013,3
+Graphic Design,2013,1
+NFC,2013,1
+Knowledge Management,2013,6
+Management Consulting,2013,1
+Social Recruiting,2013,4
+Outsourcing,2013,5
+Mobile Devices,2013,4
+Procurement,2013,4
+Higher Education,2013,5
+Recycling,2013,2
+Web Apps,2013,4
+Lighting,2013,4
+Call Center,2013,1
+Web Hosting,2013,11
+Biomass Energy,2013,1
+Google Glass,2013,2
+Elderly,2013,2
+STEM Education,2013,2
+Alternative Medicine,2013,2
+Social Innovation,2013,1
+Quantified Self,2013,1
+Fertility,2013,2
+Life Insurance,2013,1
+Leisure,2013,5
+SEM,2013,1
+AgTech,2013,1
+Social Shopping,2013,3
+Coupons,2013,3
+Baby,2013,2
+PC Games,2013,2
+Cloud Storage,2013,4
+Diabetes,2013,1
+Software Engineering,2013,2
+VoIP,2013,3
+Gift Card,2013,4
+Soccer,2013,1
+Funding Platform,2013,2
+Politics,2013,2
+Product Search,2013,2
+Grocery,2013,1
+Independent Music,2013,1
+Music Education,2013,1
+Broadcasting,2013,6
+Franchise,2013,1
+Auctions,2013,1
+Emerging Markets,2013,3
+Energy Storage,2013,2
+Renewable Energy,2013,8
+Vertical Search,2013,1
+Social News,2013,2
+Property Management,2013,2
+Young Adults,2013,2
+Video Conferencing,2013,2
+Ride Sharing,2013,1
+Sponsorship,2013,1
+Consumer Lending,2013,6
+Debit Cards,2013,1
+Linux,2013,1
+Credit Cards,2013,3
+A/B Testing,2013,1
+Resorts,2013,1
+Mechanical Engineering,2013,3
+Industrial Engineering,2013,1
+Consumer Goods,2013,2
+Unified Communications,2013,1
+Infrastructure,2013,8
+Semiconductor,2013,2
+Flash Storage,2013,2
+ASIC,2013,1
+Data Storage,2013,2
+Network Hardware,2013,3
+Fleet Management,2013,2
+Retirement,2013,1
+Space Travel,2013,1
+Enterprise Applications,2013,4
+Flowers,2013,2
+Gift,2013,1
+Film Production,2013,3
+Reputation,2013,2
+Consumer Reviews,2013,1
+Catering,2013,1
+Private Cloud,2013,2
+FMCG,2013,1
+EBooks,2013,2
+Travel Accommodations,2013,1
+Human Computer Interaction,2013,2
+Debt Collections,2013,1
+Electric Vehicle,2013,2
+Ediscovery,2013,2
+Musical Instruments,2013,1
+Intellectual Property,2013,2
+Indoor Positioning,2013,4
+ISP,2013,1
+Geospatial,2013,3
+Parking,2013,4
+TV Production,2013,1
+Millennials,2013,1
+Peer to Peer,2013,3
+Test and Measurement,2013,2
+Nuclear,2013,1
+Serious Games,2013,1
+Virtual Assistant,2013,1
+Embedded Systems,2013,1
+Translation Service,2013,1
+Primary Education,2013,1
+Boating,2013,1
+App Discovery,2013,1
+Meeting Software,2013,2
+Veterinary,2013,1
+Pet,2013,2
+Scheduling,2013,2
+Music Streaming,2013,2
+Hotel,2013,1
+Intelligent Systems,2013,1
+Environmental Consulting,2013,1
+Machinery Manufacturing,2013,1
+DIY,2013,1
+Celebrity,2013,1
+Commercial,2013,2
+Homeless Shelter,2013,1
+Transaction Processing,2013,1
+Laundry and Dry-cleaning,2013,1
+Communication Hardware,2013,1
+Social Bookmarking,2013,1
+Dietary Supplements,2013,1
+Wind Energy,2013,1
+Motion Capture,2013,1
+Rehabilitation,2013,1
+Nutraceutical,2013,1
+Service Industry,2004,6
+Document Management,2004,1
+Health Care,2004,72
+Biotechnology,2004,55
+Health Diagnostics,2004,10
+Medical,2004,29
+Medical Device,2004,23
+Internet,2004,19
+Advertising,2004,16
+Lead Generation,2004,2
+Pharmaceutical,2004,12
+Hospitality,2004,7
+Film,2004,1
+Media and Entertainment,2004,4
+Content,2004,7
+Consumer Electronics,2004,2
+Enterprise Software,2004,48
+Video Games,2004,3
+Non Profit,2004,1
+Politics,2004,1
+Business Intelligence,2004,4
+Mobile,2004,40
+Risk Management,2004,4
+Analytics,2004,26
+Security,2004,20
+Semiconductor,2004,11
+Manufacturing,2004,18
+Information Technology,2004,31
+Cloud Computing,2004,16
+Digital Media,2004,6
+Publishing,2004,1
+Video,2004,20
+Property Management,2004,2
+Software,2004,60
+Computer,2004,9
+CRM,2004,3
+Construction,2004,3
+Transportation,2004,5
+Therapeutics,2004,13
+EdTech,2004,3
+Education,2004,7
+E-Commerce,2004,14
+Finance,2004,8
+SaaS,2004,23
+Insurance,2004,1
+Web Browsers,2004,1
+News,2004,3
+Energy,2004,7
+Clean Energy,2004,5
+Consumer,2004,3
+Online Portals,2004,3
+Technical Support,2004,2
+Consulting,2004,5
+Cosmetics,2004,1
+Beauty,2004,2
+Music,2004,7
+Art,2004,1
+Price Comparison,2004,2
+Electronics,2004,13
+Financial Services,2004,3
+Messaging,2004,8
+Trading Platform,2004,1
+Delivery,2004,1
+Nanotechnology,2004,5
+Communities,2004,4
+Social Media,2004,14
+Genetics,2004,6
+A/B Testing,2004,1
+Personalization,2004,2
+Test and Measurement,2004,2
+Apps,2004,9
+Ad Network,2004,2
+Compliance,2004,1
+B2B,2004,3
+Search Engine,2004,17
+Video Streaming,2004,5
+Data Center,2004,4
+Cloud Data Services,2004,7
+Data Integration,2004,2
+Data Storage,2004,3
+Real Time,2004,4
+Predictive Analytics,2004,4
+Data Visualization,2004,4
+Marketplace,2004,2
+Lighting,2004,2
+Oil and Gas,2004,1
+Web Development,2004,7
+Geospatial,2004,2
+Customer Service,2004,6
+IT Management,2004,3
+Outdoors,2004,1
+Chemical,2004,3
+Consumer Goods,2004,1
+Smart Home,2004,1
+Information Services,2004,6
+Sensor,2004,1
+Wireless,2004,12
+Content Discovery,2004,1
+Automotive,2004,2
+Aerospace,2004,1
+CleanTech,2004,1
+Agriculture,2004,1
+Network Security,2004,8
+Online Auctions,2004,1
+Auctions,2004,1
+Diabetes,2004,2
+Web Design,2004,2
+Blogging Platforms,2004,3
+Marketing Automation,2004,2
+Advertising Platforms,2004,3
+Travel,2004,6
+Product Search,2004,1
+Retail,2004,4
+Mobile Advertising,2004,3
+Social Network,2004,4
+App Marketing,2004,1
+Developer Tools,2004,3
+Video on Demand,2004,1
+Sports,2004,3
+Hospital,2004,6
+File Sharing,2004,5
+Photography,2004,3
+Alternative Medicine,2004,2
+Leisure,2004,1
+Mobile Apps,2004,3
+Events,2004,2
+Ediscovery,2004,2
+Social Media Marketing,2004,1
+Concerts,2004,1
+Email Marketing,2004,2
+Big Data,2004,10
+Web Hosting,2004,10
+Product Design,2004,5
+Fashion,2004,4
+Wearables,2004,2
+Content Delivery Network,2004,3
+Training,2004,3
+Biopharma,2004,4
+Water,2004,2
+Water Purification,2004,1
+Audio,2004,2
+Clinical Trials,2004,3
+Gift Card,2004,1
+Renewable Energy,2004,3
+Recycling,2004,1
+Sustainability,2004,1
+Banking,2004,3
+Cyber Security,2004,5
+Email,2004,1
+Virtualization,2004,7
+Professional Services,2004,2
+FinTech,2004,4
+Digital Entertainment,2004,2
+Physical Security,2004,1
+Infrastructure,2004,4
+Outsourcing,2004,1
+Telecommunications,2004,6
+VoIP,2004,2
+Energy Storage,2004,3
+Energy Efficiency,2004,4
+Jewelry,2004,2
+Women's,2004,2
+Solar,2004,1
+SEO,2004,6
+Collaboration,2004,5
+Mining Technology,2004,1
+Law Enforcement,2004,1
+Meeting Software,2004,1
+Enterprise Applications,2004,5
+Digital Signage,2004,1
+Lead Management,2004,3
+Artificial Intelligence,2004,3
+Sales Automation,2004,2
+Machine Learning,2004,3
+Corporate Training,2004,1
+Human Resources,2004,2
+Recruiting,2004,2
+Enterprise,2004,3
+E-Learning,2004,1
+Hardware,2004,8
+Marketing,2004,5
+Reputation,2004,1
+Internet of Things,2004,6
+Professional Networking,2004,1
+Government,2004,1
+Public Transportation,2004,2
+Electrical Distribution,2004,1
+Life Science,2004,2
+Business Development,2004,1
+Mobile Payments,2004,2
+PaaS,2004,1
+Cloud Management,2004,4
+Social,2004,2
+Virtual Reality,2004,1
+3D Technology,2004,3
+Embedded Systems,2004,2
+Rental,2004,1
+Real Estate,2004,2
+Cloud Infrastructure,2004,1
+Network Hardware,2004,1
+Identity Management,2004,3
+Battery,2004,1
+Data Center Automation,2004,1
+Industrial,2004,3
+TV,2004,2
+Film Production,2004,1
+Creative Agency,2004,1
+Ad Targeting,2004,2
+Electric Vehicle,2004,1
+Small and Medium Businesses,2004,1
+Energy Management,2004,1
+Natural Resources,2004,2
+Landscaping,2004,1
+FPGA,2004,1
+E-Commerce Platforms,2004,2
+Shopping,2004,5
+Embedded Software,2004,1
+Peer to Peer,2004,1
+Management Information Systems,2004,1
+Handmade,2004,1
+Gaming,2004,3
+Film Distribution,2004,2
+Semantic Search,2004,1
+Developer Platform,2004,4
+Mobile Devices,2004,4
+Virtual Currency,2004,1
+Food and Beverage,2004,3
+Neuroscience,2004,1
+Fitness,2004,1
+Open Source,2004,4
+Local,2004,1
+Commercial,2004,1
+EDA,2004,1
+GreenTech,2004,1
+Internet Radio,2004,1
+Location Based Services,2004,1
+Fuel,2004,2
+Coupons,2004,1
+Grocery,2004,1
+Broadcasting,2004,2
+Web Apps,2004,1
+Employment,2004,1
+Video Chat,2004,1
+Legal,2004,1
+Online Games,2004,1
+Lifestyle,2004,1
+Restaurants,2004,2
+Organic Food,2004,1
+Optical Communication,2004,1
+Food Processing,2004,1
+Logistics,2004,1
+Podcast,2004,1
+Fleet Management,2004,1
+Food Delivery,2004,1
+Sporting Goods,2004,1
+Tutoring,2004,1
+Retail Technology,2004,1
+Video Games,2006,5
+Digital Media,2006,14
+Gaming,2006,8
+Advanced Materials,2006,3
+Biotechnology,2006,91
+Medical Device,2006,32
+Information Technology,2006,39
+Health Care,2006,81
+Health Diagnostics,2006,19
+Software,2006,108
+Information Services,2006,11
+Advertising,2006,52
+Automotive,2006,7
+Robotics,2006,4
+Public Transportation,2006,2
+Hardware,2006,18
+Marketing Automation,2006,7
+Data Center,2006,2
+Enterprise Software,2006,84
+IT Infrastructure,2006,1
+Virtualization,2006,9
+Legal,2006,5
+Cyber Security,2006,6
+Intellectual Property,2006,3
+Mobile,2006,57
+Apps,2006,19
+Web Hosting,2006,8
+Web Browsers,2006,3
+Application Performance Management,2006,3
+Pharmaceutical,2006,27
+Medical,2006,39
+3D Technology,2006,1
+Messaging,2006,8
+Email,2006,2
+Advertising Platforms,2006,11
+Marketing,2006,17
+Data Integration,2006,5
+Content,2006,20
+Aerospace,2006,3
+Drones,2006,2
+Mobile Advertising,2006,5
+Brand Marketing,2006,10
+App Marketing,2006,5
+File Sharing,2006,6
+Music,2006,12
+Social Network,2006,5
+E-Commerce,2006,30
+Social,2006,4
+Human Resources,2006,6
+Renewable Energy,2006,11
+Energy,2006,15
+Internet,2006,39
+Wedding,2006,1
+Events,2006,7
+Therapeutics,2006,19
+Hospital,2006,2
+Clinical Trials,2006,5
+Social Media Management,2006,2
+Social Media Advertising,2006,3
+Social Media Marketing,2006,5
+Marketplace,2006,8
+Tutoring,2006,3
+Child Care,2006,1
+Elder Care,2006,1
+Nanotechnology,2006,4
+Outsourcing,2006,2
+Ediscovery,2006,4
+SaaS,2006,42
+Open Source,2006,4
+Video Conferencing,2006,2
+Video,2006,33
+Video Streaming,2006,14
+GPU,2006,1
+Insurance,2006,2
+Analytics,2006,37
+Consulting,2006,8
+Cloud Computing,2006,27
+Collaboration,2006,11
+Online Games,2006,6
+Developer Platform,2006,7
+CleanTech,2006,4
+Energy Management,2006,4
+Social Media,2006,32
+Market Research,2006,6
+Sales Automation,2006,3
+Telecommunications,2006,7
+Big Data,2006,7
+B2B,2006,2
+Machine Learning,2006,3
+Artificial Intelligence,2006,5
+Music Streaming,2006,1
+Search Engine,2006,23
+Manufacturing,2006,22
+Data Mining,2006,2
+Logistics,2006,3
+Test and Measurement,2006,2
+Mobile Apps,2006,9
+Life Science,2006,10
+Biopharma,2006,9
+Ad Network,2006,3
+Publishing,2006,11
+SEO,2006,4
+B2C,2006,1
+Content Delivery Network,2006,6
+Content Creators,2006,2
+Predictive Analytics,2006,2
+Data Visualization,2006,3
+Security,2006,14
+Communications Infrastructure,2006,1
+Video on Demand,2006,2
+Enterprise Applications,2006,2
+Banking,2006,2
+Fraud Detection,2006,1
+Network Security,2006,4
+Database,2006,1
+Computer,2006,11
+Shopping,2006,8
+Electronics,2006,7
+Supply Chain Management,2006,2
+Transportation,2006,2
+Business Intelligence,2006,7
+IaaS,2006,4
+Lead Generation,2006,3
+Reputation,2006,2
+Blogging Platforms,2006,5
+Finance,2006,15
+FinTech,2006,10
+Financial Services,2006,11
+Real Time,2006,5
+Accounting,2006,2
+Payments,2006,7
+Credit Cards,2006,1
+Nutraceutical,2006,1
+Dietary Supplements,2006,1
+Dental,2006,2
+Developer Tools,2006,10
+Web Development,2006,12
+Fitness,2006,5
+Web Design,2006,4
+Billing,2006,1
+Chemical,2006,3
+Industrial Engineering,2006,1
+Mechanical Engineering,2006,2
+Toys,2006,1
+Consumer,2006,3
+CRM,2006,12
+Lead Management,2006,3
+Sports,2006,8
+Virtual Currency,2006,3
+Diabetes,2006,3
+Oil and Gas,2006,3
+Power Grid,2006,2
+Solar,2006,12
+Cloud Management,2006,3
+EdTech,2006,3
+Charter Schools,2006,1
+Education,2006,13
+Local,2006,9
+Small and Medium Businesses,2006,2
+Email Marketing,2006,4
+Digital Entertainment,2006,3
+News,2006,18
+Digital Marketing,2006,2
+Content Marketing,2006,2
+Content Discovery,2006,1
+Cloud Data Services,2006,7
+Video Editing,2006,1
+Photography,2006,4
+Presentations,2006,2
+Auctions,2006,2
+Social CRM,2006,1
+Personalization,2006,5
+Online Portals,2006,5
+Business Development,2006,1
+E-Learning,2006,5
+Jewelry,2006,1
+PaaS,2006,4
+Facebook,2006,1
+Dating,2006,1
+Semantic Web,2006,1
+Retail,2006,9
+Industrial,2006,3
+Environmental Engineering,2006,2
+Parenting,2006,1
+Film,2006,1
+Identity Management,2006,4
+Training,2006,4
+Children,2006,1
+Wine And Spirits,2006,1
+Trading Platform,2006,1
+Broadcasting,2006,3
+Communities,2006,5
+Service Industry,2006,5
+Product Design,2006,3
+Mobile Devices,2006,5
+Printing,2006,1
+Art,2006,3
+Consumer Electronics,2006,8
+Genetics,2006,8
+Water,2006,2
+Android,2006,4
+VoIP,2006,3
+Customer Service,2006,5
+Cloud Security,2006,2
+Sales,2006,2
+Cosmetics,2006,2
+Sustainability,2006,2
+Beauty,2006,3
+Personal Finance,2006,2
+Wearables,2006,2
+mHealth,2006,1
+Event Management,2006,2
+Mobile Payments,2006,2
+Venture Capital,2006,1
+Real Estate,2006,7
+Delivery,2006,1
+Hospitality,2006,2
+Internet of Things,2006,6
+Infrastructure,2006,4
+Professional Networking,2006,1
+IT Management,2006,2
+Smart Home,2006,2
+Recruiting,2006,3
+Energy Storage,2006,3
+Innovation Management,2006,3
+Data Storage,2006,3
+MMO Games,2006,3
+Casual Games,2006,4
+Travel,2006,3
+Tourism,2006,2
+Leisure,2006,1
+Public Relations,2006,1
+Lending,2006,1
+Employment,2006,1
+Recycling,2006,1
+Retail Technology,2006,2
+Wireless,2006,12
+Semantic Search,2006,3
+Document Management,2006,2
+Subscription Service,2006,1
+Electric Vehicle,2006,2
+Energy Efficiency,2006,3
+GreenTech,2006,3
+iOS,2006,4
+SMS,2006,5
+Developer APIs,2006,3
+Construction,2006,2
+Building Material,2006,1
+Building Maintenance,2006,1
+Wellness,2006,2
+Nightlife,2006,1
+Concerts,2006,1
+Religion,2006,1
+Browser Extensions,2006,2
+Water Purification,2006,2
+Web Apps,2006,1
+Technical Support,2006,1
+Call Center,2006,1
+Language Learning,2006,1
+Non Profit,2006,3
+Restaurants,2006,2
+Loyalty Programs,2006,1
+Local Advertising,2006,1
+Ad Targeting,2006,2
+Ticketing,2006,1
+Association,2006,1
+Industrial Manufacturing,2006,1
+PC Games,2006,1
+Procurement,2006,1
+Cloud Infrastructure,2006,3
+Content Syndication,2006,1
+Farming,2006,1
+Agriculture,2006,1
+Risk Management,2006,1
+Media and Entertainment,2006,3
+Fashion,2006,5
+Ad Server,2006,1
+Project Management,2006,4
+Crowdsourcing,2006,2
+Semiconductor,2006,9
+Smart Building,2006,2
+E-Commerce Platforms,2006,3
+Natural Language Processing,2006,2
+Clean Energy,2006,4
+Embedded Software,2006,1
+Virtual Desktop,2006,2
+Flash Storage,2006,3
+Compliance,2006,1
+Food Delivery,2006,1
+TV Production,2006,1
+Stock Exchanges,2006,1
+Communication Hardware,2006,1
+Comics,2006,1
+EBooks,2006,2
+Neuroscience,2006,3
+Cooking,2006,1
+Food and Beverage,2006,1
+ISP,2006,1
+Credit,2006,1
+Consumer Lending,2006,1
+Optical Communication,2006,1
+Government,2006,2
+Battery,2006,1
+Embedded Systems,2006,1
+Sensor,2006,2
+Gift Card,2006,2
+Reading Apps,2006,1
+ERP,2006,2
+Text Analytics,2006,1
+Universities,2006,1
+Home Decor,2006,1
+Virtual Goods,2006,2
+Crowdfunding,2006,1
+Commercial Real Estate,2006,3
+Lifestyle,2006,2
+TV,2006,2
+GovTech,2006,1
+EDA,2006,1
+Gift Exchange,2006,1
+Pet,2006,2
+Celebrity,2006,1
+Journalism,2006,1
+Audio,2006,2
+Women's,2006,1
+Internet Radio,2006,1
+Financial Exchanges,2006,1
+Network Hardware,2006,1
+Enterprise,2006,1
+Fuel,2006,1
+Geospatial,2006,1
+Parking,2006,1
+Consumer Reviews,2006,1
+Humanitarian,2006,1
+Vertical Search,2006,1
+Real Estate Investment,2006,1
+Wind Energy,2006,1
+Employee Benefits,2006,1
+Health Insurance,2006,1
+Residential,2006,1
+Casino,2006,1
+Fantasy Sports,2006,1
+Career Planning,2006,1
+Task Management,2006,1
+Cosmetic Surgery,2006,1
+Q&A,2006,1
+Private Cloud,2006,1
+Automotive,2011,18
+Fleet Management,2011,4
+Software,2011,277
+Search Engine,2011,43
+Big Data,2011,86
+Education,2011,85
+Information Technology,2011,89
+Apps,2011,93
+EdTech,2011,35
+Agriculture,2011,11
+Medical,2011,51
+Hospitality,2011,33
+Social Media,2011,157
+Analytics,2011,124
+Enterprise Software,2011,193
+Lifestyle,2011,19
+Fashion,2011,41
+E-Commerce,2011,173
+Health Diagnostics,2011,21
+Biotechnology,2011,102
+Mobile Apps,2011,33
+SaaS,2011,138
+Communities,2011,14
+GreenTech,2011,4
+Energy,2011,22
+Internet of Things,2011,27
+Infrastructure,2011,12
+Smart Building,2011,2
+Wellness,2011,15
+Hardware,2011,39
+Fitness,2011,20
+Health Care,2011,171
+Manufacturing,2011,26
+Mobile,2011,318
+Web Development,2011,28
+iOS,2011,56
+Android,2011,34
+Life Science,2011,6
+Legal,2011,10
+Construction,2011,7
+Document Management,2011,5
+QR Codes,2011,1
+Loyalty Programs,2011,13
+Food and Beverage,2011,13
+Brewing,2011,1
+Publishing,2011,26
+Browser Extensions,2011,3
+Wireless,2011,14
+Medical Device,2011,29
+Digital Media,2011,34
+Food Processing,2011,5
+Service Industry,2011,14
+Dental,2011,2
+Real Time,2011,24
+Sports,2011,32
+Finance,2011,74
+Events,2011,36
+Small and Medium Businesses,2011,15
+Financial Services,2011,23
+Internet,2011,105
+Advertising,2011,86
+B2B,2011,25
+Social Network,2011,22
+Social Media Marketing,2011,25
+Restaurants,2011,24
+Biopharma,2011,10
+Grocery,2011,2
+Brand Marketing,2011,23
+Human Resources,2011,20
+Employment,2011,7
+Consulting,2011,15
+Retail,2011,41
+Video,2011,49
+Computer,2011,14
+Security,2011,46
+Business Intelligence,2011,27
+Transportation,2011,13
+Public Transportation,2011,2
+Navigation,2011,4
+Risk Management,2011,9
+Compliance,2011,4
+Local,2011,20
+mHealth,2011,12
+Open Source,2011,17
+Pharmaceutical,2011,29
+Gamification,2011,12
+Clinical Trials,2011,2
+Therapeutics,2011,24
+Electronics,2011,11
+Semiconductor,2011,4
+News,2011,18
+Developer Platform,2011,11
+Courier Service,2011,1
+Data Visualization,2011,13
+FinTech,2011,54
+Cyber Security,2011,17
+Professional Services,2011,5
+Professional Networking,2011,2
+Journalism,2011,1
+Collaboration,2011,31
+Freemium,2011,2
+Location Based Services,2011,18
+Price Comparison,2011,5
+Architecture,2011,1
+Training,2011,7
+Developer Tools,2011,29
+IaaS,2011,7
+Test and Measurement,2011,9
+Cloud Computing,2011,71
+Project Management,2011,4
+File Sharing,2011,10
+Corporate Training,2011,5
+E-Learning,2011,15
+Network Security,2011,18
+Cloud Security,2011,9
+Farming,2011,3
+Chemical,2011,1
+Travel,2011,26
+Telecommunications,2011,15
+Electrical Distribution,2011,3
+Energy Efficiency,2011,12
+EBooks,2011,5
+Wearables,2011,8
+Photo Sharing,2011,10
+Video Streaming,2011,11
+National Security,2011,1
+Consumer Electronics,2011,22
+Enterprise,2011,2
+Energy Management,2011,5
+Genetics,2011,13
+3D Printing,2011,3
+Robotics,2011,15
+Outdoors,2011,1
+Sporting Goods,2011,2
+Organic Food,2011,3
+Innovation Management,2011,6
+Skill Assessment,2011,3
+Customer Service,2011,18
+Email,2011,10
+Social,2011,8
+Data Storage,2011,2
+IT Infrastructure,2011,3
+Marketing,2011,24
+Gaming,2011,21
+Video Games,2011,9
+Casual Games,2011,6
+Universities,2011,7
+Enterprise Applications,2011,2
+Neuroscience,2011,4
+Machine Learning,2011,32
+Artificial Intelligence,2011,14
+Personalization,2011,10
+Predictive Analytics,2011,18
+Developer APIs,2011,19
+GovTech,2011,12
+Cloud Storage,2011,5
+Consumer Research,2011,2
+Consumer,2011,17
+Wealth Management,2011,3
+Marketplace,2011,24
+Tutoring,2011,4
+Language Learning,2011,5
+Hedge Funds,2011,1
+Marketing Automation,2011,32
+Cloud Data Services,2011,22
+Recruiting,2011,18
+Crowdsourcing,2011,18
+Natural Resources,2011,5
+Video Chat,2011,6
+Point of Sale,2011,5
+Email Marketing,2011,8
+Local Advertising,2011,4
+Shopping,2011,27
+Trading Platform,2011,3
+Crowdfunding,2011,12
+Real Estate,2011,23
+Sensor,2011,4
+Consumer Goods,2011,3
+Identity Management,2011,6
+Advertising Platforms,2011,17
+Information Services,2011,14
+Nanotechnology,2011,5
+Market Research,2011,14
+Resorts,2011,1
+Organic,2011,5
+Payments,2011,26
+Personal Finance,2011,6
+RFID,2011,4
+NFC,2011,2
+Clean Energy,2011,7
+Audio,2011,8
+App Marketing,2011,6
+Content,2011,27
+PaaS,2011,10
+CRM,2011,29
+Contact Management,2011,5
+Intellectual Property,2011,2
+Higher Education,2011,3
+Travel Agency,2011,2
+Travel Accommodations,2011,1
+Business Travel,2011,1
+DIY,2011,3
+Art,2011,9
+Handmade,2011,1
+Photography,2011,16
+Online Portals,2011,13
+Event Management,2011,10
+Music,2011,21
+Delivery,2011,6
+Virtualization,2011,12
+GPU,2011,1
+Web Hosting,2011,24
+Wholesale,2011,5
+Sales Automation,2011,7
+Digital Entertainment,2011,4
+Nightclubs,2011,2
+Augmented Reality,2011,7
+Classifieds,2011,3
+Ad Network,2011,6
+Graphic Design,2011,2
+Personal Branding,2011,1
+Career Planning,2011,9
+Tourism,2011,3
+Credit Cards,2011,2
+Green Building,2011,1
+Solar,2011,10
+Commercial Real Estate,2011,7
+Peer to Peer,2011,3
+Hospital,2011,6
+SMS,2011,5
+Coupons,2011,10
+Communications Infrastructure,2011,3
+Mobile Payments,2011,14
+Non Profit,2011,8
+Product Design,2011,5
+UX Design,2011,2
+Property Development,2011,1
+Building Maintenance,2011,1
+Media and Entertainment,2011,8
+Lingerie,2011,1
+Women's,2011,2
+Messaging,2011,31
+Retail Technology,2011,10
+SEO,2011,7
+Social Media Advertising,2011,4
+Social Media Management,2011,10
+Pet,2011,6
+Subscription Service,2011,6
+Men's,2011,4
+Online Auctions,2011,3
+Hydroponics,2011,1
+Reservations,2011,3
+Dating,2011,3
+Banking,2011,4
+Broadcasting,2011,3
+Lending,2011,1
+Ticketing,2011,8
+Property Management,2011,3
+Software Engineering,2011,1
+E-Commerce Platforms,2011,10
+Impact Investing,2011,1
+Video Advertising,2011,1
+Jewelry,2011,4
+STEM Education,2011,1
+Mobile Advertising,2011,7
+Sustainability,2011,7
+Indoor Positioning,2011,1
+Wedding,2011,6
+Personal Health,2011,8
+Politics,2011,3
+Productivity Tools,2011,1
+Consumer Software,2011,3
+Quantified Self,2011,2
+Auctions,2011,5
+Consumer Lending,2011,1
+Collaborative Consumption,2011,6
+Emerging Markets,2011,1
+Logistics,2011,12
+Application Performance Management,2011,4
+Supply Chain Management,2011,4
+Precious Metals,2011,1
+Biometrics,2011,2
+Facial Recognition,2011,1
+Management Information Systems,2011,2
+Management Consulting,2011,3
+Web Design,2011,7
+Online Forums,2011,1
+Nightlife,2011,4
+Beauty,2011,7
+Cosmetic Surgery,2011,1
+Digital Marketing,2011,5
+Advice,2011,2
+Celebrity,2011,3
+Ad Targeting,2011,4
+Ad Retargeting,2011,1
+Online Games,2011,3
+Lead Generation,2011,11
+Mobile Devices,2011,5
+Cooking,2011,2
+Blogging Platforms,2011,7
+Digital Signage,2011,2
+Charity,2011,2
+Virtual Goods,2011,1
+Virtual Reality,2011,3
+Sponsorship,2011,4
+Content Delivery Network,2011,5
+Content Creators,2011,3
+Government,2011,1
+Video Editing,2011,3
+Visual Search,2011,2
+Stock Exchanges,2011,2
+Public Relations,2011,3
+Reputation,2011,3
+Social Bookmarking,2011,1
+Leisure,2011,3
+Semantic Web,2011,1
+Elder Care,2011,3
+Bioinformatics,2011,2
+Aerospace,2011,3
+Autonomous Vehicles,2011,1
+Industrial,2011,5
+Soccer,2011,1
+Business Development,2011,3
+Diabetes,2011,3
+Nutrition,2011,3
+Psychology,2011,5
+Home Decor,2011,1
+Furniture,2011,2
+Family,2011,1
+Parenting,2011,9
+Meeting Software,2011,5
+Theatre,2011,3
+Vertical Search,2011,1
+Concerts,2011,2
+Insurance,2011,5
+Drones,2011,5
+Web Apps,2011,4
+Water Purification,2011,1
+Water,2011,3
+Billing,2011,3
+Private Social Networking,2011,4
+Smart Home,2011,2
+Commercial Lending,2011,1
+Toys,2011,2
+Network Hardware,2011,1
+Recycling,2011,1
+Advanced Materials,2011,3
+3D Technology,2011,8
+Data Integration,2011,8
+Credit,2011,3
+Wine And Spirits,2011,4
+Flash Storage,2011,2
+Oil and Gas,2011,5
+Coffee,2011,1
+Mapping Services,2011,1
+Reading Apps,2011,3
+Shipping,2011,2
+Renewable Energy,2011,6
+Video Conferencing,2011,3
+Cloud Infrastructure,2011,11
+Tennis,2011,1
+Recreation,2011,1
+Dietary Supplements,2011,2
+MMO Games,2011,3
+IT Management,2011,3
+Power Grid,2011,1
+Financial Exchanges,2011,3
+Wind Energy,2011,1
+CleanTech,2011,2
+Waste Management,2011,2
+Leasing,2011,1
+Energy Storage,2011,3
+Alternative Medicine,2011,1
+Task Management,2011,3
+Ad Server,2011,1
+Electric Vehicle,2011,1
+Rental,2011,1
+Outsourcing,2011,2
+Unified Communications,2011,1
+Natural Language Processing,2011,1
+Employee Benefits,2011,3
+Same Day Delivery,2011,1
+Food Delivery,2011,1
+Database,2011,6
+Fraud Detection,2011,4
+Auto Insurance,2011,1
+Cosmetics,2011,1
+Social Shopping,2011,1
+Industrial Automation,2011,1
+Operating Systems,2011,1
+Call Center,2011,1
+Photo Editing,2011,2
+Knowledge Management,2011,3
+Ride Sharing,2011,1
+Data Mining,2011,2
+Tour Operator,2011,1
+Adventure Travel,2011,1
+EHR,2011,1
+Computer Vision,2011,3
+Podcast,2011,1
+Industrial Engineering,2011,1
+Baby,2011,1
+Social Innovation,2011,1
+Presentations,2011,3
+Cloud Management,2011,8
+Gift Card,2011,3
+Film,2011,4
+Sharing Economy,2011,2
+eSports,2011,1
+Fantasy Sports,2011,2
+Procurement,2011,2
+Group Buying,2011,4
+Veterinary,2011,1
+A/B Testing,2011,1
+Religion,2011,1
+Guides,2011,2
+Bitcoin,2011,3
+MOOC,2011,1
+Social CRM,2011,1
+Self-Storage,2011,1
+Local Business,2011,2
+Private Cloud,2011,2
+Data Center,2011,3
+TV,2011,1
+VoIP,2011,2
+Environmental Consulting,2011,1
+Technical Support,2011,1
+Creative Agency,2011,2
+Simulation,2011,1
+Gambling,2011,2
+Privacy,2011,3
+Video on Demand,2011,2
+Venture Capital,2011,2
+Motion Capture,2011,1
+Vending and Concessions,2011,1
+Music Venues,2011,1
+Affiliate Marketing,2011,1
+Social Recruiting,2011,1
+Web Browsers,2011,1
+Animation,2011,1
+Ediscovery,2011,3
+Business Information Systems,2011,1
+Text Analytics,2011,2
+Cryptocurrency,2011,1
+Homeland Security,2011,1
+Freelance,2011,1
+Accounting,2011,1
+LGBT,2011,1
+Shoes,2011,2
+Consumer Applications,2011,1
+Printing,2011,2
+Music Streaming,2011,1
+Ad Exchange,2011,1
+In-Flight Entertainment,2011,1
+Car Sharing,2011,1
+Semantic Search,2011,1
+Transaction Processing,2011,1
+Humanitarian,2011,1
+App Discovery,2011,1
+Virtual Currency,2011,1
+Product Research,2011,1
+Charter Schools,2011,1
+College Recruiting,2011,1
+PC Games,2011,1
+Intelligent Systems,2011,1
+Product Search,2011,1
+Gift,2011,1
+Elderly,2011,1
+CAD,2011,1
+Parking,2011,1
+Social Entrepreneurship,2011,1
+Beauty,2015,4
+Marketplace,2015,62
+Mobile Apps,2015,64
+Sporting Goods,2015,3
+Elder Care,2015,5
+Software,2015,160
+SaaS,2015,124
+Medical,2015,40
+Health Care,2015,116
+Financial Services,2015,59
+Finance,2015,32
+Education,2015,39
+Analytics,2015,66
+Mobile,2015,147
+Digital Marketing,2015,10
+Artificial Intelligence,2015,73
+mHealth,2015,9
+Information Technology,2015,80
+Advertising,2015,25
+Digital Signage,2015,4
+FinTech,2015,61
+Apps,2015,85
+Real Time,2015,12
+Marketing,2015,22
+Human Resources,2015,34
+Recruiting,2015,29
+Enterprise Software,2015,73
+PC Games,2015,2
+Video Games,2015,14
+Gaming,2015,18
+Insurance,2015,16
+Therapeutics,2015,13
+Medical Device,2015,15
+Banking,2015,4
+Cloud Data Services,2015,9
+Content,2015,14
+Social Media Marketing,2015,6
+Local,2015,5
+Delivery,2015,13
+B2B,2015,28
+Internet,2015,100
+Location Based Services,2015,12
+Consumer,2015,28
+E-Commerce,2015,75
+Commercial Insurance,2015,1
+Risk Management,2015,7
+Business Intelligence,2015,21
+Cloud Computing,2015,21
+Public Relations,2015,2
+Communications Infrastructure,2015,6
+Consumer Applications,2015,4
+Service Industry,2015,26
+Hospitality,2015,15
+Adventure Travel,2015,3
+Outdoors,2015,3
+Travel,2015,53
+Data Visualization,2015,10
+Automotive,2015,27
+Cyber Security,2015,32
+E-Learning,2015,5
+Training,2015,14
+Open Source,2015,7
+EdTech,2015,10
+Home Improvement,2015,5
+E-Commerce Platforms,2015,9
+Telecommunications,2015,15
+Wholesale,2015,3
+Sales Automation,2015,12
+Collaboration,2015,19
+Marketing Automation,2015,14
+Data Integration,2015,13
+Machine Learning,2015,70
+Language Learning,2015,2
+Wireless,2015,17
+Internet of Things,2015,55
+Management Information Systems,2015,1
+Pharmaceutical,2015,13
+Retail,2015,22
+Retail Technology,2015,16
+Industrial Automation,2015,3
+Robotics,2015,23
+Enterprise,2015,4
+Aerospace,2015,7
+Drones,2015,15
+Big Data,2015,46
+Image Recognition,2015,2
+Agriculture,2015,8
+Security,2015,26
+Biopharma,2015,3
+Biotechnology,2015,42
+Genetics,2015,12
+Veterinary,2015,4
+Pet,2015,3
+Personalization,2015,10
+Data Center,2015,3
+Network Security,2015,12
+Virtualization,2015,5
+Hardware,2015,21
+Neuroscience,2015,3
+Electronics,2015,12
+Wearables,2015,12
+Family,2015,6
+Lifestyle,2015,12
+Wellness,2015,16
+Information Services,2015,13
+Web Development,2015,4
+Identity Management,2015,6
+Optical Communication,2015,1
+Sensor,2015,4
+Email Marketing,2015,4
+Intelligent Systems,2015,3
+Email,2015,10
+3D Printing,2015,7
+Precious Metals,2015,1
+3D Technology,2015,8
+College Recruiting,2015,3
+Video Streaming,2015,13
+Social Media,2015,29
+Private Social Networking,2015,5
+Messaging,2015,25
+Social Network,2015,19
+Video Chat,2015,2
+Payments,2015,17
+Data Mining,2015,3
+Employee Benefits,2015,8
+Sustainability,2015,10
+Water,2015,4
+Publishing,2015,8
+Manufacturing,2015,17
+Consumer Electronics,2015,27
+Real Estate,2015,49
+Leasing,2015,2
+Cloud Security,2015,6
+Leisure,2015,8
+Tourism,2015,16
+Consulting,2015,8
+Tutoring,2015,4
+Virtual Reality,2015,28
+Human Computer Interaction,2015,1
+Augmented Reality,2015,13
+Shopping,2015,15
+Software Engineering,2015,4
+Biometrics,2015,4
+Consumer Goods,2015,5
+Legal,2015,7
+Autonomous Vehicles,2015,10
+Electric Vehicle,2015,5
+Smart Home,2015,9
+Furniture,2015,3
+Sales,2015,10
+Computer,2015,22
+Parenting,2015,4
+Consumer Software,2015,7
+Property Insurance,2015,2
+Staffing Agency,2015,4
+CRM,2015,15
+Infrastructure,2015,5
+Cloud Infrastructure,2015,8
+File Sharing,2015,4
+Photo Sharing,2015,8
+Business Development,2015,8
+Knowledge Management,2015,6
+Cryptocurrency,2015,3
+Waste Management,2015,3
+Public Safety,2015,4
+Technical Support,2015,2
+Developer Tools,2015,12
+Predictive Analytics,2015,19
+Personal Health,2015,16
+Natural Resources,2015,5
+Mapping Services,2015,3
+Developer APIs,2015,8
+News,2015,8
+Market Research,2015,5
+Renewable Energy,2015,2
+Video,2015,32
+Advertising Platforms,2015,14
+Natural Language Processing,2015,9
+Hotel,2015,6
+Travel Accommodations,2015,2
+SEO,2015,2
+Web Design,2015,5
+Career Planning,2015,6
+Lending,2015,4
+Accounting,2015,7
+Social,2015,11
+Credit,2015,5
+Web Browsers,2015,1
+Consumer Lending,2015,2
+Peer to Peer,2015,4
+Solar,2015,2
+Social Media Management,2015,3
+Mobile Advertising,2015,4
+Loyalty Programs,2015,2
+Subscription Service,2015,9
+Lead Generation,2015,3
+Rental,2015,2
+Child Care,2015,5
+Children,2015,6
+Brand Marketing,2015,9
+Online Portals,2015,13
+Marijuana,2015,4
+Small and Medium Businesses,2015,17
+Media and Entertainment,2015,12
+Alumni,2015,2
+Machinery Manufacturing,2015,2
+Industrial Engineering,2015,3
+Electrical Distribution,2015,1
+Smart Building,2015,4
+Energy Storage,2015,2
+Energy,2015,9
+Virtual Workforce,2015,2
+Business Information Systems,2015,3
+Organic Food,2015,2
+Bakery,2015,1
+Food and Beverage,2015,27
+Food Processing,2015,7
+Computer Vision,2015,10
+Fashion,2015,18
+Travel Agency,2015,1
+EBooks,2015,1
+Search Engine,2015,15
+Transportation,2015,23
+Fantasy Sports,2015,4
+Supply Chain Management,2015,7
+Customer Service,2015,15
+Health Insurance,2015,4
+Advanced Materials,2015,2
+Art,2015,3
+Craft Beer,2015,2
+Communities,2015,14
+Audio,2015,6
+Broadcasting,2015,5
+Podcast,2015,3
+Personal Finance,2015,10
+Database,2015,8
+InsurTech,2015,1
+Fraud Detection,2015,3
+Ride Sharing,2015,5
+Property Management,2015,6
+Hospital,2015,9
+Health Diagnostics,2015,8
+Continuing Education,2015,1
+Real Estate Investment,2015,4
+Wealth Management,2015,6
+Construction,2015,13
+Assisted Living,2015,1
+Architecture,2015,2
+Coworking,2015,5
+Auto Insurance,2015,2
+Sports,2015,18
+Reservations,2015,1
+Property Development,2015,1
+Commercial Real Estate,2015,11
+Baby,2015,1
+TV,2015,6
+Content Discovery,2015,4
+Professional Services,2015,3
+Online Games,2015,3
+Music,2015,13
+Digital Media,2015,21
+Recycling,2015,2
+Environmental Engineering,2015,2
+Event Management,2015,5
+Meeting Software,2015,1
+Restaurants,2015,11
+Fitness,2015,13
+Android,2015,6
+iOS,2015,7
+Consumer Reviews,2015,2
+Product Search,2015,2
+Social Shopping,2015,2
+Privacy,2015,4
+Employment,2015,12
+Gamification,2015,3
+Enterprise Applications,2015,6
+PaaS,2015,2
+Asset Management,2015,2
+Drone Management,2015,3
+Food Delivery,2015,7
+Sharing Economy,2015,5
+Events,2015,14
+Social CRM,2015,3
+Digital Entertainment,2015,10
+Outdoor Advertising,2015,1
+SMS,2015,4
+Politics,2015,3
+Government,2015,2
+Browser Extensions,2015,1
+Online Auctions,2015,2
+Content Creators,2015,3
+Test and Measurement,2015,3
+Alternative Medicine,2015,1
+Product Design,2015,6
+Film Production,2015,4
+TV Production,2015,1
+Concerts,2015,2
+Crowdfunding,2015,10
+Fruit,2015,1
+Trading Platform,2015,7
+Grocery,2015,5
+Interior Design,2015,2
+Innovation Management,2015,5
+Cloud Management,2015,1
+Ticketing,2015,4
+Air Transportation,2015,5
+Logistics,2015,18
+Content Delivery Network,2015,2
+Non Profit,2015,5
+Direct Marketing,2015,1
+Stock Exchanges,2015,1
+Creative Agency,2015,2
+Corporate Training,2015,5
+Journalism,2015,1
+Printing,2015,3
+Home Decor,2015,5
+Content Marketing,2015,4
+Charity,2015,1
+Nutrition,2015,1
+Collectibles,2015,1
+Social Media Advertising,2015,1
+Universities,2015,1
+Wine And Spirits,2015,5
+Collaborative Consumption,2015,2
+Ad Targeting,2015,1
+Photography,2015,6
+DIY,2015,2
+Intellectual Property,2015,3
+Retirement,2015,1
+Developer Platform,2015,9
+CleanTech,2015,3
+Clean Energy,2015,2
+Green Building,2015,1
+Home and Garden,2015,2
+Video Editing,2015,2
+Video Advertising,2015,3
+Higher Education,2015,5
+Oil and Gas,2015,6
+Nanotechnology,2015,3
+Mobile Payments,2015,9
+Parking,2015,2
+Scheduling,2015,4
+Lead Management,2015,1
+GovTech,2015,4
+App Marketing,2015,1
+Boating,2015,1
+Industrial,2015,5
+AgTech,2015,1
+Product Research,2015,2
+Point of Sale,2015,3
+FPGA,2015,1
+Animal Feed,2015,1
+Facial Recognition,2015,1
+Mineral,2015,1
+Mining Technology,2015,1
+Operating Systems,2015,1
+Bitcoin,2015,7
+Hunting,2015,1
+Home Services,2015,4
+Virtual Assistant,2015,3
+Plastics and Rubber Manufacturing,2015,1
+Classifieds,2015,1
+Nutraceutical,2015,1
+Impact Investing,2015,7
+Emerging Markets,2015,1
+Humanitarian,2015,1
+Law Enforcement,2015,1
+Application Performance Management,2015,1
+Energy Efficiency,2015,2
+Semantic Search,2015,1
+Navigation,2015,4
+Local Business,2015,1
+Speech Recognition,2015,1
+Water Purification,2015,2
+Sponsorship,2015,1
+Gift Card,2015,2
+Nightlife,2015,2
+Women's,2015,4
+IT Infrastructure,2015,1
+Procurement,2015,2
+Social Entrepreneurship,2015,3
+Rental Property,2015,2
+Business Travel,2015,1
+Clinical Trials,2015,2
+Casual Games,2015,1
+Video Conferencing,2015,3
+Photo Editing,2015,1
+Office Administration,2015,1
+Public Transportation,2015,1
+Graphic Design,2015,1
+Productivity Tools,2015,4
+Consumer Research,2015,1
+Text Analytics,2015,1
+Social Innovation,2015,3
+Life Science,2015,4
+Dating,2015,3
+Web Hosting,2015,3
+Private Cloud,2015,1
+Lighting,2015,1
+Freight Service,2015,2
+Management Consulting,2015,2
+Compliance,2015,2
+Virtual World,2015,2
+Textiles,2015,2
+Bioinformatics,2015,1
+Credit Cards,2015,3
+Freelance,2015,4
+GPS,2015,1
+eSports,2015,5
+Guides,2015,2
+A/B Testing,2015,1
+Local Advertising,2015,1
+Home Health Care,2015,2
+Car Sharing,2015,1
+Presentation Software,2015,1
+Billing,2015,2
+Visual Search,2015,3
+Vertical Search,2015,2
+Film,2015,3
+Virtual Goods,2015,2
+Green Consumer Goods,2015,2
+Hedge Funds,2015,1
+Coffee,2015,3
+Project Management,2015,2
+Energy Management,2015,2
+Jewelry,2015,1
+Men's,2015,2
+Psychology,2015,2
+Sex Tech,2015,1
+Delivery Service,2015,1
+Mobile Devices,2015,3
+Venture Capital,2015,4
+Shipping,2015,2
+Network Hardware,2015,1
+DSP,2015,1
+ISP,2015,1
+App Discovery,2015,1
+IT Management,2015,2
+Building Material,2015,2
+Crowdsourcing,2015,2
+Power Grid,2015,1
+Document Management,2015,1
+Financial Exchanges,2015,3
+Virtual Currency,2015,1
+Event Promotion,2015,1
+Skill Assessment,2015,1
+NFC,2015,1
+Geospatial,2015,3
+Data Storage,2015,1
+Desktop Apps,2015,1
+Home Renovation,2015,1
+Group Buying,2015,1
+Video on Demand,2015,1
+Cooking,2015,3
+Shipping Broker,2015,1
+Farming,2015,2
+Advice,2015,3
+Professional Networking,2015,3
+Funerals,2015,2
+Space Travel,2015,1
+Millennials,2015,1
+Emergency Medicine,2015,1
+Data Center Automation,2015,1
+Social Recruiting,2015,1
+GreenTech,2015,1
+Vending and Concessions,2015,1
+Transaction Processing,2015,1
+Task Management,2015,2
+B2C,2015,2
+Battery,2015,1
+Satellite Communication,2015,1
+IaaS,2015,1
+Residential,2015,1
+Nanotechnology,2012,7
+Industrial,2012,8
+Plastics and Rubber Manufacturing,2012,1
+Automotive,2012,23
+Gamification,2012,10
+Apps,2012,90
+Charity,2012,5
+Events,2012,30
+Hedge Funds,2012,1
+Non Profit,2012,22
+Financial Services,2012,39
+Biotechnology,2012,83
+Medical,2012,66
+Pharmaceutical,2012,20
+Social Media,2012,155
+Cyber Security,2012,27
+Security,2012,58
+Search Engine,2012,39
+Analytics,2012,192
+E-Commerce,2012,232
+Enterprise Software,2012,236
+Service Industry,2012,23
+Management Consulting,2012,3
+Software,2012,340
+CRM,2012,27
+Sports,2012,47
+Marketing Automation,2012,28
+SaaS,2012,186
+Event Management,2012,16
+Enterprise Applications,2012,5
+Health Care,2012,208
+Medical Device,2012,23
+Mobile,2012,354
+Health Diagnostics,2012,20
+Developer Platform,2012,7
+Corporate Training,2012,5
+Food Processing,2012,11
+Video,2012,71
+Real Estate,2012,37
+Real Time,2012,31
+Publishing,2012,36
+E-Learning,2012,24
+Information Technology,2012,99
+Women's,2012,3
+Recruiting,2012,39
+Employment,2012,13
+Human Resources,2012,33
+Career Planning,2012,15
+Skill Assessment,2012,4
+Parenting,2012,12
+Video Games,2012,19
+Music,2012,43
+Content Discovery,2012,5
+EdTech,2012,44
+iOS,2012,41
+Education,2012,140
+Fitness,2012,35
+Quantified Self,2012,5
+Video Streaming,2012,23
+File Sharing,2012,12
+Telecommunications,2012,12
+Printing,2012,5
+Photography,2012,28
+Art,2012,13
+Developer Tools,2012,25
+FinTech,2012,68
+Fraud Detection,2012,6
+Identity Management,2012,11
+Biometrics,2012,5
+Tourism,2012,11
+Travel,2012,47
+Restaurants,2012,24
+SEO,2012,8
+Fashion,2012,64
+Mobile Advertising,2012,6
+Advertising,2012,105
+Digital Media,2012,60
+Mobile Apps,2012,30
+Wellness,2012,16
+Legal,2012,14
+Personal Health,2012,13
+Market Research,2012,12
+Social Network,2012,18
+Gaming,2012,24
+Internet,2012,124
+Wine And Spirits,2012,6
+Pet,2012,4
+Manufacturing,2012,19
+Chemical,2012,3
+Public Relations,2012,6
+Advertising Platforms,2012,30
+News,2012,28
+Landscaping,2012,2
+Retail,2012,61
+Database,2012,12
+Product Design,2012,11
+Data Visualization,2012,18
+Payments,2012,21
+RFID,2012,1
+Hardware,2012,55
+Personalization,2012,15
+Brand Marketing,2012,34
+Collaboration,2012,31
+Artificial Intelligence,2012,48
+Cloud Computing,2012,65
+Infrastructure,2012,14
+Media and Entertainment,2012,15
+Content Marketing,2012,4
+Point of Sale,2012,6
+Photo Sharing,2012,15
+Children,2012,10
+Social Media Marketing,2012,30
+Project Management,2012,3
+Business Intelligence,2012,24
+3D Technology,2012,10
+Battery,2012,1
+Electrical Distribution,2012,2
+Test and Measurement,2012,15
+Aerospace,2012,5
+Data Integration,2012,12
+Cloud Data Services,2012,17
+EBooks,2012,6
+Email,2012,9
+Sensor,2012,4
+Consumer Electronics,2012,49
+Robotics,2012,26
+Law Enforcement,2012,6
+Email Marketing,2012,12
+mHealth,2012,19
+Finance,2012,67
+Industrial Automation,2012,5
+Intelligent Systems,2012,2
+Cloud Management,2012,6
+Information Services,2012,18
+Marketing,2012,20
+Digital Marketing,2012,9
+Big Data,2012,130
+Network Security,2012,16
+Biopharma,2012,5
+Management Information Systems,2012,5
+Machine Learning,2012,53
+Predictive Analytics,2012,24
+Film,2012,7
+Private Social Networking,2012,6
+Ad Targeting,2012,7
+Online Games,2012,3
+Fantasy Sports,2012,1
+Food and Beverage,2012,14
+Delivery,2012,11
+Smart Building,2012,7
+Energy Efficiency,2012,6
+Smart Home,2012,9
+Consulting,2012,12
+Internet of Things,2012,56
+Genetics,2012,12
+Elder Care,2012,4
+Cosmetics,2012,3
+Beauty,2012,8
+B2B,2012,50
+Semantic Search,2012,5
+Local,2012,17
+Innovation Management,2012,10
+Mechanical Engineering,2012,3
+Social Innovation,2012,2
+Internet Radio,2012,2
+Navigation,2012,5
+Location Based Services,2012,20
+Crowdsourcing,2012,23
+Android,2012,22
+Privacy,2012,6
+CAD,2012,2
+Retail Technology,2012,18
+Mobile Payments,2012,19
+Subscription Service,2012,8
+Loyalty Programs,2012,13
+Computer,2012,21
+Q&A,2012,2
+Online Portals,2012,19
+Professional Networking,2012,8
+Web Development,2012,27
+Motion Capture,2012,3
+Therapeutics,2012,20
+Politics,2012,5
+Price Comparison,2012,7
+Electric Vehicle,2012,4
+Oil and Gas,2012,6
+Energy,2012,15
+Transportation,2012,18
+Higher Education,2012,3
+Data Mining,2012,8
+Mobile Devices,2012,10
+Computer Vision,2012,9
+GovTech,2012,12
+Cloud Security,2012,9
+Communities,2012,16
+LGBT,2012,2
+Marketplace,2012,30
+Life Science,2012,10
+Consumer,2012,15
+Autonomous Vehicles,2012,7
+Data Center,2012,4
+Compliance,2012,3
+Data Storage,2012,7
+Professional Services,2012,7
+Adventure Travel,2012,4
+E-Commerce Platforms,2012,4
+Shoes,2012,4
+Ride Sharing,2012,2
+Drones,2012,6
+Wind Energy,2012,1
+Outsourcing,2012,4
+Content,2012,29
+Agriculture,2012,8
+App Marketing,2012,4
+Grocery,2012,2
+Consumer Goods,2012,5
+Shopping,2012,16
+Local Shopping,2012,1
+Wearables,2012,15
+Water Purification,2012,3
+Scheduling,2012,1
+Business Travel,2012,1
+Enterprise,2012,5
+Coworking,2012,3
+Venture Capital,2012,8
+Organic Food,2012,4
+Organic,2012,1
+Emerging Markets,2012,2
+Hospitality,2012,34
+Humanitarian,2012,2
+Accounting,2012,7
+Developer APIs,2012,16
+Training,2012,10
+Crowdfunding,2012,22
+Racing,2012,2
+Water,2012,4
+Natural Language Processing,2012,6
+Environmental Engineering,2012,2
+Renewable Energy,2012,9
+Lead Generation,2012,11
+Toys,2012,8
+Content Delivery Network,2012,6
+Property Insurance,2012,1
+Sharing Economy,2012,4
+Sporting Goods,2012,6
+National Security,2012,2
+Textiles,2012,3
+SMS,2012,4
+IT Management,2012,7
+Alternative Medicine,2012,2
+Nutrition,2012,6
+Document Management,2012,6
+Psychology,2012,4
+Web Apps,2012,5
+Charter Schools,2012,1
+Farmers Market,2012,1
+Diabetes,2012,2
+B2C,2012,5
+Gift,2012,2
+Mining Technology,2012,1
+Construction,2012,6
+Home Renovation,2012,6
+Risk Management,2012,5
+Web Hosting,2012,10
+Blogging Platforms,2012,7
+Web Design,2012,8
+Tea,2012,1
+Web Browsers,2012,6
+Auctions,2012,3
+Direct Marketing,2012,4
+Wealth Management,2012,3
+Impact Investing,2012,4
+Personal Finance,2012,9
+Small and Medium Businesses,2012,20
+Consumer Reviews,2012,2
+Reputation,2012,5
+Video Editing,2012,1
+Social Media Management,2012,4
+Cooking,2012,6
+Cycling,2012,1
+Commercial Real Estate,2012,4
+Messaging,2012,22
+Food Delivery,2012,4
+Financial Exchanges,2012,2
+Stock Exchanges,2012,3
+Employee Benefits,2012,6
+Video Advertising,2012,2
+Indoor Positioning,2012,3
+Open Source,2012,16
+Procurement,2012,1
+Online Forums,2012,1
+Language Learning,2012,6
+Call Center,2012,3
+Hospital,2012,10
+TV Production,2012,3
+Digital Entertainment,2012,11
+Logistics,2012,13
+Self-Storage,2012,1
+Men's,2012,2
+Ad Retargeting,2012,6
+DSP,2012,1
+Hotel,2012,2
+Customer Service,2012,16
+Home Decor,2012,2
+Furniture,2012,3
+Social News,2012,1
+Consumer Research,2012,1
+Trading Platform,2012,3
+Bitcoin,2012,4
+Business Development,2012,7
+Social,2012,8
+Timeshare,2012,1
+Peer to Peer,2012,2
+Local Advertising,2012,6
+Content Creators,2012,1
+Travel Accommodations,2012,1
+Cause Marketing,2012,1
+Lifestyle,2012,18
+Dating,2012,3
+Social Recruiting,2012,6
+Collaborative Consumption,2012,8
+Insurance,2012,13
+Electronics,2012,12
+3D Printing,2012,4
+Ediscovery,2012,4
+Knowledge Management,2012,7
+Content Syndication,2012,4
+Sales Automation,2012,7
+Lingerie,2012,1
+Wireless,2012,17
+Coupons,2012,9
+Gambling,2012,3
+DIY,2012,3
+Dietary Supplements,2012,1
+Software Engineering,2012,1
+Advice,2012,2
+PaaS,2012,6
+Audio,2012,6
+Jewelry,2012,4
+Browser Extensions,2012,3
+Leisure,2012,6
+Ad Network,2012,3
+Cosmetic Surgery,2012,1
+Diving,2012,1
+Real Estate Investment,2012,3
+Lighting,2012,4
+Architecture,2012,4
+Universities,2012,3
+Sustainability,2012,6
+Incubators,2012,3
+Recycling,2012,2
+Banking,2012,4
+Intellectual Property,2012,3
+Dental,2012,2
+Business Information Systems,2012,2
+Collectibles,2012,1
+Augmented Reality,2012,15
+Virtual Reality,2012,18
+Social Bookmarking,2012,3
+Neuroscience,2012,2
+Gift Card,2012,3
+Meeting Software,2012,2
+Image Recognition,2012,7
+Property Management,2012,5
+Musical Instruments,2012,1
+Government,2012,2
+Speech Recognition,2012,2
+Bakery,2012,1
+MMO Games,2012,3
+Craft Beer,2012,1
+Brewing,2012,1
+VoIP,2012,4
+Tennis,2012,2
+Sponsorship,2012,2
+Mapping Services,2012,1
+eSports,2012,4
+College Recruiting,2012,2
+Personal Branding,2012,1
+Credit,2012,8
+Advanced Materials,2012,5
+Soccer,2012,1
+Auto Insurance,2012,2
+Rental,2012,4
+Clean Energy,2012,6
+Solar,2012,8
+Lending,2012,3
+Online Auctions,2012,3
+Human Computer Interaction,2012,2
+Cloud Infrastructure,2012,10
+Virtualization,2012,13
+Energy Management,2012,5
+Natural Resources,2012,1
+Mineral,2012,1
+Group Buying,2012,1
+Visual Search,2012,2
+Virtual Assistant,2012,1
+Product Search,2012,1
+Technical Support,2012,1
+Video on Demand,2012,4
+Contact Management,2012,3
+Table Tennis,2012,1
+Recreation,2012,1
+Classifieds,2012,1
+Application Performance Management,2012,3
+Asset Management,2012,4
+Social CRM,2012,4
+QR Codes,2012,2
+UX Design,2012,1
+Public Transportation,2012,2
+IT Infrastructure,2012,2
+Health Insurance,2012,1
+Home Services,2012,2
+Digital Signage,2012,7
+Facial Recognition,2012,3
+Broadcasting,2012,3
+TV,2012,3
+Ticketing,2012,3
+Nightlife,2012,2
+Supply Chain Management,2012,7
+Wedding,2012,2
+WebOS,2012,1
+GreenTech,2012,2
+CleanTech,2012,1
+Air Transportation,2012,1
+Cryptocurrency,2012,1
+Funding Platform,2012,1
+Flash Storage,2012,1
+Network Hardware,2012,2
+Quality Assurance,2012,1
+Same Day Delivery,2012,1
+Photo Editing,2012,2
+Private Cloud,2012,2
+Home Improvement,2012,2
+Eyewear,2012,1
+Shipping,2012,6
+Product Management,2012,1
+IaaS,2012,3
+Child Care,2012,1
+Video Conferencing,2012,4
+Video Chat,2012,4
+PC Games,2012,2
+Amusement Park and Arcade,2012,1
+GPS,2012,1
+Religion,2012,1
+Family,2012,1
+Energy Storage,2012,2
+Consumer Lending,2012,3
+Geospatial,2012,2
+Corrections Facilities,2012,1
+Celebrity,2012,3
+Local Business,2012,2
+Boating,2012,1
+Tutoring,2012,5
+Outdoor Advertising,2012,1
+Virtual Desktop,2012,1
+Journalism,2012,1
+A/B Testing,2012,1
+Communications Infrastructure,2012,3
+Edutainment,2012,2
+Direct Sales,2012,1
+Task Management,2012,4
+Intrusion Detection,2012,1
+Homeland Security,2012,1
+Physical Security,2012,1
+Semiconductor,2012,4
+NFC,2012,2
+Music Streaming,2012,1
+Concerts,2012,1
+Graphic Design,2012,1
+Virtual Currency,2012,1
+Clinical Trials,2012,2
+Interior Design,2012,3
+Billing,2012,2
+Waste Management,2012,2
+Outdoors,2012,2
+Elderly,2012,2
+Generation Z,2012,1
+Millennials,2012,1
+Generation Y,2012,1
+Wood Processing,2012,1
+Machinery Manufacturing,2012,1
+Nightclubs,2012,1
+Green Building,2012,1
+Fleet Management,2012,1
+Casual Games,2012,1
+Podcast,2012,1
+STEM Education,2012,1
+Embedded Systems,2012,1
+Farming,2012,2
+Sales,2012,4
+Social Media Advertising,2012,1
+Guides,2012,2
+Baby,2012,1
+Power Grid,2012,1
+Console Games,2012,1
+Text Analytics,2012,2
+Presentations,2012,1
+Productivity Tools,2012,1
+Marine Transportation,2012,1
+Home and Garden,2012,1
+Cloud Storage,2012,1
+Multi-level Marketing,2012,1
+ERP,2012,1
+Lead Management,2012,1
+Public Safety,2012,1
+Health Care,2014,193
+Delivery,2014,11
+Grocery,2014,1
+E-Commerce,2014,127
+Home Renovation,2014,6
+Internet,2014,141
+Mobile Apps,2014,36
+Developer APIs,2014,20
+Education,2014,86
+Logistics,2014,26
+Medical,2014,62
+Health Diagnostics,2014,13
+Brand Marketing,2014,25
+Retail,2014,37
+Retail Technology,2014,23
+Customer Service,2014,22
+Men's,2014,2
+Fashion,2014,35
+Database,2014,7
+Computer,2014,21
+Big Data,2014,117
+Manufacturing,2014,27
+Billing,2014,3
+FinTech,2014,95
+Software,2014,258
+Medical Device,2014,27
+E-Learning,2014,16
+EdTech,2014,22
+Developer Tools,2014,38
+Energy,2014,11
+Online Portals,2014,11
+Energy Management,2014,5
+B2B,2014,37
+Clean Energy,2014,5
+Industrial,2014,9
+Energy Storage,2014,5
+CleanTech,2014,6
+Travel,2014,43
+Virtual Reality,2014,29
+Augmented Reality,2014,15
+Virtualization,2014,7
+Tourism,2014,11
+Agriculture,2014,22
+Farming,2014,11
+AgTech,2014,4
+Cloud Computing,2014,34
+Real Estate,2014,57
+Rental,2014,5
+Marketing Automation,2014,26
+Analytics,2014,129
+Subscription Service,2014,16
+Cloud Management,2014,6
+Cloud Data Services,2014,18
+Cloud Infrastructure,2014,10
+Presentations,2014,4
+Organic Food,2014,10
+Farmers Market,2014,3
+Apps,2014,146
+Hospital,2014,13
+Advertising,2014,50
+Mobile Advertising,2014,18
+Digital Media,2014,56
+Information Technology,2014,135
+Food and Beverage,2014,19
+Marketplace,2014,55
+Sustainability,2014,10
+Payments,2014,27
+Enterprise Software,2014,128
+Product Design,2014,15
+Market Research,2014,16
+Artificial Intelligence,2014,81
+Nanotechnology,2014,4
+Advanced Materials,2014,4
+Biotechnology,2014,56
+Bioinformatics,2014,2
+Mobile,2014,274
+3D Printing,2014,9
+Nutrition,2014,7
+Food Processing,2014,11
+Coffee,2014,2
+Legal,2014,13
+Hospitality,2014,31
+Network Security,2014,33
+Universities,2014,2
+Cyber Security,2014,52
+Security,2014,54
+mHealth,2014,27
+SaaS,2014,187
+Food Delivery,2014,3
+Organic,2014,1
+Privacy,2014,10
+Machine Learning,2014,81
+Commercial Real Estate,2014,12
+Location Based Services,2014,21
+Advertising Platforms,2014,27
+Mobile Devices,2014,7
+Women's,2014,7
+Communities,2014,15
+Gamification,2014,7
+Developer Platform,2014,13
+Consumer Research,2014,2
+Consumer Goods,2014,9
+Fitness,2014,32
+Tea,2014,1
+Aerospace,2014,17
+Information Services,2014,26
+Virtual Assistant,2014,3
+Lifestyle,2014,27
+Service Industry,2014,24
+Wine And Spirits,2014,9
+Android,2014,26
+Hardware,2014,56
+Consumer Electronics,2014,41
+iOS,2014,26
+Architecture,2014,5
+Digital Marketing,2014,10
+Mobile Payments,2014,19
+Social Media,2014,91
+Training,2014,12
+Data Center,2014,6
+Biopharma,2014,8
+Therapeutics,2014,14
+Restaurants,2014,27
+Social Media Marketing,2014,14
+Content Marketing,2014,4
+Genetics,2014,13
+Web Design,2014,5
+Marketing,2014,26
+Property Management,2014,14
+Private Social Networking,2014,11
+Employment,2014,7
+Human Resources,2014,47
+Recruiting,2014,35
+Sales Automation,2014,14
+Financial Services,2014,69
+Transportation,2014,29
+Ride Sharing,2014,6
+Finance,2014,38
+Real Time,2014,24
+Content Discovery,2014,8
+Life Science,2014,5
+Pharmaceutical,2014,13
+Shopping,2014,18
+GreenTech,2014,2
+Public Safety,2014,7
+Messaging,2014,37
+Crowdfunding,2014,13
+Industrial Automation,2014,3
+Robotics,2014,38
+Supply Chain Management,2014,15
+Gift Card,2014,3
+Open Source,2014,14
+Small and Medium Businesses,2014,23
+Skill Assessment,2014,2
+Construction,2014,11
+3D Technology,2014,12
+Gift,2014,2
+Local,2014,19
+Business Development,2014,11
+Publishing,2014,17
+Art,2014,14
+CRM,2014,23
+Infrastructure,2014,7
+Home Decor,2014,6
+Meeting Software,2014,4
+Business Intelligence,2014,35
+Predictive Analytics,2014,30
+Social Entrepreneurship,2014,2
+Sporting Goods,2014,5
+Chemical,2014,3
+Building Material,2014,2
+Product Research,2014,4
+Social,2014,8
+Sensor,2014,8
+Internet of Things,2014,77
+Data Visualization,2014,20
+Automotive,2014,22
+Electronics,2014,21
+Politics,2014,5
+Cryptocurrency,2014,3
+Government,2014,4
+Media and Entertainment,2014,23
+Video,2014,51
+Content,2014,22
+Personal Health,2014,22
+Motion Capture,2014,1
+Productivity Tools,2014,7
+Enterprise Applications,2014,6
+Ediscovery,2014,2
+Power Grid,2014,2
+Smart Home,2014,12
+Smart Building,2014,2
+Energy Efficiency,2014,4
+Wireless,2014,16
+Network Hardware,2014,2
+Parking,2014,5
+Sales,2014,7
+Direct Sales,2014,2
+Public Relations,2014,5
+Social Media Management,2014,8
+Search Engine,2014,19
+Sports,2014,43
+Wellness,2014,17
+Consumer Lending,2014,4
+Car Sharing,2014,1
+SEO,2014,6
+Content Creators,2014,3
+Real Estate Investment,2014,6
+Higher Education,2014,4
+Dental,2014,4
+Air Transportation,2014,2
+Self-Storage,2014,2
+Music Education,2014,1
+Beauty,2014,11
+Consumer,2014,21
+Interior Design,2014,5
+Collectibles,2014,1
+Consumer Software,2014,3
+DIY,2014,5
+Edutainment,2014,3
+Crowdsourcing,2014,17
+Green Consumer Goods,2014,2
+Product Search,2014,1
+Adventure Travel,2014,7
+Consulting,2014,6
+Oil and Gas,2014,8
+Geospatial,2014,6
+Project Management,2014,10
+Collaboration,2014,21
+PaaS,2014,6
+IT Infrastructure,2014,3
+Child Care,2014,4
+Solar,2014,10
+Alumni,2014,1
+Events,2014,27
+Drones,2014,19
+Data Integration,2014,15
+Social Media Advertising,2014,4
+Social Network,2014,14
+Facial Recognition,2014,1
+Communications Infrastructure,2014,6
+Mapping Services,2014,3
+Natural Language Processing,2014,12
+Veterinary,2014,4
+Wearables,2014,27
+Event Management,2014,11
+Transaction Processing,2014,3
+Document Management,2014,5
+Banking,2014,10
+Application Performance Management,2014,3
+Peer to Peer,2014,4
+Web Development,2014,10
+Gaming,2014,21
+Ticketing,2014,9
+Photo Editing,2014,3
+Soccer,2014,1
+Credit Cards,2014,2
+Aquaculture,2014,2
+Enterprise,2014,6
+Loyalty Programs,2014,7
+Renewable Energy,2014,2
+Personalization,2014,16
+Text Analytics,2014,4
+Parenting,2014,9
+Family,2014,3
+Photography,2014,18
+Children,2014,7
+Consumer Applications,2014,3
+Social Innovation,2014,2
+Leisure,2014,8
+Image Recognition,2014,6
+Computer Vision,2014,10
+Digital Entertainment,2014,8
+Point of Sale,2014,6
+Insurance,2014,13
+Reservations,2014,3
+Credit,2014,8
+Podcast,2014,2
+News,2014,14
+Biometrics,2014,6
+Impact Investing,2014,4
+Ad Targeting,2014,3
+Ad Retargeting,2014,1
+Lending,2014,5
+Scheduling,2014,2
+Risk Management,2014,9
+Affiliate Marketing,2014,1
+Innovation Management,2014,6
+Cooking,2014,4
+Cosmetics,2014,2
+Delivery Service,2014,3
+Web Hosting,2014,6
+Wealth Management,2014,5
+Web Apps,2014,5
+Blogging Platforms,2014,6
+Cloud Security,2014,12
+Pet,2014,6
+Professional Networking,2014,8
+Corporate Training,2014,6
+Tutoring,2014,4
+Language Learning,2014,4
+Music,2014,25
+Software Engineering,2014,4
+Financial Exchanges,2014,4
+Audio,2014,13
+Collaborative Consumption,2014,8
+Music Venues,2014,4
+Freelance,2014,3
+Fantasy Sports,2014,4
+Intellectual Property,2014,3
+Electric Vehicle,2014,2
+Sponsorship,2014,3
+Professional Services,2014,5
+Outsourcing,2014,1
+Accounting,2014,3
+Baby,2014,2
+Compliance,2014,6
+Residential,2014,1
+Career Planning,2014,5
+Personal Finance,2014,9
+Video Games,2014,19
+Bitcoin,2014,28
+Social CRM,2014,3
+Sharing Economy,2014,6
+Clinical Trials,2014,5
+Office Administration,2014,2
+Procurement,2014,4
+eSports,2014,5
+Navigation,2014,6
+Virtual Currency,2014,3
+Neuroscience,2014,3
+Telecommunications,2014,15
+ISP,2014,2
+Business Information Systems,2014,1
+Photo Sharing,2014,21
+App Discovery,2014,1
+Lead Generation,2014,8
+Coworking,2014,2
+SMS,2014,3
+Video Streaming,2014,17
+Video Editing,2014,2
+Recreation,2014,1
+GPS,2014,3
+Email,2014,9
+STEM Education,2014,3
+Social News,2014,2
+College Recruiting,2014,3
+Same Day Delivery,2014,1
+Building Maintenance,2014,1
+Identity Management,2014,5
+Performing Arts,2014,3
+Lighting,2014,2
+Journalism,2014,4
+Semantic Search,2014,5
+Public Transportation,2014,3
+Content Delivery Network,2014,2
+Visual Search,2014,1
+Nursing and Residential Care,2014,2
+Broadcasting,2014,7
+Electrical Distribution,2014,1
+Elder Care,2014,5
+EBooks,2014,2
+Craft Beer,2014,1
+Direct Marketing,2014,4
+Social Recruiting,2014,4
+Knowledge Management,2014,8
+Non Profit,2014,10
+Ad Network,2014,3
+Email Marketing,2014,7
+Natural Resources,2014,1
+Commercial Insurance,2014,1
+InsurTech,2014,2
+Property Insurance,2014,1
+Shipping,2014,7
+Data Center Automation,2014,3
+Consumer Reviews,2014,2
+Rental Property,2014,3
+GovTech,2014,5
+Water,2014,9
+Precious Metals,2014,1
+Mining Technology,2014,1
+E-Commerce Platforms,2014,8
+Psychology,2014,1
+CAD,2014,2
+Data Mining,2014,6
+Human Computer Interaction,2014,2
+NFC,2014,2
+QR Codes,2014,1
+IT Management,2014,4
+Nightclubs,2014,1
+Serious Games,2014,1
+Secondary Education,2014,1
+Retirement,2014,3
+Digital Signage,2014,5
+Mining,2014,1
+Recycling,2014,1
+Freight Service,2014,2
+Contact Management,2014,3
+A/B Testing,2014,1
+Online Games,2014,2
+IaaS,2014,2
+Creative Agency,2014,3
+Charity,2014,5
+Battery,2014,2
+Health Insurance,2014,3
+Semiconductor,2014,6
+Web Browsers,2014,1
+Test and Measurement,2014,6
+Video Chat,2014,1
+Outdoors,2014,2
+Green Building,2014,1
+Reputation,2014,2
+Intrusion Detection,2014,1
+Penetration Testing,2014,1
+Toys,2014,4
+Social Shopping,2014,1
+TV,2014,4
+Flowers,2014,1
+Advice,2014,1
+Primary Education,2014,2
+EHR,2014,1
+Animation,2014,2
+Auctions,2014,1
+Local Business,2014,2
+Coupons,2014,2
+Dating,2014,7
+Quantified Self,2014,1
+Technical Support,2014,2
+Autonomous Vehicles,2014,5
+Content Syndication,2014,2
+Commercial,2014,2
+Funerals,2014,1
+Product Management,2014,3
+Assisted Living,2014,1
+Celebrity,2014,1
+Cause Marketing,2014,1
+App Marketing,2014,3
+Home Health Care,2014,2
+Translation Service,2014,2
+Diabetes,2014,2
+Virtual World,2014,2
+VoIP,2014,1
+Cloud Storage,2014,3
+Quality Assurance,2014,2
+Film Production,2014,3
+Speech Recognition,2014,2
+Communication Hardware,2014,3
+Drone Management,2014,1
+Fuel,2014,1
+Micro Lending,2014,1
+Music Streaming,2014,1
+Wholesale,2014,1
+Task Management,2014,7
+Industrial Design,2014,1
+Industrial Engineering,2014,1
+Mechanical Engineering,2014,1
+B2C,2014,3
+National Security,2014,3
+Assistive Technology,2014,1
+Operating Systems,2014,3
+Water Purification,2014,2
+Field Support,2014,1
+Staffing Agency,2014,4
+Adult,2014,1
+Dietary Supplements,2014,3
+Social Bookmarking,2014,1
+Freemium,2014,1
+Private Cloud,2014,1
+Optical Communication,2014,1
+Cosmetic Surgery,2014,1
+Flash Storage,2014,4
+Semantic Web,2014,1
+Furniture,2014,3
+Video on Demand,2014,2
+Handmade,2014,1
+Data Storage,2014,4
+Film,2014,3
+Online Auctions,2014,1
+Management Consulting,2014,1
+Wedding,2014,2
+Gambling,2014,1
+PC Games,2014,1
+Linux,2014,2
+Management Information Systems,2014,2
+Personal Branding,2014,1
+Fraud Detection,2014,3
+ERP,2014,2
+Embedded Software,2014,3
+Intelligent Systems,2014,1
+Local Advertising,2014,3
+Landscaping,2014,2
+Packaging Services,2014,2
+Employee Benefits,2014,2
+Marijuana,2014,1
+Video Advertising,2014,3
+Shoes,2014,1
+File Sharing,2014,1
+Elderly,2014,1
+LGBT,2014,2
+Home Improvement,2014,1
+Jewelry,2014,1
+Religion,2014,1
+Young Adults,2014,3
+Travel Agency,2014,1
+Lingerie,2014,1
+Environmental Engineering,2014,2
+Browser Extensions,2014,1
+Millennials,2014,1
+Alternative Medicine,2014,2
+Outdoor Advertising,2014,1
+Hedge Funds,2014,1
+Commercial Lending,2014,1
+Venture Capital,2014,2
+TV Production,2014,1
+Stock Exchanges,2014,1
+Casino,2014,1
+Asset Management,2014,2
+Hotel,2014,2
+Travel Accommodations,2014,1
+Machinery Manufacturing,2014,1
+Trading Platform,2014,1
+Video Conferencing,2014,1
+Bakery,2014,1
+Event Promotion,2014,1
+Gift Exchange,2014,1
+Ad Server,2014,1
+Recipes,2014,1
+Printing,2014,1
+Racing,2014,1
+Satellite Communication,2014,1
+Space Travel,2014,1
+Social Media Marketing,2016,3
+Photo Sharing,2016,4
+Software,2016,60
+Intellectual Property,2016,1
+Rental,2016,5
+Real Estate Investment,2016,4
+Real Estate,2016,17
+Auto Insurance,2016,1
+Internet of Things,2016,19
+Mobile,2016,29
+Consumer Electronics,2016,5
+Automotive,2016,13
+Web Apps,2016,2
+Digital Marketing,2016,7
+Web Development,2016,4
+Mobile Apps,2016,29
+Information Technology,2016,27
+Lifestyle,2016,6
+Fitness,2016,10
+Sports,2016,10
+Medical,2016,11
+Health Care,2016,42
+EdTech,2016,5
+Cyber Security,2016,9
+Industrial,2016,3
+Security,2016,15
+Medical Device,2016,9
+Industrial Manufacturing,2016,1
+Industrial Automation,2016,2
+Robotics,2016,12
+Hardware,2016,8
+Trading Platform,2016,1
+Logistics,2016,11
+Shipping,2016,3
+SaaS,2016,40
+Psychology,2016,1
+Natural Language Processing,2016,5
+Artificial Intelligence,2016,56
+Health Diagnostics,2016,7
+Agriculture,2016,5
+Drones,2016,5
+Personal Health,2016,8
+Transportation,2016,13
+Cloud Management,2016,4
+Cloud Computing,2016,10
+Developer Tools,2016,5
+eSports,2016,3
+PC Games,2016,1
+Online Games,2016,3
+Therapeutics,2016,2
+Biotechnology,2016,15
+Developer Platform,2016,4
+Video Games,2016,4
+Augmented Reality,2016,12
+Gaming,2016,9
+Internet,2016,23
+Virtual Assistant,2016,3
+Autonomous Vehicles,2016,5
+Fashion,2016,7
+Online Auctions,2016,1
+Apps,2016,24
+A/B Testing,2016,1
+Machine Learning,2016,36
+Crowdsourcing,2016,5
+Predictive Analytics,2016,9
+Analytics,2016,16
+Geospatial,2016,2
+Travel,2016,16
+Cosmetics,2016,1
+Coffee,2016,2
+Sustainability,2016,2
+FinTech,2016,23
+Supply Chain Management,2016,4
+Consumer Goods,2016,4
+Insurance,2016,7
+E-Commerce,2016,29
+Education,2016,15
+Marketplace,2016,24
+Marketing,2016,17
+E-Learning,2016,4
+Language Learning,2016,3
+Service Industry,2016,11
+Hotel,2016,2
+B2B,2016,8
+Digital Entertainment,2016,3
+Music,2016,8
+Nightlife,2016,1
+mHealth,2016,3
+Financial Services,2016,23
+Alternative Medicine,2016,2
+Data Storage,2016,1
+Cloud Storage,2016,3
+Enterprise Software,2016,31
+Computer,2016,14
+Media and Entertainment,2016,11
+Marketing Automation,2016,6
+Advertising Platforms,2016,4
+Business Development,2016,2
+Venture Capital,2016,2
+Asset Management,2016,2
+Smart Building,2016,3
+Building Maintenance,2016,1
+Energy Efficiency,2016,2
+Hospital,2016,3
+Digital Media,2016,10
+Neuroscience,2016,1
+Social Network,2016,8
+Dating,2016,2
+Location Based Services,2016,3
+Brand Marketing,2016,7
+Advertising,2016,10
+Video,2016,4
+Video Streaming,2016,5
+Publishing,2016,4
+Ad Exchange,2016,1
+Retail,2016,7
+Retail Technology,2016,11
+Personalization,2016,4
+Children,2016,5
+Pet,2016,2
+Animal Feed,2016,1
+Productivity Tools,2016,5
+Corporate Training,2016,1
+Wellness,2016,10
+Food and Beverage,2016,10
+Restaurants,2016,7
+Food Delivery,2016,4
+Virtual Reality,2016,14
+Gift,2016,1
+Big Data,2016,21
+Cloud Data Services,2016,3
+Outpatient Care,2016,1
+Child Care,2016,2
+Food Processing,2016,4
+Tutoring,2016,4
+Freelance,2016,3
+Customer Service,2016,7
+Network Security,2016,3
+Pharmaceutical,2016,3
+Property Insurance,2016,2
+Eyewear,2016,1
+SEO,2016,1
+Search Engine,2016,3
+Web Design,2016,1
+Payments,2016,3
+Messaging,2016,6
+Collaboration,2016,4
+PaaS,2016,6
+Developer APIs,2016,6
+Social Media,2016,16
+Finance,2016,15
+Wealth Management,2016,1
+Cooking,2016,1
+Events,2016,5
+Sponsorship,2016,1
+Personal Finance,2016,2
+File Sharing,2016,2
+Crowdfunding,2016,4
+Content,2016,2
+Same Day Delivery,2016,1
+Open Source,2016,4
+Impact Investing,2016,2
+GPS,2016,1
+Wearables,2016,2
+Home Decor,2016,3
+Furniture,2016,3
+Self-Storage,2016,2
+Consulting,2016,4
+Data Visualization,2016,5
+Small and Medium Businesses,2016,2
+AgTech,2016,1
+Property Management,2016,2
+Leisure,2016,2
+Consumer Reviews,2016,2
+Sales,2016,5
+Broadcasting,2016,1
+Content Delivery Network,2016,2
+Religion,2016,2
+Nutrition,2016,3
+Cloud Security,2016,2
+Software Engineering,2016,3
+Genetics,2016,3
+Commercial Real Estate,2016,3
+Shopping,2016,4
+E-Commerce Platforms,2016,5
+Procurement,2016,1
+Cloud Infrastructure,2016,6
+Beauty,2016,3
+Point of Sale,2016,2
+Mobile Payments,2016,2
+Communities,2016,6
+Online Forums,2016,1
+3D Printing,2016,3
+CleanTech,2016,1
+Solar,2016,3
+Renewable Energy,2016,1
+Outdoors,2016,2
+Database,2016,3
+Knowledge Management,2016,1
+CRM,2016,2
+Sales Automation,2016,4
+Computer Vision,2016,6
+Content Creators,2016,2
+Content Marketing,2016,1
+Web Browsers,2016,1
+Hospitality,2016,6
+Product Management,2016,3
+Social Media Advertising,2016,3
+Railroad,2016,1
+Telecommunications,2016,4
+Identity Management,2016,3
+Natural Resources,2016,2
+Oil and Gas,2016,1
+Energy,2016,3
+News,2016,4
+Product Search,2016,1
+Social Entrepreneurship,2016,1
+Recreation,2016,1
+Life Insurance,2016,1
+Wireless,2016,1
+Incubators,2016,1
+Government,2016,3
+IT Management,2016,4
+Peer to Peer,2016,4
+Distillery,2016,1
+Wine And Spirits,2016,2
+Application Performance Management,2016,1
+Home Renovation,2016,2
+Fraud Detection,2016,3
+Digital Signage,2016,1
+Physical Security,2016,2
+Video Conferencing,2016,1
+Video Chat,2016,1
+Ferry Service,2016,1
+Tourism,2016,3
+Water Transportation,2016,1
+Delivery,2016,2
+Risk Management,2016,2
+Fuel,2016,1
+Ride Sharing,2016,2
+Real Time,2016,2
+Banking,2016,2
+Communication Hardware,2016,1
+Manufacturing,2016,3
+Air Transportation,2016,1
+Transaction Processing,2016,1
+Human Resources,2016,6
+Shoes,2016,1
+Men's,2016,1
+Legal,2016,3
+Advice,2016,1
+Project Management,2016,3
+Task Management,2016,2
+Information Services,2016,4
+Email,2016,2
+Space Travel,2016,2
+Aerospace,2016,1
+Data Mining,2016,2
+Business Intelligence,2016,2
+Credit Cards,2016,1
+Consumer,2016,9
+Audio,2016,1
+Podcast,2016,1
+Higher Education,2016,1
+Accounting,2016,2
+Online Portals,2016,1
+Lending,2016,2
+Credit,2016,1
+Music Streaming,2016,1
+Bitcoin,2016,1
+Ticketing,2016,1
+Public Safety,2016,2
+Wedding,2016,1
+Enterprise,2016,4
+Optical Communication,2016,1
+Electronics,2016,2
+Semiconductor,2016,1
+Health Insurance,2016,1
+Billing,2016,1
+iOS,2016,2
+Android,2016,2
+ICT,2016,1
+Travel Accommodations,2016,2
+Recruiting,2016,6
+Staffing Agency,2016,2
+Parenting,2016,1
+Primary Education,2016,1
+Winery,2016,1
+Charity,2016,1
+Energy Management,2016,1
+Rental Property,2016,2
+GovTech,2016,1
+Image Recognition,2016,1
+Marijuana,2016,2
+Farming,2016,1
+Mobile Advertising,2016,3
+Law Enforcement,2016,1
+Smart Home,2016,2
+Coworking,2016,2
+Interior Design,2016,4
+Delivery Service,2016,1
+Simulation,2016,2
+Sharing Economy,2016,4
+Reading Apps,2016,1
+Personal Development,2016,2
+Adventure Travel,2016,2
+Business Travel,2016,1
+Cryptocurrency,2016,1
+3D Technology,2016,2
+Politics,2016,1
+GPU,2016,1
+Warehousing,2016,1
+Blogging Platforms,2016,1
+Enterprise Applications,2016,2
+Virtual Workforce,2016,2
+Product Design,2016,4
+Event Management,2016,1
+Photography,2016,1
+Consumer Lending,2016,1
+Local Advertising,2016,1
+Employment,2016,1
+Millennials,2016,1
+Professional Services,2016,1
+Sensor,2016,2
+Parking,2016,1
+Toys,2016,1
+Edutainment,2016,1
+Professional Networking,2016,1
+Lead Management,2016,1
+Internet Radio,2016,1
+Debt Collections,2016,1
+Training,2016,1
+Journalism,2016,1
+Water,2016,1
+Women's,2016,4
+Mapping Services,2016,1
+Private Social Networking,2016,1
+IaaS,2016,2
+Navigation,2016,1
+Employee Benefits,2016,1
+Retirement,2016,1
+Semantic Search,2016,1
+Virtualization,2016,3
+Content Discovery,2016,1
+Contact Management,2016,1
+Career Planning,2016,1
+Art,2016,2
+Loyalty Programs,2016,1
+Direct Sales,2016,1
+RFID,2016,1
+Home Services,2016,1
+Housekeeping Service,2016,1
+Home Improvement,2016,1
+Water Purification,2016,1
+Paper Manufacturing,2016,1
+Market Research,2016,1
+Military,2016,1
+Drone Management,2016,1
+Car Sharing,2016,1
+Vocational Education,2016,1
+Lead Generation,2016,1
+Consumer Software,2016,1
+Communications Infrastructure,2016,1
+Privacy,2016,1
+Text Analytics,2016,1
+Compliance,2016,1
+InsurTech,2016,2
+Leasing,2016,1
+Data Center Automation,2016,1
+Social,2016,1
+Snack Food,2016,1
+Private Cloud,2016,2
+Reservations,2016,1
+App Marketing,2016,1
+Clinical Trials,2016,1
+Public Transportation,2016,1
+Document Management,2000,3
+Software,2000,63
+Email Marketing,2000,2
+Marketing Automation,2000,2
+Clean Energy,2000,3
+Renewable Energy,2000,1
+Waste Management,2000,2
+Service Industry,2000,9
+Supply Chain Management,2000,2
+Enterprise Software,2000,49
+Small and Medium Businesses,2000,1
+Finance,2000,8
+Robotics,2000,2
+Medical Device,2000,6
+Health Care,2000,38
+3D Technology,2000,2
+Project Management,2000,1
+Developer Platform,2000,3
+Big Data,2000,10
+Biotechnology,2000,39
+Health Diagnostics,2000,7
+Payments,2000,5
+Credit,2000,1
+E-Commerce,2000,14
+Energy Management,2000,2
+Wireless,2000,19
+Manufacturing,2000,15
+Genetics,2000,5
+Consulting,2000,7
+Financial Services,2000,8
+Web Hosting,2000,10
+Telecommunications,2000,17
+VoIP,2000,6
+Security,2000,17
+Information Technology,2000,28
+Network Security,2000,7
+Infrastructure,2000,4
+Internet of Things,2000,4
+Hospital,2000,5
+Pharmaceutical,2000,16
+Fitness,2000,2
+Therapeutics,2000,5
+Nutrition,2000,1
+Peer to Peer,2000,1
+Public Relations,2000,2
+Personal Finance,2000,1
+ISP,2000,2
+Market Research,2000,3
+Business Intelligence,2000,5
+Advertising,2000,15
+Analytics,2000,29
+Medical,2000,11
+Fashion,2000,2
+Retail,2000,7
+Professional Networking,2000,1
+Hardware,2000,10
+Web Development,2000,3
+Mobile Apps,2000,1
+SaaS,2000,18
+Electronics,2000,8
+Risk Management,2000,6
+Life Science,2000,3
+Product Research,2000,1
+Semiconductor,2000,4
+Recruiting,2000,6
+Information Services,2000,6
+Data Integration,2000,3
+Lead Generation,2000,2
+Search Engine,2000,3
+Content,2000,4
+Public Transportation,2000,2
+Car Sharing,2000,1
+Transportation,2000,2
+Network Hardware,2000,4
+Loyalty Programs,2000,1
+Education,2000,8
+Travel,2000,4
+Restaurants,2000,1
+Internet,2000,17
+RFID,2000,3
+Human Resources,2000,4
+Nanotechnology,2000,1
+Clinical Trials,2000,2
+Photography,2000,3
+Printing,2000,2
+Publishing,2000,4
+Digital Media,2000,8
+Home Decor,2000,1
+Lifestyle,2000,3
+Furniture,2000,1
+GovTech,2000,1
+Email,2000,3
+Dietary Supplements,2000,1
+Energy Storage,2000,1
+Mobile,2000,23
+Video Streaming,2000,3
+Events,2000,1
+Cloud Computing,2000,11
+TV,2000,1
+Biopharma,2000,3
+CleanTech,2000,1
+Data Storage,2000,3
+Virtualization,2000,3
+Optical Communication,2000,4
+Computer,2000,8
+Music,2000,2
+Independent Music,2000,1
+Marketing,2000,7
+Customer Service,2000,2
+EdTech,2000,2
+Emergency Medicine,2000,1
+Social CRM,2000,1
+Communications Infrastructure,2000,5
+mHealth,2000,1
+Elderly,2000,1
+Web Apps,2000,1
+Content Delivery Network,2000,1
+Mobile Advertising,2000,2
+Media and Entertainment,2000,7
+Broadcasting,2000,2
+Social Recruiting,2000,1
+Ad Targeting,2000,1
+SEO,2000,4
+Career Planning,2000,1
+Energy,2000,4
+Open Source,2000,2
+Innovation Management,2000,1
+Laser,2000,1
+Domain Registrar,2000,1
+Auctions,2000,1
+PaaS,2000,3
+Real Time,2000,3
+Financial Exchanges,2000,1
+Banking,2000,1
+Text Analytics,2000,1
+Natural Language Processing,2000,1
+Machine Learning,2000,4
+FinTech,2000,3
+Accounting,2000,2
+Insurance,2000,1
+Shipping,2000,1
+Logistics,2000,2
+Enterprise,2000,2
+Data Center,2000,3
+ERP,2000,1
+Real Estate,2000,4
+Asset Management,2000,2
+Wine And Spirits,2000,1
+Food and Beverage,2000,1
+Craft Beer,2000,1
+Local,2000,2
+Training,2000,1
+Property Management,2000,2
+Data Mining,2000,1
+Outsourcing,2000,2
+Web Browsers,2000,1
+Staffing Agency,2000,1
+Intelligent Systems,2000,1
+Compliance,2000,1
+Government,2000,1
+Graphic Design,2000,1
+Cloud Storage,2000,1
+Digital Entertainment,2000,2
+Social,2000,1
+Commercial,2000,1
+Environmental Consulting,2000,1
+Recycling,2000,1
+Industrial,2000,1
+Cyber Security,2000,4
+Art,2000,3
+iOS,2000,1
+Navigation,2000,3
+Technical Support,2000,1
+Procurement,2000,1
+Non Profit,2000,2
+Biometrics,2000,2
+Sports,2000,2
+Blogging Platforms,2000,1
+News,2000,1
+Social News,2000,1
+Social Media,2000,3
+Collaboration,2000,4
+Emerging Markets,2000,1
+IT Management,2000,2
+Dating,2000,1
+File Sharing,2000,1
+Video,2000,8
+Mobile Payments,2000,1
+Apps,2000,5
+Water,2000,1
+Retail Technology,2000,1
+Stock Exchanges,2000,1
+Crowdsourcing,2000,1
+Product Design,2000,2
+Geospatial,2000,1
+Cloud Data Services,2000,1
+Location Based Services,2000,2
+CRM,2000,2
+Beauty,2000,1
+Cosmetics,2000,1
+Developer APIs,2000,1
+Messaging,2000,2
+Wellness,2000,1
+Fuel Cell,2000,1
+Video on Demand,2000,1
+Agriculture,2000,1
+Energy Efficiency,2000,1
+Battery,2000,1
+Gamification,2000,1
+Video Games,2000,1
+Gaming,2000,2
+Android,2000,2
+Film,2000,2
+Animation,2000,1
+Marketplace,2000,4
+Sensor,2000,1
+Ticketing,2000,2
+Knowledge Management,2000,1
+Business Development,2000,1
+Rental,2000,1
+Private Cloud,2000,1
+Green Consumer Goods,2000,1
+Windows Phone,2000,1
+Software Engineering,2000,1
+Architecture,2000,1
+Management Information Systems,2000,1
+Delivery,2000,1
+Ad Network,2000,1
+Advertising Platforms,2000,1
+Higher Education,2000,1
+Corporate Training,2000,1
+Commercial Real Estate,2000,1
+Angel Investment,2000,1
+Predictive Analytics,2000,1
+B2B,2000,3
+Artificial Intelligence,2000,2
+Billing,2000,1
+Subscription Service,2000,1
+Sustainability,2000,1
+Identity Management,2000,1
+Enterprise Applications,2000,1
+Business Information Systems,2000,1
+App Marketing,2000,1
+Video Conferencing,2000,1
+Audio,2000,1
+Event Management,2000,1
+Lead Management,2000,1
+PC Games,2000,1
+Casual Games,2000,1
+Developer Tools,2000,1
+Automotive,2000,1
+Telecommunications,2009,12
+PaaS,2009,12
+Video,2009,26
+Video Streaming,2009,9
+Cloud Data Services,2009,11
+Audio,2009,5
+Mobile,2009,117
+Social Media Marketing,2009,13
+Shopping,2009,12
+Advertising,2009,75
+Social Media,2009,76
+Venture Capital,2009,4
+Finance,2009,31
+Software,2009,142
+Payments,2009,15
+E-Commerce,2009,69
+Billing,2009,4
+Affiliate Marketing,2009,1
+Enterprise Software,2009,132
+GovTech,2009,4
+Public Transportation,2009,2
+Real Estate,2009,14
+News,2009,14
+Journalism,2009,2
+Hardware,2009,33
+Agriculture,2009,4
+SaaS,2009,71
+CleanTech,2009,8
+Internet,2009,60
+Broadcasting,2009,1
+Water,2009,3
+Analytics,2009,69
+Infrastructure,2009,5
+Wind Energy,2009,3
+Oil and Gas,2009,5
+Big Data,2009,39
+E-Learning,2009,6
+Email,2009,6
+Education,2009,27
+Recruiting,2009,11
+Human Resources,2009,7
+Natural Resources,2009,2
+Mineral,2009,1
+Market Research,2009,8
+Energy,2009,23
+Electronics,2009,7
+Mobile Apps,2009,17
+Travel,2009,11
+Service Industry,2009,10
+Food Delivery,2009,3
+Restaurants,2009,9
+Genetics,2009,18
+Therapeutics,2009,34
+Biotechnology,2009,93
+Biopharma,2009,8
+National Security,2009,2
+Robotics,2009,9
+Security,2009,28
+Food and Beverage,2009,7
+Food Processing,2009,5
+Wine And Spirits,2009,3
+Web Hosting,2009,13
+Manufacturing,2009,32
+Information Services,2009,14
+Virtualization,2009,7
+Information Technology,2009,44
+Health Care,2009,98
+Automotive,2009,12
+Artificial Intelligence,2009,12
+Retail,2009,23
+Web Development,2009,6
+Apps,2009,48
+iOS,2009,24
+Medical Device,2009,33
+Android,2009,17
+Wireless,2009,9
+Diabetes,2009,1
+Medical,2009,44
+Life Science,2009,11
+Marketing,2009,19
+Cloud Computing,2009,37
+Clinical Trials,2009,4
+Pharmaceutical,2009,15
+Search Engine,2009,21
+Staffing Agency,2009,1
+Financial Services,2009,27
+Online Portals,2009,6
+CAD,2009,1
+Hospitality,2009,10
+Industrial Automation,2009,1
+Lifestyle,2009,5
+Sponsorship,2009,3
+Fashion,2009,16
+Employment,2009,6
+Communities,2009,3
+Government,2009,2
+Local,2009,17
+Computer,2009,10
+Tutoring,2009,1
+Marketplace,2009,15
+Developer Tools,2009,11
+Web Design,2009,2
+Mobile Payments,2009,9
+Neuroscience,2009,2
+Project Management,2009,6
+B2B,2009,14
+Collaboration,2009,13
+Task Management,2009,1
+Cyber Security,2009,12
+Network Security,2009,18
+Shipping,2009,3
+Transportation,2009,9
+Health Diagnostics,2009,13
+Craft Beer,2009,1
+Real Time,2009,20
+Machine Learning,2009,16
+Clean Energy,2009,9
+Energy Efficiency,2009,9
+Sensor,2009,2
+Messaging,2009,16
+SMS,2009,3
+Content,2009,15
+Email Marketing,2009,2
+Content Discovery,2009,3
+Data Visualization,2009,10
+Sports,2009,16
+Compliance,2009,2
+Supply Chain Management,2009,4
+Social Media Management,2009,6
+Text Analytics,2009,3
+Natural Language Processing,2009,2
+Laser,2009,1
+Bioinformatics,2009,4
+FinTech,2009,22
+Mobile Devices,2009,5
+Electric Vehicle,2009,4
+Crowdsourcing,2009,11
+Logistics,2009,3
+Nutraceutical,2009,1
+Animal Feed,2009,1
+Battery,2009,3
+Green Consumer Goods,2009,3
+Media and Entertainment,2009,10
+Digital Marketing,2009,3
+Online Auctions,2009,2
+Gaming,2009,16
+Brand Marketing,2009,10
+Business Intelligence,2009,15
+Small and Medium Businesses,2009,9
+Location Based Services,2009,12
+Customer Service,2009,6
+Legal,2009,4
+Publishing,2009,18
+CRM,2009,22
+Ad Retargeting,2009,4
+Privacy,2009,6
+Business Information Systems,2009,2
+Developer APIs,2009,8
+Open Source,2009,4
+Developer Platform,2009,5
+Consumer,2009,8
+Industrial,2009,3
+Water Purification,2009,1
+Waste Management,2009,1
+EdTech,2009,8
+Fitness,2009,10
+Wellness,2009,6
+Events,2009,10
+mHealth,2009,3
+Renewable Energy,2009,12
+Fuel,2009,3
+Cloud Management,2009,4
+Auctions,2009,3
+Farming,2009,1
+Music,2009,15
+Loyalty Programs,2009,5
+Coupons,2009,4
+Universities,2009,2
+Virtual Reality,2009,3
+Children,2009,3
+Energy Storage,2009,3
+Retail Technology,2009,2
+Augmented Reality,2009,1
+Freemium,2009,2
+Social Network,2009,15
+File Sharing,2009,3
+Digital Media,2009,23
+Blogging Platforms,2009,6
+Knowledge Management,2009,1
+Outdoors,2009,3
+Banking,2009,3
+Insurance,2009,4
+Chemical,2009,6
+Data Center,2009,7
+Enterprise,2009,4
+Solar,2009,10
+Nanotechnology,2009,3
+Event Management,2009,2
+Communication Hardware,2009,1
+Semiconductor,2009,3
+Art,2009,4
+Social CRM,2009,1
+Identity Management,2009,9
+Ticketing,2009,3
+Ediscovery,2009,1
+Concerts,2009,1
+Vertical Search,2009,1
+Ad Targeting,2009,2
+Impact Investing,2009,1
+Cooking,2009,2
+Meeting Software,2009,1
+Intelligent Systems,2009,2
+Product Design,2009,3
+Video on Demand,2009,2
+Content Marketing,2009,2
+Predictive Analytics,2009,11
+Reputation,2009,6
+Group Buying,2009,1
+Private Social Networking,2009,2
+Guides,2009,2
+Advertising Platforms,2009,2
+Photography,2009,9
+Stock Exchanges,2009,2
+Image Recognition,2009,2
+Business Development,2009,2
+Product Search,2009,1
+Bitcoin,2009,1
+Wealth Management,2009,2
+IT Management,2009,3
+Content Delivery Network,2009,3
+Photo Editing,2009,1
+Accounting,2009,6
+Collectibles,2009,1
+Credit,2009,3
+EBooks,2009,1
+Home Services,2009,2
+Commercial,2009,2
+Construction,2009,2
+Architecture,2009,4
+Ride Sharing,2009,2
+Shoes,2009,4
+Personalization,2009,5
+Parenting,2009,2
+Basketball,2009,1
+Fantasy Sports,2009,1
+Golf,2009,1
+American Football,2009,1
+Soccer,2009,1
+Digital Entertainment,2009,5
+Internet of Things,2009,7
+Higher Education,2009,2
+Database,2009,4
+TV,2009,1
+SEO,2009,7
+Career Planning,2009,5
+Consumer Electronics,2009,8
+Advice,2009,3
+Social,2009,9
+Web Browsers,2009,3
+Local Business,2009,2
+Commercial Real Estate,2009,4
+Property Management,2009,2
+Reading Apps,2009,1
+Social News,2009,1
+Ad Server,2009,2
+Innovation Management,2009,1
+Rehabilitation,2009,1
+Biomass Energy,2009,1
+Consumer Software,2009,2
+Toys,2009,1
+Vacation Rental,2009,2
+Tourism,2009,2
+Social Media Advertising,2009,1
+Recycling,2009,2
+Sales,2009,3
+Video Games,2009,7
+Contact Management,2009,1
+Elder Care,2009,1
+Social Recruiting,2009,2
+Consulting,2009,5
+Energy Management,2009,6
+Document Management,2009,2
+Outsourcing,2009,1
+Non Profit,2009,8
+Personal Finance,2009,3
+Risk Management,2009,4
+IaaS,2009,4
+Mobile Advertising,2009,2
+Retirement,2009,1
+Online Games,2009,1
+Virtual World,2009,2
+Textiles,2009,1
+Computer Vision,2009,1
+Data Mining,2009,1
+Mining Technology,2009,1
+Simulation,2009,1
+GreenTech,2009,5
+Pet,2009,1
+Transaction Processing,2009,4
+Debit Cards,2009,1
+Skill Assessment,2009,2
+Geospatial,2009,1
+Video Editing,2009,2
+Aerospace,2009,1
+Marketing Automation,2009,4
+Fraud Detection,2009,2
+Hospital,2009,4
+Fleet Management,2009,1
+AgTech,2009,1
+Semantic Search,2009,3
+App Marketing,2009,4
+Web Apps,2009,1
+Subscription Service,2009,3
+A/B Testing,2009,1
+Data Storage,2009,2
+Home Improvement,2009,1
+Interior Design,2009,2
+Home Renovation,2009,2
+Car Sharing,2009,2
+Collaborative Consumption,2009,2
+MMO Games,2009,1
+Peer to Peer,2009,1
+Enterprise Applications,2009,2
+Drones,2009,1
+Virtual Currency,2009,1
+Sales Automation,2009,1
+Video Conferencing,2009,1
+Communications Infrastructure,2009,2
+Beauty,2009,1
+Cloud Security,2009,1
+Lighting,2009,1
+Smart Building,2009,1
+Theatre,2009,1
+Film,2009,3
+Price Comparison,2009,3
+Semantic Web,2009,1
+Corporate Training,2009,2
+Training,2009,2
+Lending,2009,2
+Wearables,2009,1
+Content Creators,2009,1
+Navigation,2009,1
+Asset Management,2009,1
+Local Advertising,2009,1
+DIY,2009,1
+Organic Food,2009,1
+Facebook,2009,1
+First Aid,2009,1
+Emergency Medicine,2009,1
+Public Safety,2009,1
+Autonomous Vehicles,2009,2
+E-Commerce Platforms,2009,2
+Politics,2009,4
+Printing,2009,2
+Management Information Systems,2009,1
+Celebrity,2009,1
+Video Chat,2009,1
+Law Enforcement,2009,1
+Private Cloud,2009,1
+Photo Sharing,2009,6
+Professional Services,2009,2
+Scheduling,2009,1
+Casual Games,2009,1
+Management Consulting,2009,1
+Crowdfunding,2009,3
+Furniture,2009,1
+Power Grid,2009,1
+GPU,2009,1
+Consumer Applications,2009,2
+Adventure Travel,2009,1
+Graphic Design,2009,1
+Packaging Services,2009,1
+Advanced Materials,2009,1
+Chemical Engineering,2009,1
+CMS,2009,1
+Women's,2009,2
+Procurement,2009,2
+Real Estate Investment,2009,1
+Technical Support,2009,1
+Assisted Living,2009,1
+VoIP,2009,1
+Ad Network,2009,2
+Family,2009,2
+Data Integration,2009,2
+Operating Systems,2009,1
+Application Performance Management,2009,2
+Air Transportation,2009,1
+Cloud Storage,2009,1
+Continuing Education,2009,1
+Public Relations,2009,1
+Language Learning,2009,1
+Sustainability,2009,1
+Credit Cards,2009,4
+Lead Generation,2009,1
+SEM,2009,1
+Browser Extensions,2009,1
+Biometrics,2009,1
+Gift,2009,1
+PC Games,2009,1
+Content Syndication,2009,1
+Social Entrepreneurship,2009,1
+Child Care,2009,1
+Point of Sale,2009,1
+Cloud Infrastructure,2009,1
+Environmental Engineering,2009,1
+Delivery,2009,1
+Fossil Fuels,2009,1
+Professional Networking,2009,1
+Parking,2009,1
+Homeland Security,2009,1
+Home Decor,2009,1
+Service Industry,1999,8
+Hospitality,1999,2
+Family,1999,1
+Mobile,1999,23
+Marketing,1999,12
+Telecommunications,1999,15
+Software,1999,56
+Enterprise Software,1999,53
+Wireless,1999,9
+Manufacturing,1999,16
+Clinical Trials,1999,2
+Biotechnology,1999,22
+Health Care,1999,32
+Medical,1999,15
+Natural Language Processing,1999,1
+Medical Device,1999,10
+Genetics,1999,6
+Marketplace,1999,7
+Developer Tools,1999,3
+Sales,1999,2
+Photography,1999,2
+Blogging Platforms,1999,1
+Analytics,1999,19
+CRM,1999,7
+SaaS,1999,22
+PaaS,1999,2
+Advice,1999,3
+Finance,1999,8
+FinTech,1999,8
+B2C,1999,1
+Life Science,1999,3
+Health Diagnostics,1999,6
+Cloud Security,1999,3
+Cyber Security,1999,1
+Security,1999,16
+Risk Management,1999,4
+Search Engine,1999,4
+E-Commerce,1999,23
+Travel,1999,2
+Oil and Gas,1999,2
+Crowdsourcing,1999,1
+Product Design,1999,4
+Consulting,1999,5
+UX Design,1999,1
+Customer Service,1999,5
+Messaging,1999,5
+SMS,1999,3
+Cloud Computing,1999,11
+Payments,1999,4
+Video Streaming,1999,2
+Business Intelligence,1999,6
+Big Data,1999,4
+Hospital,1999,3
+Web Hosting,1999,11
+Web Browsers,1999,2
+Project Management,1999,3
+Business Development,1999,3
+Automotive,1999,4
+Application Performance Management,1999,2
+Virtualization,1999,4
+Human Resources,1999,2
+Flash Storage,1999,1
+Management Information Systems,1999,5
+Music,1999,3
+Audio,1999,5
+Internet,1999,31
+E-Learning,1999,4
+Education,1999,8
+Online Auctions,1999,3
+Information Technology,1999,26
+Information Services,1999,6
+Data Storage,1999,1
+Data Center,1999,2
+3D Printing,1999,1
+Agriculture,1999,3
+Sustainability,1999,1
+Social Media,1999,2
+Content,1999,3
+B2B,1999,2
+Event Management,1999,2
+Biopharma,1999,3
+Audiobooks,1999,1
+Digital Entertainment,1999,3
+Media and Entertainment,1999,5
+Web Design,1999,2
+Delivery,1999,2
+Local,1999,1
+Restaurants,1999,1
+Location Based Services,1999,2
+Logistics,1999,2
+Advertising,1999,11
+E-Commerce Platforms,1999,3
+Publishing,1999,2
+Content Syndication,1999,1
+Pharmaceutical,1999,8
+Market Research,1999,3
+Beauty,1999,1
+Cosmetics,1999,1
+Retail,1999,8
+Consumer Research,1999,1
+Accounting,1999,4
+Digital Signage,1999,1
+Digital Media,1999,8
+Content Delivery Network,1999,1
+Linux,1999,1
+Real Time,1999,3
+GovTech,1999,1
+Government,1999,4
+Food and Beverage,1999,2
+Food Processing,1999,2
+Food Delivery,1999,1
+Consumer Electronics,1999,4
+Mobile Payments,1999,1
+Therapeutics,1999,4
+Electronics,1999,5
+Network Hardware,1999,4
+Optical Communication,1999,3
+Fitness,1999,1
+Wellness,1999,2
+Wearables,1999,2
+Solar,1999,4
+Supply Chain Management,1999,3
+Home Health Care,1999,1
+Non Profit,1999,1
+Sports,1999,4
+Alternative Medicine,1999,1
+Communications Infrastructure,1999,6
+Business Information Systems,1999,1
+Computer,1999,2
+Industrial,1999,6
+iOS,1999,2
+RFID,1999,1
+Semiconductor,1999,5
+Delivery Service,1999,1
+Retail Technology,1999,6
+Smart Home,1999,1
+Internet of Things,1999,1
+Artificial Intelligence,1999,2
+Apps,1999,4
+Financial Services,1999,6
+Email,1999,5
+Cloud Data Services,1999,1
+Legal,1999,1
+Ediscovery,1999,1
+Renewable Energy,1999,2
+Test and Measurement,1999,2
+Consumer,1999,5
+Events,1999,1
+Advertising Platforms,1999,3
+Procurement,1999,1
+App Marketing,1999,1
+Public Relations,1999,2
+Collaboration,1999,2
+Universities,1999,1
+EdTech,1999,2
+Enterprise,1999,3
+Developer Platform,1999,3
+Shopping,1999,4
+Product Search,1999,1
+Hardware,1999,7
+Video,1999,7
+Banking,1999,2
+Recruiting,1999,1
+Outsourcing,1999,2
+Clean Energy,1999,1
+Infrastructure,1999,2
+VoIP,1999,2
+Social Network,1999,2
+Freelance,1999,1
+Mobile Devices,1999,2
+Eyewear,1999,1
+Augmented Reality,1999,1
+Private Cloud,1999,1
+Small and Medium Businesses,1999,3
+Auctions,1999,1
+Physical Security,1999,1
+Transportation,1999,2
+CleanTech,1999,2
+Energy Storage,1999,1
+ISP,1999,2
+Data Mining,1999,1
+Predictive Analytics,1999,2
+Scheduling,1999,1
+File Sharing,1999,1
+Wine And Spirits,1999,1
+Parenting,1999,1
+Web Development,1999,2
+SEO,1999,1
+Machine Learning,1999,1
+Content Creators,1999,1
+Digital Marketing,1999,2
+Energy Efficiency,1999,1
+Professional Services,1999,2
+Consumer Software,1999,1
+Dietary Supplements,1999,1
+Chemical,1999,1
+EDA,1999,1
+Compliance,1999,1
+Shipping,1999,1
+Furniture,1999,1
+Network Security,1999,2
+Broadcasting,1999,1
+Construction,1999,1
+Virtual World,1999,1
+Children,1999,1
+Lifestyle,1999,1
+Lead Generation,1999,2
+Cloud Management,1999,1
+Cloud Infrastructure,1999,2
+Photo Sharing,1999,1
+Email Marketing,1999,2
+Privacy,1999,1
+Online Portals,1999,2
+Intellectual Property,1999,1
+Real Estate,1999,2
+Handmade,1999,1
+Home Decor,1999,1
+Communities,1999,1
+Mapping Services,1999,1
+Fantasy Sports,1999,1
+National Security,1999,1
+News,1999,1
+Music Streaming,1999,1
+Gift,1999,1
+Developer APIs,1999,1
+Dating,1999,1
+Career Planning,1999,1
+Health Insurance,1999,2
+Video on Demand,1999,1
+Lead Management,1999,1
+Marketing Automation,1999,1
+TV,1999,1
+Content Marketing,1999,1
+Wealth Management,1999,1
+Architecture,1999,1
+Tourism,1999,1
+Knowledge Management,1999,1
+Pet,1999,1
+Insurance,1999,1
+Jewelry,1999,1
+Water Purification,1999,1
+Training,1999,1
+Aerospace,1999,1
+Fraud Detection,1999,1
+Hardware,1996,6
+Software,1996,27
+Pharmaceutical,1996,8
+Biotechnology,1996,18
+Health Care,1996,14
+Financial Services,1996,7
+Content,1996,2
+Enterprise Software,1996,15
+Computer,1996,2
+B2B,1996,3
+Neuroscience,1996,2
+Therapeutics,1996,7
+Sensor,1996,1
+Medical Device,1996,6
+Medical,1996,10
+Chemical,1996,2
+Hospital,1996,3
+Network Security,1996,4
+Security,1996,6
+Management Information Systems,1996,1
+Consulting,1996,4
+Marketplace,1996,2
+Online Auctions,1996,1
+E-Commerce,1996,6
+Advanced Materials,1996,1
+Broadcasting,1996,2
+Health Diagnostics,1996,6
+Biopharma,1996,4
+Electronics,1996,2
+mHealth,1996,1
+Biofuel,1996,1
+Energy,1996,1
+Outsourcing,1996,3
+Information Technology,1996,9
+Energy Efficiency,1996,1
+Solar,1996,1
+Business Intelligence,1996,4
+Cloud Computing,1996,5
+Analytics,1996,5
+CleanTech,1996,1
+Manufacturing,1996,5
+TV,1996,1
+Internet,1996,9
+Local,1996,1
+CRM,1996,1
+Internet of Things,1996,3
+Social Media,1996,3
+Advertising,1996,4
+Mobile,1996,2
+Market Research,1996,1
+Publishing,1996,2
+Information Services,1996,6
+Finance,1996,5
+News,1996,3
+Intellectual Property,1996,2
+Accounting,1996,1
+Incubators,1996,1
+Payments,1996,1
+SaaS,1996,2
+Humanitarian,1996,1
+Venture Capital,1996,1
+FinTech,1996,2
+Virtual Currency,1996,1
+Universities,1996,1
+Career Planning,1996,3
+Education,1996,2
+Billing,1996,1
+Service Industry,1996,2
+Data Center,1996,2
+Textiles,1996,1
+RFID,1996,1
+Professional Services,1996,2
+Recruiting,1996,2
+Sales,1996,1
+Trading Platform,1996,1
+IT Management,1996,1
+Public Safety,1996,1
+Marketing,1996,2
+E-Learning,1996,1
+Risk Management,1996,1
+Subscription Service,1996,1
+Identity Management,1996,1
+Telecommunications,1996,2
+Wireless,1996,2
+VoIP,1996,1
+Web Development,1996,1
+Media and Entertainment,1996,2
+Ad Network,1996,2
+Toys,1996,1
+Augmented Reality,1996,1
+Mobile Devices,1996,1
+Communication Hardware,1996,2
+Infrastructure,1996,1
+Messaging,1996,1
+Cyber Security,1996,1
+Collaboration,1996,1
+Beauty,1996,1
+Genetics,1996,2
+Web Hosting,1996,2
+Virtualization,1996,2
+Apps,1996,2
+Search Engine,1996,1
+Automotive,1996,1
+Supply Chain Management,1996,2
+Compliance,1996,1
+Real Time,1996,1
+Application Performance Management,1996,1
+Music,1996,1
+Consumer Electronics,1996,1
+Law Enforcement,1996,1
+GovTech,1996,1
+Clinical Trials,1996,1
+Geospatial,1996,1
+Location Based Services,1996,1
+Navigation,1996,1
+Project Management,1996,1
+Content Delivery Network,1996,1
+Cloud Data Services,1996,1
+Government,1996,2
+Email,1996,1
+Small and Medium Businesses,1996,2
+Loyalty Programs,1996,1
+Pet,1996,1
+Public Relations,1996,1
+Brand Marketing,1996,1
+Hospitality,1996,1
+Product Design,1996,1
+Oil and Gas,1996,1
+Digital Media,1996,1
+Mobile Advertising,1996,1
+Retirement,1996,1
+Advice,1996,1
+Communities,1996,1
+Online Portals,1996,1
+Women's,1996,1
+Travel,1996,1
+Ticketing,1996,1
+Transportation,1996,1
+Enterprise,1996,1
+Social Network,1996,1
+Retail,1996,1
+Sales Automation,1996,1
+Marketing Automation,1996,1
+Lead Generation,1996,1
+Business Development,1996,1
+Software,2001,41
+Ticketing,2001,1
+Internet,2001,13
+Information Technology,2001,18
+Advertising,2001,17
+Higher Education,2001,1
+Enterprise Software,2001,53
+Cloud Data Services,2001,5
+Medical,2001,17
+Biotechnology,2001,38
+Manufacturing,2001,17
+Therapeutics,2001,9
+Health Care,2001,41
+Marketing,2001,5
+Mobile,2001,26
+Wireless,2001,10
+Information Services,2001,6
+Analytics,2001,14
+Natural Resources,2001,2
+Energy,2001,7
+Oil and Gas,2001,5
+Commercial Real Estate,2001,1
+Brand Marketing,2001,4
+Social Media,2001,6
+Social Media Marketing,2001,2
+Digital Marketing,2001,1
+Health Diagnostics,2001,4
+Enterprise Applications,2001,1
+Identity Management,2001,3
+Robotics,2001,2
+Medical Device,2001,10
+Semiconductor,2001,12
+Energy Storage,2001,1
+Energy Management,2001,2
+Energy Efficiency,2001,3
+Search Engine,2001,2
+Life Science,2001,5
+Service Industry,2001,5
+Messaging,2001,7
+Collaboration,2001,6
+Flash Storage,2001,1
+Virtualization,2001,3
+Biopharma,2001,3
+Pharmaceutical,2001,16
+Web Development,2001,5
+Content,2001,8
+Video on Demand,2001,1
+Public Transportation,2001,1
+Local,2001,1
+Hardware,2001,6
+Nanotechnology,2001,4
+Sensor,2001,2
+Business Development,2001,2
+RFID,2001,2
+Network Security,2001,5
+Security,2001,13
+Compliance,2001,3
+Task Management,2001,2
+Retail,2001,4
+Trading Platform,2001,2
+SaaS,2001,16
+Financial Services,2001,7
+Mobile Devices,2001,2
+Loyalty Programs,2001,2
+Customer Service,2001,3
+E-Commerce,2001,13
+Risk Management,2001,4
+Infrastructure,2001,6
+Events,2001,2
+Career Planning,2001,1
+Wedding,2001,1
+Training,2001,2
+Consulting,2001,3
+Private Cloud,2001,1
+Database,2001,5
+Data Center,2001,3
+Cloud Computing,2001,7
+IT Management,2001,1
+Telecommunications,2001,9
+Cyber Security,2001,2
+Enterprise,2001,3
+Big Data,2001,3
+Staffing Agency,2001,1
+Recruiting,2001,3
+Mobile Apps,2001,1
+Outsourcing,2001,2
+Document Management,2001,2
+Consumer,2001,2
+Electronics,2001,7
+Wealth Management,2001,2
+Photography,2001,1
+Asset Management,2001,1
+Point of Sale,2001,1
+Biometrics,2001,1
+Art,2001,3
+Marketplace,2001,3
+Online Auctions,2001,1
+Fashion,2001,3
+Furniture,2001,1
+Payments,2001,3
+Billing,2001,1
+Sports,2001,3
+Publishing,2001,2
+Video Games,2001,3
+Digital Entertainment,2001,3
+mHealth,2001,1
+Crowdsourcing,2001,1
+Audio,2001,2
+Communications Infrastructure,2001,1
+Social Network,2001,2
+Finance,2001,3
+Intellectual Property,2001,1
+Machine Learning,2001,2
+Ad Targeting,2001,1
+Predictive Analytics,2001,2
+Real Time,2001,2
+Blogging Platforms,2001,1
+Ad Network,2001,2
+Video,2001,3
+News,2001,4
+Developer Tools,2001,2
+Content Syndication,2001,1
+Financial Exchanges,2001,1
+Digital Media,2001,3
+Veterinary,2001,1
+Hospital,2001,1
+B2B,2001,1
+Fuel Cell,2001,1
+Logistics,2001,2
+Business Intelligence,2001,2
+Digital Signage,2001,2
+Travel,2001,1
+Software Engineering,2001,1
+National Security,2001,1
+Test and Measurement,2001,2
+E-Learning,2001,1
+Employment,2001,2
+Human Resources,2001,1
+Web Hosting,2001,2
+Video Conferencing,2001,1
+Market Research,2001,2
+Architecture,2001,2
+Linux,2001,2
+Knowledge Management,2001,1
+Management Information Systems,2001,1
+Industrial Automation,2001,1
+Renewable Energy,2001,3
+Solar,2001,4
+Computer,2001,4
+Data Integration,2001,1
+Public Relations,2001,1
+Music,2001,2
+VoIP,2001,2
+Professional Services,2001,4
+Project Management,2001,2
+Cloud Security,2001,3
+Automotive,2001,2
+Local Advertising,2001,1
+CRM,2001,2
+Supply Chain Management,2001,1
+Non Profit,2001,2
+Email Marketing,2001,2
+Small and Medium Businesses,2001,1
+Marketing Automation,2001,2
+Content Delivery Network,2001,1
+Freemium,2001,1
+Gaming,2001,4
+Navigation,2001,1
+Transportation,2001,2
+Fleet Management,2001,2
+Cloud Infrastructure,2001,2
+Data Storage,2001,1
+Text Analytics,2001,1
+Innovation Management,2001,1
+CleanTech,2001,2
+Wind Energy,2001,1
+Web Apps,2001,1
+SEM,2001,1
+Developer APIs,2001,1
+Fitness,2001,1
+Internet of Things,2001,3
+Media and Entertainment,2001,1
+Sales,2001,2
+Real Estate,2001,1
+Home Renovation,2001,1
+Lead Generation,2001,1
+TV,2001,2
+Sporting Goods,2001,1
+Mobile Payments,2001,1
+NFC,2001,1
+Neuroscience,2001,1
+Developer Platform,2001,2
+Call Center,2001,1
+Personalization,2001,1
+Children,2001,1
+Sponsorship,2001,1
+Clean Energy,2001,1
+Virtual Reality,2001,1
+Natural Language Processing,2001,2
+Artificial Intelligence,2001,2
+Network Hardware,2001,1
+Product Design,2001,3
+Product Search,2001,1
+Laser,2001,1
+IT Infrastructure,2001,1
+Film,2001,1
+MMO Games,2001,1
+SEO,2001,1
+Video Streaming,2001,1
+Consumer Electronics,2001,1
+Apps,2001,1
+Data Center Automation,2001,1
+Cloud Management,2001,1
+Internet Radio,2001,1
+Agriculture,2001,1
+Green Consumer Goods,2001,1
+Shopping,2001,1
+Business Information Systems,2001,1
+Smart Home,2001,1
+Marketing,1995,2
+Social Media Marketing,1995,1
+E-Commerce,1995,7
+Local,1995,1
+Advertising,1995,3
+Database,1995,1
+Enterprise Software,1995,12
+Web Design,1995,1
+Web Hosting,1995,2
+Medical,1995,9
+Biopharma,1995,1
+Biotechnology,1995,11
+Cloud Computing,1995,1
+Manufacturing,1995,3
+ERP,1995,1
+Network Security,1995,1
+Virtualization,1995,1
+SaaS,1995,3
+Big Data,1995,1
+Information Technology,1995,3
+Data Storage,1995,2
+Medical Device,1995,2
+Health Care,1995,10
+VoIP,1995,2
+Analytics,1995,5
+Home Health Care,1995,1
+Social Assistance,1995,1
+Travel,1995,1
+Aerospace,1995,1
+Food and Beverage,1995,1
+Digital Media,1995,2
+Finance,1995,2
+Financial Services,1995,3
+Software,1995,8
+Digital Entertainment,1995,1
+Social Media,1995,1
+News,1995,1
+B2B,1995,1
+Fitness,1995,1
+Electronics,1995,4
+Pharmaceutical,1995,2
+Insurance,1995,1
+Therapeutics,1995,2
+Health Diagnostics,1995,2
+Mapping Services,1995,1
+Infrastructure,1995,1
+Bioinformatics,1995,1
+Retail Technology,1995,3
+Security,1995,3
+Internet,1995,3
+Energy Management,1995,1
+Communications Infrastructure,1995,1
+Hardware,1995,3
+Payments,1995,1
+Billing,1995,1
+Ediscovery,1995,1
+Automotive,1995,3
+Shopping,1995,1
+Retail,1995,1
+Banking,1995,1
+CleanTech,1995,1
+Environmental Engineering,1995,1
+Government,1995,1
+Search Engine,1995,1
+Auctions,1995,1
+Information Services,1995,1
+Green Consumer Goods,1995,1
+Toys,1995,1
+Commercial Real Estate,1995,1
+Real Estate,1995,2
+Video,1995,3
+Education,1995,1
+E-Learning,1995,1
+EdTech,1995,1
+Intellectual Property,1995,1
+Social,1995,1
+Home and Garden,1995,1
+Agriculture,1995,1
+Industrial,1995,1
+Predictive Analytics,1995,1
+Semiconductor,1995,5
+Computer,1995,1
+Collaboration,1995,1
+Video Conferencing,1995,2
+Telecommunications,1995,1
+Consumer,1995,1
+Wireless,1995,1
+Ticketing,1995,1
+Music,1995,2
+Concerts,1995,1
+Events,1995,1
+Sports,1995,1
+Consumer Electronics,1995,1
+Gamification,1995,1
+Gaming,1995,1
+Eyewear,1995,1
+Cloud Data Services,1995,1
+Meeting Software,1995,1
+Flash Storage,1995,1
+GPS,1995,1
+Navigation,1995,1
+Video Streaming,1995,1
+Optical Communication,1995,1
+Advice,1995,1
+FinTech,1995,1
+Business Intelligence,1995,1
+Consulting,1995,1
+Mobile,1995,1
+Apps,1995,1
+Property Management,1995,1
+Facility Management,1995,1
+Cyber Security,1995,1
+Risk Management,1995,1
+IT Management,1995,1
+Mobile,2010,209
+Publishing,2010,27
+Art,2010,7
+Digital Media,2010,36
+Search Engine,2010,34
+Universities,2010,1
+Education,2010,56
+Market Research,2010,9
+Enterprise Software,2010,169
+Retail,2010,22
+Information Technology,2010,82
+Crowdsourcing,2010,16
+Service Industry,2010,14
+Industrial,2010,3
+Biotechnology,2010,84
+Therapeutics,2010,25
+Pharmaceutical,2010,22
+SaaS,2010,109
+Software,2010,187
+Cloud Computing,2010,46
+mHealth,2010,12
+Health Care,2010,152
+iOS,2010,45
+Apps,2010,83
+Social Media,2010,114
+E-Commerce,2010,104
+Android,2010,29
+Document Management,2010,6
+Delivery,2010,9
+Sales Automation,2010,8
+CRM,2010,24
+Media and Entertainment,2010,14
+Manufacturing,2010,30
+Medical Device,2010,22
+Consumer,2010,9
+Web Browsers,2010,8
+Email Marketing,2010,7
+Personalization,2010,6
+Marketing Automation,2010,16
+Medical,2010,57
+QR Codes,2010,3
+Mobile Advertising,2010,7
+App Marketing,2010,3
+Analytics,2010,127
+Professional Services,2010,5
+Messaging,2010,26
+Celebrity,2010,2
+Sports,2010,21
+Health Diagnostics,2010,20
+Classifieds,2010,4
+Lifestyle,2010,18
+Electric Vehicle,2010,3
+Electronics,2010,7
+Sporting Goods,2010,1
+Hardware,2010,27
+Internet,2010,72
+Video Streaming,2010,11
+Concerts,2010,2
+Marketplace,2010,13
+Scheduling,2010,2
+Hospitality,2010,20
+Human Resources,2010,12
+Tourism,2010,5
+Travel,2010,18
+Outdoors,2010,2
+Financial Services,2010,28
+Restaurants,2010,15
+Non Profit,2010,12
+Life Science,2010,10
+Bioinformatics,2010,1
+Genetics,2010,9
+Clinical Trials,2010,6
+Energy Management,2010,6
+Commercial Real Estate,2010,5
+Energy Efficiency,2010,12
+E-Learning,2010,6
+3D Technology,2010,5
+Higher Education,2010,2
+Training,2010,11
+Virtualization,2010,6
+Energy Storage,2010,4
+Transportation,2010,5
+Energy,2010,17
+Social Network,2010,14
+Marketing,2010,29
+Advertising,2010,89
+Advertising Platforms,2010,14
+Wireless,2010,12
+Mobile Devices,2010,6
+Oil and Gas,2010,2
+Delivery Service,2010,1
+Telecommunications,2010,9
+Infrastructure,2010,4
+Big Data,2010,62
+Multi-level Marketing,2010,1
+Real Time,2010,31
+Web Design,2010,4
+Collaboration,2010,12
+EdTech,2010,20
+FinTech,2010,40
+Finance,2010,50
+Open Source,2010,11
+Cloud Infrastructure,2010,4
+Internet of Things,2010,14
+Communities,2010,11
+Digital Entertainment,2010,11
+Public Transportation,2010,4
+Email,2010,13
+Embedded Software,2010,1
+Content,2010,35
+Online Portals,2010,15
+A/B Testing,2010,1
+Auto Insurance,2010,3
+Insurance,2010,5
+Web Hosting,2010,15
+PaaS,2010,6
+Web Development,2010,19
+Consumer Electronics,2010,10
+Chemical,2010,2
+News,2010,23
+Business Intelligence,2010,20
+SEO,2010,7
+Music,2010,21
+IT Infrastructure,2010,2
+Brand Marketing,2010,9
+Flash Storage,2010,5
+Mobile Apps,2010,19
+Customer Service,2010,11
+Lighting,2010,3
+Artificial Intelligence,2010,17
+Machine Learning,2010,18
+Information Services,2010,18
+Banking,2010,5
+Payments,2010,26
+Accounting,2010,3
+Social Media Marketing,2010,17
+Predictive Analytics,2010,16
+Database,2010,10
+Cloud Data Services,2010,11
+Mobile Payments,2010,12
+Robotics,2010,7
+Semiconductor,2010,5
+Casual Games,2010,2
+Video Games,2010,4
+Gaming,2010,11
+Shopping,2010,11
+Fashion,2010,22
+Lead Generation,2010,4
+Presentation Software,2010,1
+Sales,2010,4
+IT Management,2010,4
+Document Preparation,2010,1
+CMS,2010,1
+Biopharma,2010,6
+Content Marketing,2010,5
+B2B,2010,12
+Content Creators,2010,5
+Skill Assessment,2010,2
+Reservations,2010,1
+Legal,2010,6
+Gamification,2010,5
+Risk Management,2010,4
+Retail Technology,2010,5
+Renewable Energy,2010,8
+Nuclear,2010,1
+Location Based Services,2010,21
+Events,2010,23
+Wedding,2010,3
+Video,2010,36
+Computer,2010,13
+Recruiting,2010,15
+Network Security,2010,6
+Cloud Security,2010,3
+Cyber Security,2010,16
+Price Comparison,2010,4
+Coupons,2010,10
+Diabetes,2010,4
+Small and Medium Businesses,2010,12
+Real Estate,2010,12
+Home and Garden,2010,2
+Vacation Rental,2010,1
+Sustainability,2010,5
+Food and Beverage,2010,8
+Developer APIs,2010,12
+Contact Management,2010,4
+Digital Marketing,2010,3
+Marijuana,2010,1
+Application Performance Management,2010,3
+Social Entrepreneurship,2010,3
+Solar,2010,8
+Consulting,2010,14
+Home Renovation,2010,2
+Veterinary,2010,2
+Social Media Management,2010,1
+Local,2010,21
+Automotive,2010,10
+Fitness,2010,17
+Wellness,2010,10
+Data Mining,2010,6
+Q&A,2010,3
+Parenting,2010,5
+Collaborative Consumption,2010,1
+Blogging Platforms,2010,5
+Credit,2010,2
+GreenTech,2010,3
+Developer Platform,2010,5
+Local Advertising,2010,5
+SMS,2010,6
+Women's,2010,2
+Task Management,2010,2
+Project Management,2010,8
+Career Planning,2010,6
+InsurTech,2010,1
+Outsourcing,2010,4
+Employment,2010,7
+Racing,2010,1
+Crowdfunding,2010,4
+Natural Language Processing,2010,6
+File Sharing,2010,7
+Photography,2010,16
+Point of Sale,2010,2
+Data Visualization,2010,5
+Beauty,2010,1
+Freelance,2010,1
+Business Development,2010,1
+Venture Capital,2010,4
+B2C,2010,1
+Charity,2010,3
+Security,2010,24
+Association,2010,1
+Jewelry,2010,5
+Photo Sharing,2010,10
+Fertility,2010,1
+Ticketing,2010,6
+Biometrics,2010,1
+Video Chat,2010,2
+Video on Demand,2010,3
+Augmented Reality,2010,9
+Computer Vision,2010,6
+Data Integration,2010,7
+Social Recruiting,2010,2
+Video Advertising,2010,1
+Language Learning,2010,3
+Wholesale,2010,2
+Wine And Spirits,2010,3
+Subscription Service,2010,4
+Credit Cards,2010,2
+Consumer Lending,2010,1
+Personal Finance,2010,5
+Personal Health,2010,2
+Event Management,2010,3
+DSP,2010,1
+Identity Management,2010,7
+Private Social Networking,2010,2
+Hedge Funds,2010,2
+Cosmetic Surgery,2010,1
+Advice,2010,3
+Tutoring,2010,6
+Social,2010,9
+Film,2010,3
+Group Buying,2010,4
+Product Design,2010,2
+Ad Network,2010,7
+Auctions,2010,4
+Ad Exchange,2010,2
+Funding Platform,2010,2
+Data Center,2010,3
+EBooks,2010,5
+Charter Schools,2010,1
+Ad Retargeting,2010,4
+Fantasy Sports,2010,1
+Logistics,2010,7
+Enterprise,2010,5
+Government,2010,4
+Psychology,2010,2
+Virtual Reality,2010,6
+Same Day Delivery,2010,1
+Billing,2010,1
+Collectibles,2010,1
+Gift Card,2010,6
+SEM,2010,1
+TV,2010,6
+Image Recognition,2010,3
+Text Analytics,2010,3
+Ediscovery,2010,7
+Semantic Web,2010,1
+Local Business,2010,3
+Audio,2010,6
+Podcast,2010,2
+Internet Radio,2010,1
+Developer Tools,2010,9
+Transaction Processing,2010,3
+Stock Exchanges,2010,1
+Wealth Management,2010,1
+Web Apps,2010,1
+Real Estate Investment,2010,1
+Nutrition,2010,1
+Craft Beer,2010,1
+Wearables,2010,8
+Hospital,2010,2
+Music Venues,2010,3
+Innovation Management,2010,2
+Nanotechnology,2010,2
+Procurement,2010,3
+Supply Chain Management,2010,2
+Communications Infrastructure,2010,3
+Compliance,2010,2
+Presentations,2010,3
+Recycling,2010,3
+Industrial Manufacturing,2010,1
+Aerospace,2010,3
+Wired Telecommunications,2010,1
+Network Hardware,2010,4
+Environmental Engineering,2010,2
+Dating,2010,2
+Online Auctions,2010,2
+Neuroscience,2010,2
+Knowledge Management,2010,2
+Speech Recognition,2010,2
+Test and Measurement,2010,4
+Property Management,2010,3
+Photo Editing,2010,1
+Ad Targeting,2010,4
+GovTech,2010,6
+Rental,2010,2
+Loyalty Programs,2010,10
+Semantic Search,2010,3
+Social Media Advertising,2010,3
+Enterprise Applications,2010,4
+Shipping,2010,1
+Men's,2010,1
+Agriculture,2010,5
+Software Engineering,2010,1
+Water,2010,2
+Cosmetics,2010,2
+Consumer Goods,2010,2
+Natural Resources,2010,2
+Journalism,2010,2
+Broadcasting,2010,1
+Content Delivery Network,2010,1
+Direct Marketing,2010,1
+Domain Registrar,2010,2
+E-Commerce Platforms,2010,2
+Privacy,2010,6
+Homeless Shelter,2010,1
+EHR,2010,1
+Mapping Services,2010,2
+Nightlife,2010,1
+VoIP,2010,2
+Affiliate Marketing,2010,1
+Online Games,2010,2
+National Security,2010,1
+Space Travel,2010,1
+Content Discovery,2010,2
+Smart Home,2010,1
+Sensor,2010,2
+Consumer Software,2010,2
+Geospatial,2010,3
+3D Printing,2010,1
+Linux,2010,2
+Food Processing,2010,2
+Cooking,2010,3
+Data Storage,2010,2
+Child Care,2010,2
+Sharing Economy,2010,1
+ERP,2010,2
+Browser Extensions,2010,1
+Social Innovation,2010,1
+Cloud Management,2010,2
+Indoor Positioning,2010,1
+Drones,2010,1
+Gambling,2010,1
+Commercial,2010,1
+Flowers,2010,1
+Clean Energy,2010,6
+Management Consulting,2010,1
+Incubators,2010,3
+Power Grid,2010,1
+Virtual World,2010,1
+Virtual Goods,2010,1
+Intelligent Systems,2010,1
+Organic Food,2010,3
+Video Conferencing,2010,1
+Data Center Automation,2010,2
+App Discovery,2010,1
+Eyewear,2010,1
+Family,2010,1
+Music Label,2010,1
+Consumer Applications,2010,1
+Music Streaming,2010,1
+Secondary Education,2010,1
+Corporate Training,2010,1
+Musical Instruments,2010,1
+Edutainment,2010,1
+Toys,2010,2
+Impact Investing,2010,1
+Home Decor,2010,1
+Interior Design,2010,2
+Satellite Communication,2010,1
+AgTech,2010,1
+Virtual Assistant,2010,1
+Advanced Materials,2010,2
+CleanTech,2010,3
+Battery,2010,2
+Children,2010,3
+Employee Benefits,2010,1
+Home Improvement,2010,1
+Rehabilitation,2010,1
+Farming,2010,2
+IaaS,2010,2
+Young Adults,2010,1
+Mechanical Engineering,2010,1
+Self-Storage,2010,1
+Cloud Storage,2010,1
+Vertical Search,2010,1
+Leisure,2010,1
+LGBT,2010,1
+Construction,2010,1
+Electrical Distribution,2010,1
+Guides,2010,1
+Teenagers,2010,1
+Pet,2010,1
+Shoes,2010,1
+Grocery,2010,1
+Angel Investment,2010,1
+Facial Recognition,2010,1
+TV Production,2010,1
+Humanitarian,2010,1
+Product Search,2010,1
+Banking,2008,2
+FinTech,2008,23
+Finance,2008,23
+Payments,2008,7
+Advertising,2008,68
+Enterprise Software,2008,97
+Video,2008,21
+Marketing,2008,13
+Analytics,2008,47
+B2B,2008,7
+Marketplace,2008,5
+Health Care,2008,107
+Audio,2008,6
+Telecommunications,2008,8
+Messaging,2008,16
+Therapeutics,2008,27
+Biotechnology,2008,93
+Pharmaceutical,2008,19
+Social Media,2008,45
+Social Media Marketing,2008,2
+Financial Services,2008,17
+Construction,2008,2
+Software,2008,111
+Security,2008,16
+SaaS,2008,43
+Genetics,2008,9
+Cyber Security,2008,7
+Email,2008,6
+Events,2008,4
+Real Estate,2008,13
+Commercial Real Estate,2008,4
+Automotive,2008,7
+Electric Vehicle,2008,2
+Hardware,2008,20
+Consumer,2008,5
+Product Research,2008,2
+Manufacturing,2008,20
+Open Source,2008,6
+Local,2008,8
+Identity Management,2008,4
+SEO,2008,7
+Mobile,2008,80
+Search Engine,2008,20
+mHealth,2008,4
+Wireless,2008,7
+Medical Device,2008,24
+Medical,2008,46
+Developer Platform,2008,9
+Semiconductor,2008,5
+Solar,2008,8
+Ad Network,2008,3
+Privacy,2008,1
+Internet,2008,41
+Cloud Data Services,2008,9
+Network Hardware,2008,1
+Education,2008,23
+Shopping,2008,9
+Fashion,2008,8
+E-Commerce,2008,58
+iOS,2008,20
+Android,2008,16
+CRM,2008,11
+App Marketing,2008,5
+Shoes,2008,1
+Big Data,2008,18
+Cloud Computing,2008,29
+Cloud Management,2008,8
+Apps,2008,26
+Food Processing,2008,1
+Information Technology,2008,31
+Data Center,2008,5
+Customer Service,2008,4
+Crowdsourcing,2008,2
+Social CRM,2008,2
+GovTech,2008,1
+Public Safety,2008,1
+Drones,2008,1
+Industrial,2008,5
+Video Games,2008,6
+Gaming,2008,11
+Market Research,2008,5
+Lighting,2008,7
+Energy,2008,11
+Internet of Things,2008,7
+Energy Efficiency,2008,6
+Energy Management,2008,6
+Web Development,2008,14
+Content,2008,15
+Wine And Spirits,2008,1
+Virtualization,2008,7
+Mobile Advertising,2008,7
+Fitness,2008,6
+Travel,2008,9
+Clinical Trials,2008,5
+Chemical,2008,4
+Fuel,2008,4
+Sustainability,2008,5
+Clean Energy,2008,4
+Renewable Energy,2008,11
+Computer,2008,11
+Web Design,2008,6
+Consumer Electronics,2008,13
+Media and Entertainment,2008,9
+Music,2008,14
+Smart Building,2008,2
+Hospital,2008,2
+Location Based Services,2008,12
+Transportation,2008,2
+Health Diagnostics,2008,28
+Digital Media,2008,16
+Service Industry,2008,7
+Wearables,2008,2
+Electronics,2008,12
+Water Purification,2008,2
+CleanTech,2008,4
+Water,2008,3
+GreenTech,2008,3
+Home Renovation,2008,1
+Video Streaming,2008,5
+Marketing Automation,2008,8
+Sales,2008,1
+Sensor,2008,3
+Industrial Automation,2008,1
+Robotics,2008,6
+Beauty,2008,4
+Biopharma,2008,6
+Developer Tools,2008,13
+Infrastructure,2008,3
+Cloud Infrastructure,2008,8
+Hospitality,2008,6
+Delivery,2008,2
+Retail,2008,11
+News,2008,10
+Consulting,2008,5
+Product Design,2008,2
+Mobile Devices,2008,5
+Photography,2008,5
+Cloud Security,2008,2
+Billing,2008,2
+Mobile Apps,2008,11
+Toys,2008,1
+Loyalty Programs,2008,2
+Publishing,2008,14
+Business Intelligence,2008,11
+Photo Sharing,2008,1
+Sports,2008,14
+Real Time,2008,14
+Food and Beverage,2008,3
+Religion,2008,1
+Blogging Platforms,2008,5
+Training,2008,4
+Direct Sales,2008,1
+Email Marketing,2008,7
+Wellness,2008,6
+Life Science,2008,5
+Industrial Manufacturing,2008,1
+Collaboration,2008,15
+Content Delivery Network,2008,2
+Agriculture,2008,2
+Small and Medium Businesses,2008,6
+SMS,2008,3
+Advertising Platforms,2008,8
+Communities,2008,3
+Advice,2008,2
+Navigation,2008,3
+Oil and Gas,2008,3
+Management Information Systems,2008,2
+Business Development,2008,2
+Data Visualization,2008,7
+Predictive Analytics,2008,6
+Machine Learning,2008,9
+Management Consulting,2008,1
+E-Commerce Platforms,2008,2
+Retail Technology,2008,3
+Knowledge Management,2008,4
+Government,2008,1
+Environmental Engineering,2008,2
+Project Management,2008,6
+Web Hosting,2008,4
+Test and Measurement,2008,3
+Gift Card,2008,2
+Advanced Materials,2008,1
+Recruiting,2008,7
+Q&A,2008,1
+Impact Investing,2008,2
+EdTech,2008,13
+Personalization,2008,4
+Brand Marketing,2008,6
+Digital Marketing,2008,4
+Printing,2008,2
+Point of Sale,2008,1
+Content Marketing,2008,1
+Ad Targeting,2008,5
+Database,2008,2
+Venture Capital,2008,4
+Angel Investment,2008,1
+Call Center,2008,2
+Social Media Management,2008,1
+Data Mining,2008,1
+Sales Automation,2008,1
+Artificial Intelligence,2008,6
+Natural Language Processing,2008,2
+Reading Apps,2008,1
+Language Learning,2008,3
+Psychology,2008,1
+Ad Server,2008,3
+Ad Retargeting,2008,1
+Eyewear,2008,1
+Semantic Search,2008,4
+Text Analytics,2008,1
+Real Estate Investment,2008,2
+Asset Management,2008,1
+Lifestyle,2008,3
+Employment,2008,3
+Farming,2008,1
+Art,2008,1
+Event Management,2008,1
+Recycling,2008,2
+Contact Management,2008,1
+Tourism,2008,2
+Architecture,2008,3
+Product Management,2008,1
+Interior Design,2008,1
+Personal Health,2008,3
+Communications Infrastructure,2008,3
+Young Adults,2008,1
+Universities,2008,1
+Data Storage,2008,3
+Document Management,2008,4
+Coupons,2008,4
+Rental,2008,1
+Residential,2008,1
+Fertility,2008,1
+Task Management,2008,3
+Pet,2008,1
+Online Portals,2008,4
+TV,2008,4
+Digital Entertainment,2008,2
+Broadcasting,2008,4
+Outdoors,2008,1
+Adventure Travel,2008,1
+Lead Management,2008,1
+Lead Generation,2008,4
+Ediscovery,2008,2
+Mapping Services,2008,1
+Power Grid,2008,1
+Local Advertising,2008,2
+Aerospace,2008,1
+Restaurants,2008,6
+Nutrition,2008,2
+Accounting,2008,3
+Franchise,2008,1
+B2C,2008,1
+Self-Storage,2008,1
+Mobile Payments,2008,1
+Subscription Service,2008,5
+Consumer Lending,2008,1
+Reputation,2008,1
+Natural Resources,2008,2
+Spam Filtering,2008,1
+Sporting Goods,2008,2
+PaaS,2008,3
+Nanotechnology,2008,4
+Augmented Reality,2008,2
+QR Codes,2008,1
+Veterinary,2008,1
+Dental,2008,1
+Intellectual Property,2008,1
+Legal,2008,5
+Productivity Tools,2008,1
+Human Resources,2008,5
+Cooking,2008,1
+Translation Service,2008,1
+Professional Services,2008,2
+Coffee,2008,1
+File Sharing,2008,5
+3D Technology,2008,5
+Alumni,2008,1
+Social Bookmarking,2008,1
+Parenting,2008,3
+Non Profit,2008,5
+Network Security,2008,4
+Public Relations,2008,2
+Freemium,2008,2
+Risk Management,2008,2
+Travel Accommodations,2008,1
+Sharing Economy,2008,1
+IT Infrastructure,2008,2
+Application Performance Management,2008,3
+Flash Storage,2008,1
+Wealth Management,2008,3
+Personal Finance,2008,3
+Stock Exchanges,2008,2
+Social Network,2008,4
+Information Services,2008,6
+Funding Platform,2008,1
+Hedge Funds,2008,1
+Crowdfunding,2008,3
+Business Information Systems,2008,1
+Presentations,2008,2
+Ticketing,2008,3
+Fleet Management,2008,1
+LGBT,2008,1
+MMO Games,2008,1
+Casual Games,2008,1
+Cloud Storage,2008,2
+Computer Vision,2008,1
+Image Recognition,2008,4
+IT Management,2008,1
+Smart Home,2008,1
+College Recruiting,2008,1
+Home and Garden,2008,1
+Green Building,2008,2
+Web Apps,2008,3
+Graphic Design,2008,2
+Outsourcing,2008,1
+Simulation,2008,1
+Battery,2008,1
+Emerging Markets,2008,1
+Resorts,2008,1
+Web Browsers,2008,3
+SEM,2008,1
+Children,2008,1
+Online Auctions,2008,3
+Content Discovery,2008,3
+Guides,2008,2
+Online Games,2008,3
+Video Conferencing,2008,4
+Fraud Detection,2008,3
+VoIP,2008,1
+Skill Assessment,2008,1
+Innovation Management,2008,2
+Waste Management,2008,1
+Virtual Currency,2008,2
+E-Learning,2008,1
+Fantasy Sports,2008,1
+Browser Extensions,2008,1
+Coworking,2008,1
+Freelance,2008,1
+Video Chat,2008,1
+Developer APIs,2008,2
+A/B Testing,2008,1
+Consumer Goods,2008,1
+Racing,2008,1
+UX Design,2008,2
+Private Cloud,2008,1
+IaaS,2008,1
+Recipes,2008,1
+Virtual Goods,2008,1
+Speech Recognition,2008,1
+Neuroscience,2008,1
+Credit,2008,1
+Direct Marketing,2008,1
+Corporate Training,2008,1
+Property Development,2008,1
+Jewelry,2008,1
+Price Comparison,2008,2
+Local Business,2008,1
+Organic Food,2008,1
+Handmade,2008,1
+Electrical Distribution,2008,1
+Logistics,2008,2
+Celebrity,2008,1
+Geospatial,2008,1
+Property Management,2008,1
+Staffing Agency,2008,1
+Energy Storage,2008,2
+Content Syndication,2008,1
+Mechanical Design,2008,1
+Food Delivery,2008,1
+Hotel,2008,1
+Insurance,2008,1
+Concerts,2008,1
+Advanced Materials,2002,3
+Manufacturing,2002,16
+Energy,2002,6
+Nanotechnology,2002,4
+Automotive,2002,2
+Electric Vehicle,2002,1
+Industrial Automation,2002,1
+Supply Chain Management,2002,4
+Enterprise Software,2002,35
+Logistics,2002,2
+Cyber Security,2002,6
+Music,2002,2
+Web Development,2002,2
+Software,2002,50
+Health Care,2002,51
+Biotechnology,2002,50
+Genetics,2002,6
+Analytics,2002,9
+Lighting,2002,2
+Apps,2002,2
+Knowledge Management,2002,1
+Information Technology,2002,13
+Biopharma,2002,7
+Medical,2002,24
+Network Security,2002,9
+Risk Management,2002,5
+Security,2002,22
+Compliance,2002,1
+Energy Efficiency,2002,2
+Therapeutics,2002,12
+Hospital,2002,7
+Medical Device,2002,16
+Wireless,2002,10
+Telecommunications,2002,6
+Semiconductor,2002,8
+Open Source,2002,4
+Payments,2002,2
+Marketing,2002,4
+Advertising,2002,11
+E-Commerce,2002,8
+Web Design,2002,1
+Financial Services,2002,4
+Task Management,2002,2
+Clean Energy,2002,1
+Renewable Energy,2002,4
+Mapping Services,2002,1
+3D Technology,2002,2
+Computer,2002,8
+Hardware,2002,8
+Cloud Computing,2002,8
+Application Performance Management,2002,3
+Wind Energy,2002,2
+Fertility,2002,1
+Business Development,2002,1
+Information Services,2002,4
+Electronics,2002,6
+Simulation,2002,2
+E-Learning,2002,3
+Education,2002,7
+Industrial,2002,2
+Health Diagnostics,2002,11
+Pharmaceutical,2002,18
+Transportation,2002,2
+Collaborative Consumption,2002,1
+Events,2002,2
+Home Decor,2002,1
+Retail,2002,5
+Furniture,2002,1
+Mobile,2002,15
+Predictive Analytics,2002,3
+Internet,2002,12
+Classifieds,2002,1
+Big Data,2002,4
+Digital Media,2002,6
+Sports,2002,1
+Food and Beverage,2002,2
+ERP,2002,1
+Consulting,2002,3
+National Security,2002,1
+Email,2002,5
+Identity Management,2002,3
+FinTech,2002,2
+Government,2002,2
+Communications Infrastructure,2002,3
+Insurance,2002,1
+iOS,2002,3
+macOS,2002,1
+Mobile Devices,2002,2
+Developer Platform,2002,2
+Photography,2002,2
+Water,2002,1
+Online Auctions,2002,1
+Advice,2002,1
+Developer Tools,2002,3
+Media and Entertainment,2002,1
+Gaming,2002,4
+eSports,2002,1
+Communities,2002,1
+Social Media,2002,4
+Video,2002,2
+SaaS,2002,14
+Photo Sharing,2002,1
+ICT,2002,1
+Web Hosting,2002,7
+Tourism,2002,2
+Leisure,2002,1
+Travel,2002,2
+Messaging,2002,2
+Life Science,2002,3
+Social,2002,2
+Aerospace,2002,2
+Sustainability,2002,1
+Cloud Security,2002,3
+Marketing Automation,2002,1
+CleanTech,2002,2
+Environmental Engineering,2002,1
+Fuel,2002,1
+Internet Radio,2002,1
+File Sharing,2002,1
+PaaS,2002,1
+Green Consumer Goods,2002,1
+Digital Entertainment,2002,2
+Market Research,2002,2
+Consumer,2002,1
+Broadcasting,2002,1
+News,2002,1
+Small and Medium Businesses,2002,1
+Customer Service,2002,1
+Construction,2002,2
+Professional Services,2002,1
+Fossil Fuels,2002,1
+Project Management,2002,3
+Hedge Funds,2002,1
+Finance,2002,2
+Technical Support,2002,1
+Advertising Platforms,2002,4
+Consumer Electronics,2002,1
+Space Travel,2002,1
+Communication Hardware,2002,1
+Crowdsourcing,2002,2
+Fashion,2002,1
+Beauty,2002,1
+Robotics,2002,2
+Virtualization,2002,3
+Data Integration,2002,1
+IaaS,2002,1
+Career Planning,2002,1
+Agriculture,2002,2
+Biofuel,2002,1
+Mobile Apps,2002,1
+Cloud Data Services,2002,1
+Training,2002,1
+Consumer Applications,2002,1
+Enterprise Applications,2002,1
+Product Design,2002,2
+EDA,2002,1
+Infrastructure,2002,2
+PC Games,2002,1
+Video Games,2002,1
+Virtual Reality,2002,1
+Embedded Systems,2002,1
+DSP,2002,2
+Recruiting,2002,1
+Staffing Agency,2002,1
+Skill Assessment,2002,1
+EdTech,2002,1
+Tutoring,2002,1
+Internet of Things,2002,2
+Real Estate,2002,1
+Service Industry,2002,1
+Commercial Real Estate,2002,1
+Optical Communication,2002,2
+B2B,2002,1
+Wealth Management,2002,1
+Industrial Manufacturing,2002,1
+Banking,2002,1
+Enterprise,2002,1
+GreenTech,2002,1
+Solar,2002,1
+IT Infrastructure,2002,1
+Delivery,2002,1
+Architecture,2002,1
+Social Media Marketing,2002,1
+SEM,2002,1
+CRM,2002,1
+Contact Management,2002,1
+Credit,2002,1
+Business Intelligence,2002,1
+VoIP,2002,2
+Search Engine,2002,2
+Privacy,2002,1
+Auctions,2002,1
+Android,2002,2
+Brewing,2002,1
+Public Relations,2002,1
+Publishing,2002,1
+Online Portals,2002,1
+Collaboration,2002,1
+SEO,2002,1
+Legal,2002,1
+mHealth,2002,1
+Organic Food,2002,1
+Human Resources,2002,1
+Health Care,2005,61
+Medical,2005,34
+Personalization,2005,3
+Mobile,2005,57
+Children,2005,1
+Fitness,2005,3
+Biotechnology,2005,74
+Diabetes,2005,3
+Internet of Things,2005,2
+Wireless,2005,13
+Software,2005,68
+Customer Service,2005,7
+Stock Exchanges,2005,1
+FinTech,2005,9
+Finance,2005,9
+Web Hosting,2005,11
+Cloud Computing,2005,20
+Cloud Infrastructure,2005,4
+Infrastructure,2005,8
+Apps,2005,11
+Personal Health,2005,1
+Real Time,2005,5
+B2C,2005,1
+Shopping,2005,6
+Online Portals,2005,4
+Emerging Markets,2005,1
+Marketplace,2005,3
+Digital Media,2005,16
+E-Commerce,2005,17
+B2B,2005,2
+Trading Platform,2005,3
+Therapeutics,2005,28
+Biopharma,2005,7
+Retail,2005,6
+SaaS,2005,28
+Enterprise Software,2005,58
+Network Hardware,2005,1
+File Sharing,2005,4
+Battery,2005,1
+Electronics,2005,9
+Mobile Devices,2005,6
+Credit Cards,2005,1
+Marketing,2005,16
+Advertising,2005,45
+Consulting,2005,7
+Medical Device,2005,27
+Information Technology,2005,29
+Financial Services,2005,7
+Network Security,2005,5
+Test and Measurement,2005,4
+Security,2005,13
+Ad Network,2005,5
+Advertising Platforms,2005,10
+Web Design,2005,2
+Computer,2005,5
+CleanTech,2005,3
+Biomass Energy,2005,1
+Biofuel,2005,1
+Robotics,2005,5
+Hardware,2005,15
+PaaS,2005,3
+Mobile Apps,2005,7
+Sales,2005,2
+Health Diagnostics,2005,13
+Travel Agency,2005,1
+Travel,2005,3
+Travel Accommodations,2005,1
+Manufacturing,2005,19
+Consumer Electronics,2005,3
+Video,2005,23
+Application Performance Management,2005,2
+Energy,2005,8
+Solar,2005,4
+3D Technology,2005,2
+Product Design,2005,2
+Social Network,2005,9
+Social Media,2005,17
+Publishing,2005,13
+Construction,2005,3
+iOS,2005,2
+Music,2005,9
+Search Engine,2005,12
+Developer APIs,2005,4
+Ediscovery,2005,2
+Pharmaceutical,2005,22
+Clinical Trials,2005,3
+Knowledge Management,2005,3
+Restaurants,2005,4
+Collaboration,2005,8
+Farming,2005,1
+Agriculture,2005,2
+Chemical,2005,2
+Text Analytics,2005,3
+Artificial Intelligence,2005,6
+Computer Vision,2005,1
+Machine Learning,2005,4
+Big Data,2005,11
+Food and Beverage,2005,2
+Analytics,2005,28
+Business Intelligence,2005,5
+Fuel,2005,4
+Fossil Fuels,2005,1
+Renewable Energy,2005,5
+Accounting,2005,2
+Payments,2005,2
+Market Research,2005,3
+Adventure Travel,2005,1
+Tourism,2005,2
+Enterprise,2005,4
+Database,2005,3
+Web Browsers,2005,3
+Video Conferencing,2005,1
+Messaging,2005,14
+Video Chat,2005,1
+Developer Platform,2005,3
+Service Industry,2005,9
+Content,2005,11
+Optical Communication,2005,2
+Virtualization,2005,4
+Education,2005,4
+Tutoring,2005,2
+Email,2005,3
+Gift Card,2005,1
+Brand Marketing,2005,6
+Internet,2005,26
+Media and Entertainment,2005,6
+News,2005,8
+Photography,2005,7
+Photo Editing,2005,1
+SEO,2005,3
+Content Marketing,2005,1
+Digital Entertainment,2005,4
+Video Streaming,2005,3
+Government,2005,2
+Email Marketing,2005,1
+Marketing Automation,2005,2
+Social Media Marketing,2005,5
+Logistics,2005,3
+Genetics,2005,3
+Non Profit,2005,3
+Charity,2005,1
+Business Development,2005,4
+Developer Tools,2005,7
+Delivery,2005,2
+Information Services,2005,7
+Web Development,2005,4
+Real Estate,2005,4
+Risk Management,2005,3
+Navigation,2005,2
+Android,2005,1
+Ad Targeting,2005,4
+Price Comparison,2005,2
+Gaming,2005,5
+Broadcasting,2005,1
+Photo Sharing,2005,2
+Presentations,2005,1
+Property Management,2005,1
+Local,2005,2
+Art,2005,1
+Handmade,2005,1
+VoIP,2005,4
+EHR,2005,1
+Hospital,2005,1
+IT Management,2005,1
+Credit,2005,1
+Architecture,2005,1
+Energy Efficiency,2005,3
+Clean Energy,2005,3
+Environmental Engineering,2005,3
+Data Storage,2005,3
+Semantic Search,2005,4
+Semiconductor,2005,7
+Data Center,2005,1
+Oil and Gas,2005,1
+Insurance,2005,3
+Lead Management,2005,1
+Banking,2005,1
+Energy Management,2005,1
+Power Grid,2005,1
+Smart Home,2005,1
+Recycling,2005,1
+Professional Services,2005,3
+Ticketing,2005,2
+Communities,2005,2
+Social Media Management,2005,2
+Identity Management,2005,3
+Intelligent Systems,2005,2
+Flash Storage,2005,3
+Wellness,2005,3
+Management Information Systems,2005,1
+Physical Security,2005,1
+App Marketing,2005,3
+Telecommunications,2005,5
+Product Search,2005,2
+Outsourcing,2005,1
+Supply Chain Management,2005,2
+Consumer,2005,1
+Sports,2005,3
+Social Bookmarking,2005,1
+Human Resources,2005,2
+Video Games,2005,5
+Cyber Security,2005,3
+Online Games,2005,4
+Automotive,2005,3
+Public Transportation,2005,1
+Data Integration,2005,5
+Energy Storage,2005,1
+Lending,2005,1
+Personal Finance,2005,1
+Crowdfunding,2005,1
+Blogging Platforms,2005,1
+Cloud Storage,2005,2
+Open Source,2005,7
+Cloud Data Services,2005,1
+Speech Recognition,2005,1
+Natural Language Processing,2005,2
+Audio,2005,7
+Wearables,2005,1
+Subscription Service,2005,1
+EBooks,2005,1
+MMO Games,2005,1
+Virtual Reality,2005,1
+Debit Cards,2005,1
+Consumer Lending,2005,1
+Lead Generation,2005,2
+CRM,2005,4
+Virtual Assistant,2005,1
+Point of Sale,2005,1
+Gamification,2005,2
+Nightlife,2005,1
+Concerts,2005,1
+Events,2005,2
+Fashion,2005,1
+Food Processing,2005,1
+Beauty,2005,1
+Billing,2005,2
+Small and Medium Businesses,2005,1
+Film,2005,1
+Meeting Software,2005,1
+Neuroscience,2005,1
+Transportation,2005,1
+Aerospace,2005,1
+Parking,2005,1
+Location Based Services,2005,4
+Mobile Advertising,2005,1
+DSP,2005,1
+Virtual Desktop,2005,1
+Creative Agency,2005,1
+Document Management,2005,1
+Predictive Analytics,2005,1
+Data Visualization,2005,1
+Linux,2005,1
+Public Relations,2005,1
+Hospitality,2005,3
+Classifieds,2005,1
+Auctions,2005,1
+Ad Retargeting,2005,1
+Graphic Design,2005,1
+Project Management,2005,1
+DIY,2005,1
+Crowdsourcing,2005,1
+Web Apps,2005,1
+Direct Marketing,2005,2
+Rental,2005,1
+Retirement,2005,1
+InsurTech,2005,1
+Reputation,2005,1
+Employment,2005,1
+Career Planning,2005,1
+Legal,2005,1
+Life Science,2005,1
+Water Purification,2005,1
+Natural Resources,2005,1
+Semantic Web,2005,1
+E-Learning,2005,1
+Content Delivery Network,2005,1
+Browser Extensions,2005,1
+Musical Instruments,2005,1
+Advice,2005,1
+Local Advertising,2005,1
+Residential,2005,1
+Journalism,2005,1
+Scheduling,2005,1
+Cloud Security,2005,1
+Marketing,1998,5
+Enterprise Software,1998,21
+Cloud Data Services,1998,2
+Logistics,1998,2
+Printing,1998,2
+Brand Marketing,1998,3
+Internet,1998,21
+Business Development,1998,3
+B2B,1998,2
+Financial Services,1998,4
+Marketplace,1998,3
+Price Comparison,1998,1
+Consumer Goods,1998,1
+Tea,1998,1
+Organic,1998,1
+VoIP,1998,2
+Software,1998,28
+Therapeutics,1998,7
+Biotechnology,1998,27
+Medical,1998,14
+Computer,1998,3
+Developer APIs,1998,1
+Cyber Security,1998,2
+Content,1998,4
+Business Information Systems,1998,1
+Service Industry,1998,6
+Web Development,1998,3
+Event Management,1998,1
+Email,1998,4
+Social Media Marketing,1998,1
+Messaging,1998,3
+Email Marketing,1998,2
+Health Care,1998,27
+Pharmaceutical,1998,11
+Navigation,1998,2
+Oil and Gas,1998,2
+Transportation,1998,2
+Agriculture,1998,1
+Medical Device,1998,12
+Manufacturing,1998,12
+Consulting,1998,3
+Neuroscience,1998,2
+CRM,1998,3
+Education,1998,5
+Payments,1998,4
+Cloud Computing,1998,11
+Finance,1998,6
+Web Hosting,1998,13
+Cloud Security,1998,1
+Market Research,1998,2
+Hospital,1998,2
+Wellness,1998,2
+Online Forums,1998,1
+Online Auctions,1998,2
+Professional Services,1998,2
+Home Services,1998,1
+Genetics,1998,1
+Health Diagnostics,1998,3
+SaaS,1998,6
+IaaS,1998,2
+Information Technology,1998,13
+Recycling,1998,1
+Waste Management,1998,1
+Water Purification,1998,1
+Advanced Materials,1998,2
+Retail,1998,4
+E-Commerce,1998,8
+Shopping,1998,2
+Fashion,1998,1
+Indoor Positioning,1998,1
+Advertising,1998,4
+Mobile,1998,6
+E-Learning,1998,2
+EdTech,1998,2
+Tutoring,1998,1
+Content Delivery Network,1998,1
+Digital Signage,1998,1
+Information Services,1998,4
+Hospitality,1998,2
+Hotel,1998,1
+Virtual World,1998,2
+Collaboration,1998,2
+Freelance,1998,1
+Outsourcing,1998,2
+Communications Infrastructure,1998,3
+Communication Hardware,1998,1
+Analytics,1998,5
+Banking,1998,1
+Telecommunications,1998,11
+Sports,1998,2
+Data Center,1998,3
+Optical Communication,1998,1
+Audio,1998,1
+Consumer Electronics,1998,1
+Energy,1998,2
+Intellectual Property,1998,2
+Legal,1998,2
+Digital Media,1998,3
+Social Media,1998,4
+Construction,1998,1
+Solar,1998,1
+Product Design,1998,2
+Life Science,1998,3
+Video,1998,2
+DSP,1998,2
+Search Engine,1998,2
+Business Intelligence,1998,1
+National Security,1998,1
+Security,1998,6
+Risk Management,1998,2
+Battery,1998,1
+Electronics,1998,3
+Local Advertising,1998,1
+Loyalty Programs,1998,1
+Training,1998,2
+Infrastructure,1998,4
+Blogging Platforms,1998,1
+Ad Network,1998,1
+Video Streaming,1998,1
+Cloud Management,1998,2
+Cloud Infrastructure,1998,1
+Mobile Payments,1998,2
+Transaction Processing,1998,1
+FinTech,1998,1
+E-Commerce Platforms,1998,1
+Affiliate Marketing,1998,1
+Coupons,1998,1
+Art,1998,1
+ISP,1998,2
+Wireless,1998,5
+Customer Service,1998,1
+Clinical Trials,1998,1
+Semiconductor,1998,1
+Sales Automation,1998,1
+Gamification,1998,2
+Supply Chain Management,1998,1
+iOS,1998,1
+Hardware,1998,5
+Chemical,1998,1
+GreenTech,1998,1
+Data Mining,1998,1
+Social Network,1998,1
+Real Time,1998,2
+Developer Platform,1998,1
+Virtual Reality,1998,1
+Online Games,1998,1
+Children,1998,1
+Gaming,1998,1
+Mobile Apps,1998,1
+Big Data,1998,1
+Enterprise Applications,1998,1
+Advice,1998,1
+Enterprise,1998,2
+Identity Management,1998,1
+Developer Tools,1998,2
+PC Games,1998,1
+Small and Medium Businesses,1998,1
+Local Shopping,1998,1
+Operating Systems,1998,1
+IT Infrastructure,1998,1
+Data Integration,1998,1
+Open Source,1998,3
+Browser Extensions,1998,1
+Web Browsers,1998,2
+Restaurants,1998,1
+Reservations,1998,1
+Communities,1998,1
+Lead Generation,1998,1
+Consumer,1998,1
+Artificial Intelligence,1998,1
+EHR,1998,1
+Point of Sale,1998,1
+Human Resources,1998,1
+Media and Entertainment,1998,1
+Broadcasting,1998,1
+App Marketing,1998,1
+Homeland Security,1998,1
+News,1998,1
+mHealth,1998,1
+Internet,2003,13
+EBooks,2003,1
+E-Commerce,2003,16
+Social Media,2003,10
+Public Relations,2003,3
+Sports,2003,3
+Biotechnology,2003,36
+Health Diagnostics,2003,12
+Medical,2003,23
+Health Care,2003,31
+Therapeutics,2003,10
+Marketing,2003,8
+Advertising,2003,15
+Content Marketing,2003,1
+Digital Marketing,2003,1
+Shopping,2003,2
+Auctions,2003,1
+Homeland Security,2003,1
+Physical Security,2003,1
+Security,2003,10
+ISP,2003,1
+Video,2003,9
+Web Hosting,2003,9
+Pharmaceutical,2003,12
+Medical Device,2003,16
+Hospital,2003,3
+Genetics,2003,2
+Flash Storage,2003,3
+Self-Storage,2003,2
+Enterprise Software,2003,38
+Robotics,2003,2
+Mobile,2003,10
+Software,2003,59
+Hardware,2003,10
+Customer Service,2003,3
+Messaging,2003,4
+Communications Infrastructure,2003,3
+Semiconductor,2003,11
+Women's,2003,1
+Service Industry,2003,6
+Tourism,2003,3
+Travel,2003,6
+Diabetes,2003,1
+IT Infrastructure,2003,2
+Virtualization,2003,3
+Electronics,2003,9
+Consumer Electronics,2003,4
+Real Time,2003,3
+Analytics,2003,15
+Manufacturing,2003,12
+Laser,2003,1
+Information Technology,2003,19
+Developer Platform,2003,3
+Lead Generation,2003,1
+SaaS,2003,14
+Cloud Computing,2003,8
+Marketing Automation,2003,3
+B2B,2003,2
+CRM,2003,4
+Photography,2003,5
+Image Recognition,2003,1
+Employment,2003,3
+Recruiting,2003,3
+Social Network,2003,9
+Computer,2003,10
+Renewable Energy,2003,6
+Wind Energy,2003,1
+Solar,2003,1
+Real Estate,2003,2
+Sales,2003,1
+Online Portals,2003,2
+TV,2003,1
+Ad Network,2003,1
+Publishing,2003,3
+Mobile Apps,2003,2
+Predictive Analytics,2003,2
+Machine Learning,2003,2
+Location Based Services,2003,1
+Trading Platform,2003,2
+Online Games,2003,3
+Casual Games,2003,1
+Gaming,2003,5
+Developer Tools,2003,3
+Mechanical Engineering,2003,1
+Content,2003,3
+Incubators,2003,1
+Consulting,2003,4
+Commercial,2003,2
+Music,2003,7
+Film,2003,1
+Animation,2003,1
+Events,2003,2
+Staffing Agency,2003,1
+Finance,2003,5
+Hedge Funds,2003,1
+SEO,2003,2
+FinTech,2003,2
+Parenting,2003,1
+Digital Media,2003,5
+Marketplace,2003,4
+Market Research,2003,2
+Social Media Marketing,2003,2
+Email,2003,4
+Email Marketing,2003,3
+Sensor,2003,3
+Open Source,2003,4
+Telecommunications,2003,9
+Virtual Workforce,2003,1
+Nanotechnology,2003,1
+Product Design,2003,2
+Payments,2003,3
+Financial Services,2003,4
+Industrial Automation,2003,2
+Logistics,2003,2
+Automotive,2003,4
+Warehousing,2003,1
+Ticketing,2003,1
+Public Safety,2003,1
+Car Sharing,2003,1
+Taxi Service,2003,1
+Data Center,2003,4
+Data Storage,2003,1
+Virtual Desktop,2003,1
+Video Conferencing,2003,3
+CleanTech,2003,5
+Energy,2003,4
+Oil and Gas,2003,1
+Energy Storage,2003,3
+Clean Energy,2003,2
+Lighting,2003,1
+Navigation,2003,2
+Coupons,2003,1
+Retail,2003,5
+IT Management,2003,4
+Management Information Systems,2003,1
+Innovation Management,2003,3
+Shipping,2003,1
+Freight Service,2003,1
+Intrusion Detection,2003,1
+Risk Management,2003,1
+Supply Chain Management,2003,2
+Smart Home,2003,1
+Energy Management,2003,1
+Training,2003,1
+Career Planning,2003,3
+Data Integration,2003,4
+Advertising Platforms,2003,1
+Cloud Security,2003,1
+Identity Management,2003,1
+Consumer,2003,2
+Wellness,2003,1
+Fitness,2003,1
+Search Engine,2003,3
+Universities,2003,2
+EdTech,2003,1
+Education,2003,2
+National Security,2003,1
+Intelligent Systems,2003,2
+Wireless,2003,4
+Real Estate Investment,2003,1
+Shipping Broker,2003,1
+Transportation,2003,2
+Public Transportation,2003,1
+Digital Entertainment,2003,1
+Adventure Travel,2003,1
+Wearables,2003,1
+3D Technology,2003,1
+Digital Signage,2003,1
+Cloud Management,2003,2
+Professional Services,2003,2
+Professional Networking,2003,1
+Social Recruiting,2003,1
+Cloud Data Services,2003,2
+Non Profit,2003,1
+Semantic Search,2003,1
+Data Visualization,2003,2
+Business Intelligence,2003,4
+VoIP,2003,3
+Unified Communications,2003,1
+Call Center,2003,1
+Subscription Service,2003,2
+Billing,2003,2
+Q&A,2003,1
+Advice,2003,2
+Video Streaming,2003,3
+Content Creators,2003,1
+Coffee,2003,1
+Handmade,2003,1
+Restaurants,2003,2
+Intellectual Property,2003,2
+Mobile Devices,2003,2
+Information Services,2003,3
+Cloud Infrastructure,2003,2
+Ad Exchange,2003,1
+Chemical,2003,4
+Wedding,2003,1
+EDA,2003,2
+Video Games,2003,2
+Web Development,2003,2
+Collaboration,2003,2
+Asset Management,2003,1
+Software Engineering,2003,1
+PaaS,2003,1
+Enterprise Applications,2003,1
+Freemium,2003,1
+Life Science,2003,1
+Brand Marketing,2003,1
+Cosmetics,2003,1
+Beauty,2003,1
+iOS,2003,1
+Biofuel,2003,1
+Biomass Energy,2003,1
+Power Grid,2003,1
+Retail Technology,2003,1
+Fashion,2003,1
+Biopharma,2003,1
+Home Decor,2003,1
+Compliance,2003,1
+Infrastructure,2003,1
+Smart Building,2003,1
+Media and Entertainment,2003,1
+Industrial,2003,1
+Big Data,2003,3
+Apps,2003,2
+RFID,2003,1
+GPS,2003,2
+Data Mining,2003,1
+Fuel,2003,1
+Semantic Web,2003,2
+Database,2003,1
+Project Management,2003,1
+Network Security,2003,1
+Energy Efficiency,2003,1
+Ediscovery,2003,1
+MMO Games,2003,1
+Android,2003,1
+Natural Language Processing,2003,1
+Neuroscience,2003,1
+Rental,2003,1
+Local Business,2003,1
+Business Development,2003,1
+Small and Medium Businesses,2003,1
+Enterprise,2003,2
+Advanced Materials,2003,2
+Computer Vision,2003,1
+Battery,2003,1
+Human Resources,2003,1
+Private Cloud,2003,1
+Aerospace,2003,2
+Chemical Engineering,2003,1
+Outsourcing,2003,1
+Food and Beverage,1972,1
+Restaurants,1972,1
+Food Processing,1972,1
+Retail,1972,1
+Supply Chain Management,1972,1
+Software,1972,1
+CRM,1972,1
+Health Care,1972,1
+Big Data,1972,1
+Computer,1972,1
+Internet of Things,1972,1
+Consulting,1972,1
+Analytics,1972,1
+Events,1994,1
+Parking,1994,1
+Software,1994,8
+Therapeutics,1994,1
+Medical Device,1994,1
+Biotechnology,1994,2
+Enterprise,1994,1
+Social,1994,2
+Enterprise Software,1994,5
+News,1994,2
+Publishing,1994,3
+Audio,1994,1
+Online Games,1994,1
+Gaming,1994,1
+Online Portals,1994,2
+Lighting,1994,1
+Manufacturing,1994,2
+Electronics,1994,1
+Delivery,1994,2
+Commercial,1994,1
+Industrial Automation,1994,1
+Consulting,1994,1
+Information Technology,1994,5
+Mobile,1994,6
+SaaS,1994,2
+Security,1994,2
+iOS,1994,1
+Collaboration,1994,1
+Data Center,1994,1
+Health Insurance,1994,1
+Life Insurance,1994,1
+Document Management,1994,1
+Computer,1994,1
+Finance,1994,3
+Shopping,1994,1
+E-Commerce,1994,3
+Digital Signage,1994,1
+Human Resources,1994,1
+Career Planning,1994,1
+Wireless,1994,3
+Telecommunications,1994,3
+Analytics,1994,1
+Transportation,1994,1
+Semiconductor,1994,2
+RFID,1994,1
+Cyber Security,1994,1
+Network Security,1994,1
+Law Enforcement,1994,1
+Business Development,1994,1
+Search Engine,1994,1
+Email,1994,1
+SEO,1994,1
+Financial Services,1994,1
+Advertising,1994,1
+GPS,1994,1
+Agriculture,1994,1
+Industrial,1994,1
+Ediscovery,1994,1
+Cloud Computing,1994,1
+Mobile Apps,1994,1
+Small and Medium Businesses,1994,1
+Infrastructure,1994,1
+Retail,1994,1
+Internet,1994,1
+Crowdsourcing,1994,1
+Video,1994,1
+Video Streaming,1994,1
+Pharmaceutical,1994,1
+Health Care,1994,1
+Hardware,1994,1
+VoIP,1994,1
+Wearables,2007,7
+Parenting,2007,1
+Hardware,2007,14
+Health Care,2007,85
+Outsourcing,2007,3
+Cyber Security,2007,10
+Software,2007,106
+Therapeutics,2007,20
+Biotechnology,2007,84
+Life Science,2007,7
+Consulting,2007,5
+Non Profit,2007,7
+Loyalty Programs,2007,1
+Payments,2007,9
+FinTech,2007,19
+Internet,2007,45
+E-Commerce,2007,39
+Shopping,2007,6
+Advertising,2007,67
+Publishing,2007,15
+Tea,2007,1
+Retail,2007,11
+Hospitality,2007,3
+SaaS,2007,48
+Clinical Trials,2007,6
+Continuing Education,2007,1
+Education,2007,21
+Biopharma,2007,9
+Medical Device,2007,32
+Medical,2007,43
+Mobile,2007,68
+Video Streaming,2007,13
+Advertising Platforms,2007,12
+Video,2007,37
+Analytics,2007,54
+Digital Media,2007,13
+Ad Targeting,2007,5
+Enterprise Software,2007,83
+Translation Service,2007,1
+Computer,2007,3
+Content,2007,17
+Open Source,2007,6
+Information Technology,2007,39
+Market Research,2007,7
+Test and Measurement,2007,3
+Search Engine,2007,16
+Social Media Marketing,2007,5
+Cloud Computing,2007,29
+Service Industry,2007,8
+IT Management,2007,4
+Cloud Security,2007,2
+Artificial Intelligence,2007,7
+Sales Automation,2007,3
+Machine Learning,2007,6
+Customer Service,2007,8
+CRM,2007,9
+Brand Marketing,2007,13
+Social Media Management,2007,4
+Trading Platform,2007,2
+Social Network,2007,9
+Finance,2007,23
+Big Data,2007,20
+Data Visualization,2007,5
+Genetics,2007,10
+Pharmaceutical,2007,28
+Data Integration,2007,5
+Restaurants,2007,1
+Marketplace,2007,9
+Travel,2007,11
+Web Browsers,2007,5
+Advanced Materials,2007,2
+Industrial,2007,4
+Manufacturing,2007,25
+Web Development,2007,15
+Developer Tools,2007,10
+Web Design,2007,4
+Solar,2007,12
+Energy Efficiency,2007,7
+SMS,2007,4
+Delivery,2007,2
+Supply Chain Management,2007,2
+Public Relations,2007,5
+CleanTech,2007,8
+Energy,2007,21
+Oil and Gas,2007,3
+Social Media,2007,42
+Location Based Services,2007,9
+Digital Signage,2007,1
+News,2007,17
+Music,2007,14
+Events,2007,10
+Email,2007,5
+Apps,2007,25
+Personal Health,2007,4
+Health Diagnostics,2007,9
+Clean Energy,2007,8
+Banking,2007,2
+Telecommunications,2007,8
+B2B,2007,3
+Information Services,2007,5
+Wealth Management,2007,2
+Predictive Analytics,2007,3
+Real Estate,2007,7
+Recruiting,2007,7
+Social Recruiting,2007,1
+College Recruiting,2007,1
+Web Apps,2007,3
+Real Time,2007,14
+Public Transportation,2007,2
+Transportation,2007,9
+Marketing,2007,20
+Wireless,2007,8
+Electrical Distribution,2007,3
+Virtualization,2007,10
+Security,2007,24
+Collaboration,2007,16
+Document Management,2007,6
+Virtual Goods,2007,1
+Virtual Desktop,2007,1
+Financial Services,2007,8
+Cloud Data Services,2007,5
+Human Resources,2007,4
+Data Storage,2007,1
+Electric Vehicle,2007,3
+Electronics,2007,6
+VoIP,2007,3
+Marketing Automation,2007,7
+Database,2007,7
+Chemical,2007,5
+EBooks,2007,1
+Lifestyle,2007,4
+Wellness,2007,8
+iOS,2007,14
+Sports,2007,10
+Fitness,2007,12
+Android,2007,11
+Risk Management,2007,2
+Biofuel,2007,2
+Dietary Supplements,2007,1
+Nutrition,2007,2
+Photography,2007,6
+Flash Storage,2007,2
+Web Hosting,2007,11
+SEM,2007,2
+Building Material,2007,1
+Construction,2007,1
+Religion,2007,1
+Video Chat,2007,2
+Small and Medium Businesses,2007,7
+Water Purification,2007,1
+Water,2007,1
+Recycling,2007,1
+Waste Management,2007,1
+Product Design,2007,5
+Messaging,2007,16
+Mobile Apps,2007,13
+DSP,2007,1
+Lead Management,2007,3
+Mobile Advertising,2007,3
+Email Marketing,2007,1
+Digital Marketing,2007,4
+Art,2007,6
+Biomass Energy,2007,1
+PaaS,2007,3
+Fantasy Sports,2007,2
+Gaming,2007,9
+Shoes,2007,2
+Fashion,2007,11
+Content Discovery,2007,5
+Blogging Platforms,2007,7
+Dental,2007,1
+Content Creators,2007,2
+Credit,2007,3
+Personal Finance,2007,4
+Consumer Lending,2007,2
+3D Printing,2007,3
+Video Advertising,2007,1
+Ad Exchange,2007,1
+Innovation Management,2007,2
+Content Marketing,2007,2
+Auctions,2007,1
+Energy Storage,2007,4
+Digital Entertainment,2007,2
+Media and Entertainment,2007,6
+Career Planning,2007,5
+Local,2007,5
+Online Portals,2007,8
+Mobile Payments,2007,3
+Retail Technology,2007,5
+Furniture,2007,1
+Diabetes,2007,2
+Semantic Web,2007,2
+Homeland Security,2007,2
+Ad Network,2007,6
+Social News,2007,4
+Consumer Reviews,2007,2
+Event Management,2007,1
+Developer Platform,2007,5
+Universities,2007,3
+MMO Games,2007,1
+EdTech,2007,7
+Professional Services,2007,1
+Consumer Electronics,2007,5
+Renewable Energy,2007,7
+Asset Management,2007,1
+Social Media Advertising,2007,1
+Guides,2007,1
+Business Intelligence,2007,8
+Accounting,2007,6
+Legal,2007,4
+Transaction Processing,2007,1
+Social CRM,2007,2
+Lead Generation,2007,4
+Content Delivery Network,2007,1
+Sensor,2007,3
+Data Center,2007,2
+Infrastructure,2007,6
+Environmental Engineering,2007,1
+Employment,2007,4
+Data Mining,2007,3
+App Marketing,2007,2
+Green Building,2007,1
+Automotive,2007,11
+Enterprise,2007,4
+Semiconductor,2007,4
+Photo Sharing,2007,3
+Beauty,2007,6
+Ticketing,2007,2
+Concerts,2007,2
+Cloud Management,2007,2
+Bioinformatics,2007,1
+Video Editing,2007,1
+mHealth,2007,1
+Communities,2007,6
+Celebrity,2007,1
+Coupons,2007,2
+Internet of Things,2007,9
+File Sharing,2007,5
+Network Security,2007,5
+Billing,2007,3
+Battery,2007,4
+Video on Demand,2007,1
+Video Games,2007,8
+3D Technology,2007,2
+Serious Games,2007,1
+Identity Management,2007,3
+Private Social Networking,2007,1
+Public Safety,2007,1
+Primary Education,2007,1
+Power Grid,2007,2
+GovTech,2007,2
+Ride Sharing,2007,3
+Grocery,2007,1
+Ediscovery,2007,2
+Intelligent Systems,2007,1
+Emerging Markets,2007,1
+Social Bookmarking,2007,3
+Audio,2007,2
+Logistics,2007,2
+Advice,2007,1
+Fraud Detection,2007,2
+SEO,2007,4
+Peer to Peer,2007,1
+Higher Education,2007,1
+Textbook,2007,1
+PC Games,2007,2
+Mobile Devices,2007,2
+Dating,2007,2
+CivicTech,2007,1
+Crowdsourcing,2007,4
+Home Decor,2007,1
+Navigation,2007,2
+Lending,2007,2
+Venture Capital,2007,3
+Developer APIs,2007,2
+E-Learning,2007,2
+GreenTech,2007,1
+Energy Management,2007,1
+Robotics,2007,5
+Autonomous Vehicles,2007,3
+Management Information Systems,2007,1
+Field Support,2007,1
+IT Infrastructure,2007,2
+Data Center Automation,2007,1
+Knowledge Management,2007,2
+Browser Extensions,2007,2
+Social,2007,3
+TV,2007,4
+Facebook,2007,2
+Meeting Software,2007,1
+Scheduling,2007,1
+Subscription Service,2007,1
+Crowdfunding,2007,1
+Communications Infrastructure,2007,2
+Semantic Search,2007,1
+Virtual Reality,2007,2
+Broadcasting,2007,1
+Product Management,2007,1
+Intellectual Property,2007,1
+SNS,2007,1
+Consumer,2007,1
+Women's,2007,1
+Video Conferencing,2007,2
+Journalism,2007,2
+Reputation,2007,1
+Government,2007,1
+Computer Vision,2007,1
+Industrial Automation,2007,1
+Textiles,2007,1
+Private Cloud,2007,1
+Optical Communication,2007,1
+Tourism,2007,1
+Hospital,2007,2
+Content Syndication,2007,1
+Personal Branding,2007,2
+Business Development,2007,2
+Hedge Funds,2007,1
+Film Production,2007,1
+Direct Sales,2007,2
+Car Sharing,2007,1
+Sharing Economy,2007,1
+Wine And Spirits,2007,2
+Nanotechnology,2007,2
+Cloud Storage,2007,2
+Online Games,2007,2
+Travel Accommodations,2007,1
+Travel Agency,2007,1
+Classifieds,2007,1
+Politics,2007,1
+Casual Games,2007,1
+Podcast,2007,1
+Film,2007,2
+Mapping Services,2007,1
+Commercial Real Estate,2007,1
+Lighting,2007,2
+Underserved Children,2007,1
+NFC,2007,1
+Cloud Infrastructure,2007,1
+Virtual Currency,2007,1
+Credit Cards,2007,2
+Shipping,2007,1
+Toys,2007,1
+Jewelry,2007,1
+Bitcoin,2007,1
+Graphic Design,2007,1
+Natural Resources,2007,1
+Corporate Training,2007,1
+Tutoring,2007,1
+Network Hardware,2007,1
+Cosmetics,2007,1
+Consumer Applications,2007,1
+Enterprise Applications,2007,1
+Price Comparison,2007,1
+Language Learning,2007,1
+Charter Schools,2007,1
+Software,1980,2
+Enterprise Software,1980,3
+Asset Management,1980,1
+Therapeutics,1980,1
+Genetics,1980,1
+Biotechnology,1980,2
+Health Care,1980,1
+Telecommunications,1980,1
+Audio,1980,1
+Consumer Electronics,1980,2
+Advertising,1980,1
+Art,1980,1
+Mobile,1980,2
+Lifestyle,1980,1
+iOS,1980,1
+Medical Device,1980,1
+Developer Platform,1980,1
+Information Technology,1980,1
+Information Services,1980,1
+Film,1980,1
+Broadcasting,1980,1
+3D Technology,1980,1
+Electronics,1980,1
+Ticketing,1980,1
+E-Learning,1997,1
+Education,1997,3
+Non Profit,1997,1
+Health Care,1997,21
+Biotechnology,1997,17
+Test and Measurement,1997,1
+Clinical Trials,1997,2
+Consulting,1997,3
+Local,1997,2
+Medical,1997,10
+Biopharma,1997,2
+Life Science,1997,2
+Genetics,1997,5
+Restaurants,1997,2
+Hardware,1997,5
+Electronics,1997,4
+Manufacturing,1997,8
+Small and Medium Businesses,1997,1
+Information Technology,1997,13
+Web Hosting,1997,1
+Software,1997,17
+Internet,1997,10
+File Sharing,1997,1
+Collaboration,1997,6
+Pharmaceutical,1997,4
+Health Diagnostics,1997,4
+Enterprise Software,1997,15
+Sensor,1997,1
+Photography,1997,3
+Service Industry,1997,5
+VoIP,1997,2
+Telecommunications,1997,7
+Communications Infrastructure,1997,2
+Food and Beverage,1997,2
+Organic Food,1997,1
+Fruit,1997,1
+Wireless,1997,4
+ISP,1997,1
+Medical Device,1997,4
+GreenTech,1997,1
+Chemical,1997,1
+Natural Resources,1997,1
+Customer Service,1997,3
+CRM,1997,2
+SaaS,1997,5
+E-Commerce,1997,11
+Consumer,1997,2
+Marketplace,1997,1
+Therapeutics,1997,3
+Neuroscience,1997,2
+Network Hardware,1997,1
+Information Services,1997,1
+Coupons,1997,1
+Shopping,1997,2
+Advertising,1997,4
+Fashion,1997,3
+Email,1997,2
+Online Auctions,1997,2
+Crowdsourcing,1997,1
+Celebrity,1997,1
+Video,1997,2
+News,1997,1
+Content,1997,1
+Journalism,1997,1
+Events,1997,1
+Transportation,1997,2
+Leisure,1997,2
+Ticketing,1997,1
+Travel,1997,2
+Mobile,1997,8
+Hospitality,1997,1
+Cyber Security,1997,4
+Security,1997,8
+Email Marketing,1997,1
+Marketing,1997,4
+Ad Network,1997,1
+Product Design,1997,3
+3D Technology,1997,1
+Computer,1997,3
+Web Browsers,1997,1
+Industrial,1997,3
+Toys,1997,1
+Energy Efficiency,1997,2
+Laser,1997,1
+Clean Energy,1997,1
+Energy,1997,1
+Solar,1997,1
+Call Center,1997,1
+Financial Services,1997,4
+Compliance,1997,1
+Finance,1997,3
+Training,1997,2
+Automotive,1997,2
+Virtualization,1997,1
+Web Design,1997,1
+Web Development,1997,1
+Leasing,1997,1
+Mobile Devices,1997,1
+Social Media,1997,1
+Interior Design,1997,1
+B2B,1997,1
+Furniture,1997,1
+Retail,1997,5
+Digital Entertainment,1997,2
+Consumer Electronics,1997,2
+Data Storage,1997,1
+Enterprise,1997,1
+Network Security,1997,4
+Women's,1997,1
+Privacy,1997,1
+Video Streaming,1997,1
+FMCG,1997,1
+Sporting Goods,1997,2
+Outdoors,1997,1
+Big Data,1997,3
+Business Intelligence,1997,2
+Analytics,1997,3
+Lifestyle,1997,1
+Architecture,1997,1
+Semiconductor,1997,2
+Recreational Vehicles,1997,1
+Electric Vehicle,1997,1
+Wholesale,1997,1
+Real Time,1997,1
+Messaging,1997,1
+Video Conferencing,1997,1
+Application Performance Management,1997,1
+Data Visualization,1997,1
+Cloud Computing,1997,1
+Career Planning,1997,1
+Digital Media,1997,1
+Machine Learning,1997,1
+Sports,1997,1
+Augmented Reality,1997,2
+Innovation Management,1997,1
+Oil and Gas,1997,1
+Power Grid,1997,1
+Marketing Automation,1997,1
+Advice,1997,1
+Lighting,1997,1
+Lending,1997,1
+Risk Management,1997,1
+Recruiting,1997,1
+Human Resources,1997,1
+Music,1997,1
+Eyewear,1997,1
+Project Management,1997,1
+Bioinformatics,1997,1
+Fraud Detection,1997,1
+Identity Management,1997,2
+Spam Filtering,1997,1
+Big Data,1989,1
+Information Technology,1989,1
+Cloud Computing,1989,1
+Collaboration,1989,1
+Enterprise Applications,1989,1
+Banking,1989,1
+Finance,1989,1
+Financial Services,1989,1
+Telecommunications,1989,2
+Web Hosting,1989,1
+Infrastructure,1989,1
+Internet,1989,3
+Art,1989,1
+E-Commerce,1989,1
+Cyber Security,1989,1
+Virtualization,1989,2
+Cloud Data Services,1989,1
+Software,1989,4
+Homeland Security,1989,1
+QR Codes,1989,1
+Mobile,1989,2
+Wireless,1989,4
+Apps,1989,2
+Therapeutics,1989,2
+Medical,1989,4
+Health Care,1989,4
+Pharmaceutical,1989,2
+Biotechnology,1989,6
+Manufacturing,1989,5
+Biopharma,1989,1
+Air Transportation,1989,1
+Aerospace,1989,1
+Hardware,1989,2
+Enterprise Software,1989,3
+SaaS,1989,2
+Automotive,1989,1
+Semiconductor,1989,1
+Retail,1989,1
+Fashion,1989,1
+Medical Device,1989,1
+Solar,1989,1
+CleanTech,1989,1
+Railroad,1989,1
+Transportation,1989,1
+Supply Chain Management,1989,1
+ERP,1989,1
+IT Infrastructure,1989,1
+Internet of Things,1989,1
+Network Security,1989,1
+Agriculture,1989,1
+Renewable Energy,1989,1
+Fuel,1989,1
+Farming,1989,1
+Flash Storage,1989,1
+Business Development,1989,1
+Fitness,1899,1
+Wellness,1899,1
+Health Care,1899,1
+Consulting,1899,1
+Banking,1899,1
+Finance,1899,1
+Manufacturing,1931,1
+Telecommunications,1992,3
+Web Hosting,1992,2
+Infrastructure,1992,1
+Marketing,1992,1
+Medical Device,1992,3
+Biotechnology,1992,13
+Manufacturing,1992,3
+Health Diagnostics,1992,1
+Genetics,1992,1
+Pharmaceutical,1992,4
+Chemical,1992,1
+Energy,1992,1
+Big Data,1992,1
+Internet of Things,1992,1
+Information Technology,1992,3
+Enterprise Software,1992,4
+Cloud Data Services,1992,1
+Data Integration,1992,1
+Cloud Infrastructure,1992,1
+Cloud Computing,1992,1
+Software,1992,6
+Marketing Automation,1992,1
+Lead Generation,1992,2
+Analytics,1992,1
+Health Care,1992,11
+Navigation,1992,1
+Delivery,1992,1
+Content,1992,1
+Advertising,1992,1
+Ad Targeting,1992,1
+Internet,1992,1
+Medical,1992,6
+Consulting,1992,2
+Information Services,1992,1
+Therapeutics,1992,2
+Wellness,1992,1
+Security,1992,1
+Mobile,1992,1
+Wireless,1992,1
+Biopharma,1992,1
+Legal,1992,1
+Advice,1992,1
+Service Industry,1992,1
+Hardware,1992,2
+Marketplace,1992,1
+Web Development,1992,1
+Hospital,1992,1
+Clinical Trials,1992,1
+Commercial,1992,1
+Beauty,1992,1
+Retail,1992,1
+E-Commerce,1992,1
+Marketplace,1956,1
+Internet,1956,1
+E-Commerce,1956,1
+Automotive,1956,1
+Enterprise Software,1956,1
+Communities,1990,1
+Service Industry,1990,1
+Health Care,1990,7
+Biotechnology,1990,5
+Clinical Trials,1990,1
+Manufacturing,1990,3
+Robotics,1990,1
+Hardware,1990,2
+Consumer Electronics,1990,1
+Software,1990,6
+Information Technology,1990,5
+Enterprise Software,1990,3
+Consulting,1990,3
+Internet Radio,1990,1
+Music,1990,2
+News,1990,1
+Navigation,1990,1
+Medical Device,1990,1
+Outsourcing,1990,2
+Advertising,1990,1
+Real Estate Investment,1990,1
+Video Streaming,1990,1
+Photography,1990,1
+Cyber Security,1990,1
+Video,1990,1
+Human Resources,1990,1
+Health Diagnostics,1990,2
+Security,1990,1
+Small and Medium Businesses,1990,1
+Messaging,1990,1
+VoIP,1990,1
+Telecommunications,1990,1
+Pharmaceutical,1990,1
+Therapeutics,1990,1
+Cloud Infrastructure,1990,1
+Business Intelligence,1990,1
+Customer Service,1990,1
+CRM,1990,1
+Text Analytics,1990,1
+Contact Management,1990,1
+IT Infrastructure,1990,1
+Marketing,1990,1
+E-Commerce,1990,2
+Electrical Distribution,1990,1
+Semiconductor,1990,1
+Medical,1990,1
+Wellness,1990,1
+Men's,1990,1
+Sports,1990,1
+Network Security,1983,1
+Data Integration,1983,1
+Enterprise Software,1983,3
+Sports,1983,1
+Sporting Goods,1983,1
+Retail,1983,1
+Speech Recognition,1983,1
+Analytics,1983,2
+Service Industry,1983,2
+Health Care,1983,4
+Knowledge Management,1983,1
+Social Network,1983,1
+Biotechnology,1983,4
+Pharmaceutical,1983,1
+Recruiting,1983,1
+College Recruiting,1983,1
+Therapeutics,1983,2
+Robotics,1983,1
+Medical,1983,1
+Consumer,1983,1
+Accounting,1983,2
+PaaS,1983,1
+Construction,1983,1
+Industrial,1983,1
+Information Technology,1983,1
+Restaurants,1983,1
+Hospitality,1983,1
+Solar,1983,1
+Energy,1983,1
+Renewable Energy,1983,1
+Energy Efficiency,1983,1
+SaaS,1983,1
+B2B,1983,1
+Semiconductor,1983,1
+Infrastructure,1983,1
+Wireless,1983,1
+Biopharma,1983,1
+Consulting,1983,1
+Management Consulting,1983,1
+Finance,1983,1
+Risk Management,1983,1
+Web Design,1983,1
+Content,1983,1
+E-Commerce,1983,1
+Advertising,1983,1
+SEO,1983,1
+Telecommunications,1987,1
+Wireless,1987,1
+Mobile,1987,1
+Navigation,1987,1
+Environmental Engineering,1987,1
+Infrastructure,1987,1
+Energy,1987,2
+Energy Management,1987,1
+Solar,1987,2
+Fuel Cell,1987,1
+Fuel,1987,1
+Manufacturing,1987,3
+Health Care,1987,2
+Fitness,1987,1
+Developer Platform,1987,1
+Management Information Systems,1987,1
+Software,1987,5
+Oil and Gas,1987,1
+FinTech,1987,1
+Enterprise Software,1987,1
+Computer,1987,1
+Sales,1987,1
+Retail,1987,1
+Security,1987,2
+Consumer Goods,1987,1
+Fashion,1987,1
+Network Security,1987,1
+Identity Management,1987,1
+Renewable Energy,1987,1
+Wind Energy,1987,1
+Health Diagnostics,1987,1
+Hardware,1987,1
+Hospitality,1987,1
+Biotechnology,1987,1
+Information Technology,1987,1
+Farming,1987,1
+Hydroponics,1987,1
+Supply Chain Management,1987,1
+Logistics,1987,1
+Health Care,1993,5
+Medical,1993,2
+E-Learning,1993,1
+Internet,1993,2
+Web Hosting,1993,2
+Information Technology,1993,3
+Enterprise Software,1993,3
+Public Relations,1993,1
+Computer,1993,1
+Manufacturing,1993,5
+Biotechnology,1993,6
+Wireless,1993,1
+Network Hardware,1993,1
+Brewing,1993,1
+E-Commerce,1993,2
+Telecommunications,1993,1
+Service Industry,1993,2
+Software,1993,11
+Financial Services,1993,3
+Payments,1993,2
+Retail,1993,2
+FinTech,1993,1
+Billing,1993,1
+Finance,1993,2
+Dental,1993,1
+Health Diagnostics,1993,2
+Speech Recognition,1993,1
+Audio,1993,1
+Pharmaceutical,1993,1
+Biopharma,1993,2
+Cloud Management,1993,2
+Infrastructure,1993,1
+Cloud Computing,1993,1
+Digital Media,1993,2
+Consulting,1993,5
+CRM,1993,1
+Advice,1993,1
+Media and Entertainment,1993,1
+TV,1993,1
+Film,1993,1
+Developer Tools,1993,1
+Aerospace,1993,1
+Consumer,1993,1
+IT Infrastructure,1993,1
+Software Engineering,1993,1
+Marketing,1993,1
+News,1993,1
+Advertising,1993,1
+Publishing,1993,1
+Industrial,1993,1
+Broadcasting,1993,1
+Content Delivery Network,1993,1
+Big Data,1993,1
+Analytics,1993,1
+SaaS,1993,1
+Supply Chain Management,1993,1
+Logistics,1993,1
+Business Intelligence,1993,1
+Hardware,1993,1
+Virtualization,1993,1
+GPU,1993,1
+Therapeutics,1993,1
+Mobile,1993,1
+Electronics,1993,1
+Medical Device,1993,1
+Sporting Goods,1993,1
+Outdoors,1993,1
+Brand Marketing,1993,1
+Messaging,1993,1
+Video,1993,1
+Open Source,1993,1
+Tourism,1993,1
+Travel,1993,1
+Laser,1993,1
+Consumer Electronics,1993,1
+Therapeutics,1991,2
+Biotechnology,1991,3
+Health Diagnostics,1991,2
+Health Care,1991,3
+Software,1991,2
+Aerospace,1991,1
+Manufacturing,1991,3
+Content,1991,1
+Video,1991,1
+Enterprise Software,1991,4
+Medical Device,1991,1
+Developer Platform,1991,1
+Information Technology,1991,3
+Document Management,1991,1
+Marketing,1991,1
+Mobile,1991,2
+Advertising,1991,1
+Database,1991,1
+Analytics,1991,2
+Data Storage,1991,1
+Energy Management,1991,1
+Energy,1991,1
+Internet,1991,2
+CleanTech,1991,1
+Hardware,1991,2
+Security,1991,2
+Sensor,1991,1
+Wellness,1991,1
+Fitness,1991,1
+Cyber Security,1991,1
+Test and Measurement,1991,1
+Network Security,1991,1
+Government,1991,1
+Risk Management,1991,1
+Property Management,1991,1
+Air Transportation,1991,1
+Telecommunications,1991,1
+Travel,1991,1
+Transportation,1991,1
+Computer,1991,1
+Product Design,1960,1
+Innovation Management,1960,1
+Mobile Apps,2017,2
+Media and Entertainment,2017,4
+Music Venues,2017,2
+Restaurants,2017,1
+Travel,2017,2
+Real Estate,2017,2
+Social Entrepreneurship,2017,1
+Shopping,2017,1
+E-Commerce,2017,9
+Machine Learning,2017,2
+Biotechnology,2017,5
+Pharmaceutical,2017,1
+Artificial Intelligence,2017,9
+Social Network,2017,2
+Internet,2017,8
+Pet,2017,1
+Computer,2017,3
+Software,2017,12
+Automotive,2017,2
+Transportation,2017,2
+Autonomous Vehicles,2017,2
+Funerals,2017,1
+Apps,2017,2
+Health Care,2017,8
+Medical,2017,1
+Life Science,2017,1
+Drone Management,2017,1
+Computer Vision,2017,3
+SaaS,2017,6
+Drones,2017,1
+3D Technology,2017,1
+EdTech,2017,2
+Neuroscience,2017,1
+B2B,2017,1
+Marketplace,2017,2
+Sharing Economy,2017,1
+Jewelry,2017,1
+Furniture,2017,3
+Lifestyle,2017,2
+Fitness,2017,2
+Developer Tools,2017,2
+Developer Platform,2017,1
+Customer Service,2017,2
+Web Development,2017,1
+3D Printing,2017,2
+ERP,2017,1
+Enterprise Software,2017,2
+Manufacturing,2017,2
+Consumer Goods,2017,1
+Retail,2017,1
+Information Technology,2017,4
+Financial Services,2017,1
+Financial Exchanges,2017,2
+Video Streaming,2017,1
+Music Streaming,2017,3
+Music,2017,3
+Professional Services,2017,2
+Social Media,2017,3
+Advertising Platforms,2017,1
+Content Delivery Network,2017,1
+Video,2017,1
+Retail Technology,2017,1
+Simulation,2017,1
+Virtual Reality,2017,2
+Crowdfunding,2017,1
+Therapeutics,2017,1
+Religion,2017,1
+Education,2017,1
+Information Services,2017,2
+Software Engineering,2017,1
+Consumer Electronics,2017,1
+Mobile Devices,2017,2
+Smart Home,2017,1
+Virtual Assistant,2017,1
+Analytics,2017,2
+Big Data,2017,2
+Application Performance Management,2017,1
+Robotics,2017,1
+Cryptocurrency,2017,2
+Management Information Systems,2017,1
+Machinery Manufacturing,2017,1
+Mobile,2017,1
+Alternative Medicine,2017,1
+Wellness,2017,2
+Human Resources,2017,1
+Recruiting,2017,2
+iOS,2017,1
+Food and Beverage,2017,1
+Nightlife,2017,1
+Brand Marketing,2017,1
+Employment,2017,1
+E-Learning,2017,1
+Video Advertising,2017,2
+Digital Media,2017,2
+Console Games,2017,1
+Gaming,2017,1
+FinTech,2017,3
+Banking,2017,1
+Lending,2017,1
+Employee Benefits,2017,1
+Personalization,2017,1
+Social Media Marketing,2017,1
+Predictive Analytics,2017,2
+Mobile Advertising,2017,1
+Reputation,2017,1
+Marketing Automation,2017,2
+Data Mining,2017,1
+Digital Marketing,2017,2
+CRM,2017,1
+Social Media Management,2017,2
+Email Marketing,2017,1
+Data Visualization,2017,1
+Image Recognition,2017,1
+Professional Networking,2017,1
+Sales Automation,2017,1
+Government,2017,2
+GovTech,2017,1
+Law Enforcement,2017,1
+mHealth,2017,1
+Psychology,2017,1
+Cloud Data Services,2017,1
+Market Research,2017,1
+Broadcasting,2017,1
+Test and Measurement,2017,1
+Electronics,2017,1
+Data Center,2017,1
+Lighting,2017,1
+Semiconductor,2017,1
+Internet of Things,2017,1
+Satellite Communication,2017,1
+Energy Efficiency,2017,1
+Medical Device,2017,1
+Building Material,2017,1
+Health Diagnostics,1985,1
+Biotechnology,1985,2
+Women's,1985,1
+Health Care,1985,3
+News,1985,2
+Security,1985,1
+Education,1985,1
+Insurance,1985,1
+Finance,1985,1
+Analytics,1985,1
+Information Technology,1985,1
+Software,1985,3
+Professional Services,1985,1
+Management Information Systems,1985,1
+Consulting,1985,2
+Cloud Infrastructure,1985,1
+Online Portals,1985,2
+Cloud Data Services,1985,1
+Digital Media,1985,1
+Advertising Platforms,1985,1
+Content Creators,1985,1
+Mobile,1985,2
+Medical Device,1985,1
+Enterprise Software,1985,1
+Hardware,1985,1
+Wireless,1985,1
+Lifestyle,1985,1
+Art,1985,1
+Retail,1985,2
+E-Commerce,1985,1
+Wholesale,1985,1
+Supply Chain Management,1985,1
+SaaS,1979,1
+Life Science,1979,1
+Health Care,1979,2
+Travel,1979,1
+Manufacturing,1979,2
+Publishing,1979,1
+Information Services,1979,1
+Education,1979,1
+Internet,1979,1
+News,1979,1
+Medical,1979,1
+Biotechnology,1979,1
+Information Technology,1979,1
+Computer,1979,1
+Software,1979,1
+Social Media,1979,1
+Internet of Things,1979,1
+Enterprise Software,1979,1
+Telecommunications,1979,1
+ISP,1979,1
+Mobile,1979,1
+Cyber Security,1984,1
+Network Security,1984,1
+Virtualization,1984,2
+Real Time,1984,1
+Enterprise Software,1984,3
+Mobile,1984,1
+Hardware,1984,2
+Computer,1984,1
+Manufacturing,1984,2
+Medical,1984,1
+Biotechnology,1984,1
+Biopharma,1984,1
+Financial Services,1984,1
+FinTech,1984,1
+Accounting,1984,1
+Advanced Materials,1984,1
+Enterprise,1984,1
+Software,1984,2
+Shopping,1984,1
+Lifestyle,1984,1
+Fashion,1984,1
+Communications Infrastructure,1984,1
+Real Estate,1984,1
+Property Management,1984,1
+Infrastructure,1984,1
+Construction,1984,1
+Wireless,1984,1
+Intellectual Property,1984,1
+Semiconductor,1984,1
+Financial Services,1986,1
+Online Portals,1986,1
+Crowdfunding,1986,1
+Electronics,1986,2
+Semiconductor,1986,1
+Manufacturing,1986,1
+Image Recognition,1986,1
+Training,1986,2
+Venture Capital,1986,1
+Energy Efficiency,1986,1
+Energy,1986,1
+Security,1986,2
+Impact Investing,1986,1
+Software,1986,2
+Biotechnology,1986,1
+Genetics,1986,1
+Health Diagnostics,1986,1
+Pet,1986,1
+Retail,1986,1
+Retail Technology,1986,1
+Mobile,1986,1
+Communications Infrastructure,1986,1
+Optical Communication,1986,1
+Medical,1986,1
+Health Care,1986,2
+Therapeutics,1986,1
+Hardware,1986,2
+Augmented Reality,1986,1
+Gaming,1986,1
+Data Center,1986,1
+Internet,1986,1
+Video,1986,1
+Digital Media,1986,1
+Apps,1986,1
+Enterprise Software,1986,1
+Information Technology,1986,1
+Software,1973,1
+Internet,1973,1
+Computer,1973,1
+Banking,1973,1
+Education,1973,1
+Finance,1973,1
+Health Diagnostics,1978,1
+Biotechnology,1978,1
+Marketing,1978,1
+Electronics,1978,1
+Shopping,1978,1
+Retail,1978,1
+E-Commerce,1978,1
+Education,1981,1
+Printing,1981,1
+Medical,1981,1
+Information Technology,1981,1
+Health Care,1981,1
+Electronics,1981,1
+Software,1981,2
+Hardware,1981,1
+Semiconductor,1981,1
+Manufacturing,1981,1
+Solar,1969,1
+Biotechnology,1969,1
+Renewable Energy,1969,2
+Fuel,1969,1
+Manufacturing,1969,2
+Semiconductor,1969,1
+Electronics,1969,1
+Information Technology,1969,1
+Scheduling,1969,1
+Q&A,1969,1
+Health Care,1969,1
+Medical,1969,1
+Higher Education,1954,1
+E-Learning,1954,1
+Education,1954,1
+Telecommunications,1954,1
+Web Hosting,1954,1
+VoIP,1954,1
+EdTech,1914,1
+Music,1914,1
+Music Education,1914,1
+Medical Device,1952,1
+Biotechnology,1952,1
+Pet,1952,1
+VoIP,1988,1
+Messaging,1988,1
+Information Technology,1988,2
+Call Center,1988,1
+Unified Communications,1988,1
+SaaS,1988,3
+Public Safety,1988,1
+Risk Management,1988,2
+Transportation,1988,2
+Enterprise Applications,1988,1
+Software,1988,3
+Enterprise Software,1988,1
+Mobile Apps,1988,1
+IT Management,1988,1
+Analytics,1988,1
+Music,1988,1
+Satellite Communication,1988,1
+Internet Radio,1988,1
+News,1988,1
+Security,1988,1
+Medical Device,1988,1
+Health Care,1988,2
+Pharmaceutical,1988,1
+Hardware,1988,1
+Speech Recognition,1988,1
+Trading Platform,1988,1
+Financial Exchanges,1988,1
+Finance,1988,1
+Legal,1988,1
+Document Management,1988,1
+Consulting,1988,1
+Mobile,1988,1
+Digital Media,1988,1
+Publishing,1988,1
+Infrastructure,1988,1
+Web Hosting,1988,1
+Financial Services,1988,1
+Insurance,1988,1
+Biotechnology,1988,1
+Health Care,1949,1
+Medical Device,1949,1
+Biotechnology,1949,1
+Health Diagnostics,1949,1
+Consulting,1949,1
+Outsourcing,1949,1
+Environmental Consulting,1965,1
+Energy,1965,1
+Renewable Energy,1965,1
+Home Decor,1965,1
+Home Renovation,1965,1
+Manufacturing,1965,1
+Biotechnology,1891,1
+Medical,1891,1
+Health Care,1891,1
+Biotechnology,1982,1
+Health Care,1982,1
+Therapeutics,1982,1
+Food Processing,1982,1
+Real Estate,1982,2
+Information Services,1982,1
+Information Technology,1982,2
+Analytics,1982,1
+Geospatial,1982,1
+Computer,1982,2
+Cyber Security,1982,1
+Security,1982,1
+Web Development,1982,1
+Video Games,1982,2
+Telecommunications,1982,1
+Software,1982,2
+Manufacturing,1982,1
+Wireless,1982,1
+PC Games,1982,1
+Gaming,1982,1
+Hardware,1982,1
+Real Estate Investment,1982,1
+Commercial Real Estate,1982,1
+Internet,1917,1
+Retail,1917,1
+E-Commerce,1917,1
+Advertising,1851,1
+Internet,1851,1
+News,1851,1
+Publishing,1851,1
+Manufacturing,1851,1
+Software,1906,1
+Information Technology,1906,1
+Hardware,1906,1
+Consumer,1906,1
+Medical,1906,1
+Health Care,1906,1
+3D Technology,1970,1
+Optical Communication,1970,1
+Manufacturing,1970,2
+Medical Device,1970,1
+Health Care,1970,1
+Public Safety,1975,1
+Software,1975,1
+Geospatial,1975,1
+Energy Efficiency,1975,1
+Location Based Services,1975,1
+Professional Services,1975,1
+Network Security,1975,1
+Video,1975,1
+Smart Home,1975,1
+Energy Management,1975,1
+Physical Security,1975,1
+Security,1975,1
+Agriculture,1863,1
+Biotechnology,1863,1
+Chemical,1863,1
+Health Care,1921,1
+Non Profit,1921,1
+Jewelry,1950,1
+E-Commerce Platforms,1950,1
+Retail,1950,1
+Manufacturing,1885,1
+Logistics,1885,1
+Hospital,1971,1
+Medical,1971,1
+Health Care,1971,1
+Medical,1929,1
+Hospital,1929,1
+Health Care,1929,1
+Venture Capital,1953,1
+Finance,1953,1
+Health Care,1953,1
+Energy,1953,1
+Oil and Gas,1953,1
+Energy Efficiency,1953,1
+Textiles,1865,1
+Consumer,1919,1
+Retail,1919,1
+Retail Technology,1919,1
+Direct Marketing,1923,1
+Analytics,1923,1
+Customer Service,1923,1
+Data Visualization,1923,1
+Electronics,1976,2
+Security,1976,1
+Construction,1976,1
+Hardware,1976,1
+Consumer Electronics,1976,1
+Retail,1976,1
+Semiconductor,1976,1
+Manufacturing,1976,1
+Marketing,1976,1
+Health Care,1924,1
+Wellness,1924,1
+Audio,1967,1
+Consumer Electronics,1967,1
+Hardware,1967,1
+Infrastructure,1955,1
+Product Search,1955,1
+Manufacturing,1955,1
+Industrial,1957,1
+Apps,1957,1
+Manufacturing,1957,1
+Transportation,1957,1
+Retail,1968,1
+Seafood,1968,1
+Restaurants,1968,1
+Product Design,1968,1
+Semiconductor,1968,1
+Manufacturing,1968,1
+Hardware,1968,1
+Mobile,1968,1
+Broadcasting,1968,1
+Audio,1968,1
+Developer Platform,1942,1
+National Security,1942,1
+Aerospace,1942,1
+Manufacturing,1942,1
+Biotechnology,1977,1
+Pharmaceutical,1977,1
+Health Care,1977,1
+Consumer,1927,1
+Automotive,1927,1
+Manufacturing,1927,1
+Software,1898,1
+Digital Media,1898,1
+Broadcasting,1898,1
+Advice,1902,1
+Banking,1902,1
+Financial Services,1902,1
+Wealth Management,1902,1
+Cloud Computing,1974,1
+Operating Systems,1974,1
+Enterprise Software,1974,1
+Collaboration,1974,1
+Developer Tools,1974,1
+Energy,1889,1
+CleanTech,1889,1
+Electrical Distribution,1889,1
+Non Profit,1911,1

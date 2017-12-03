@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>StartupsVis</title>
+    <link rel="stylesheet" href="style.css"/>
+    <!--<script src="https://d3js.org/d3.v4.min.js"></script>-->
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <!--<<script type="text/javascript" src="bower_components/d3/d3.js"></script>-->
+    <!--<script type="text/javascript" src="bower_components/d3-tip/index.js"></script>-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.9.0/d3-legend.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Bungee+Shade|Lato|Monoton|Teko|Play" rel="stylesheet">
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1 class="site-title">Visualization of United States Startups</h1>
+    </div>
+
+    <div id="page" data-chart="LocationChart">
+        <div class="focus" id="focus">
+            <a class="focus_return" href="javascript:void(0)" id="focus-return">Return</a>
+            <div class="focus_name" id="focus-name">United States</div>
+            <div class="focus_chart" id="go-chart-year">
+                <div class="focus_item"><span>Number of Startups</span><span class="focus_icon"></span></div>
+                <div class="focus_number _bold" id="focus-startup-count"></div>
+            </div>
+            <div class="focus_chart" id="go-chart-employment">
+                <div class="focus_item"><span>Employment</span><span class="focus_icon"></span></div>
+                <div class="focus_number" id="focus-employment"></div>
+            </div>
+            <div class="focus_item"><span>Top 10 of Markets</span></div>
+            <div class="focus_list" id="focus-markets">
+                <ul></ul>
+            </div>
+            <div class="project-members">
+                <div class="project-members_title">Project Members</div>
+                <ul>
+                    <li>Lin Jia [u1091732]</li>
+                    <li>Yaodong Zhao [u1054985]</li>
+                    <li>Joris Gahery [u1178638]</li>
+                </ul>
+            </div>
+        </div>
+        <svg></svg>
+    </div>
+</div>
+<script type="application/javascript" src="js/chart-map.js"></script>
+<script type="application/javascript" src="js/chart-year.js"></script>
+<script type="application/javascript" src="js/chart-employment.js"></script>
+<script type="application/javascript" src="js/dispatcher.js"></script>
+<script defer>
+    new Dispatcher();
+</script>
+</body>
+</html>
